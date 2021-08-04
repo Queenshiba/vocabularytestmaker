@@ -1,0 +1,9504 @@
+{
+  "target1900": [
+    {
+      "number": 1,
+      "eng": "create",
+      "jpn": "を創り出す；を引き起こす"
+    },
+    {
+      "number": 2,
+      "eng": "increase",
+      "jpn": "増加する（⇔ decrease ⇒ 223）；を増やす"
+    },
+    {
+      "number": 3,
+      "eng": "improve",
+      "jpn": "を向上させる；よくなる"
+    },
+    {
+      "number": 4,
+      "eng": "mean",
+      "jpn": "を意味する；（...する）つもりである（to do）"
+    },
+    {
+      "number": 5,
+      "eng": "own",
+      "jpn": "を所有している；（事実・罪など）を認める"
+    },
+    {
+      "number": 6,
+      "eng": "include",
+      "jpn": "を含む（⇔ exclude ⇒ 1009）"
+    },
+    {
+      "number": 7,
+      "eng": "consider",
+      "jpn": "を見なす；について考える"
+    },
+    {
+      "number": 8,
+      "eng": "allow",
+      "jpn": "を許す；を与える；（～を）考慮に入れる（for）"
+    },
+    {
+      "number": 9,
+      "eng": "suggest",
+      "jpn": "を提案する；を暗示する"
+    },
+    {
+      "number": 10,
+      "eng": "produce",
+      "jpn": "を生産する；を取り出す"
+    },
+    {
+      "number": 11,
+      "eng": "decide",
+      "jpn": "を決める；に決着をつける"
+    },
+    {
+      "number": 12,
+      "eng": "offer",
+      "jpn": "を提供する，申し出る"
+    },
+    {
+      "number": 13,
+      "eng": "require",
+      "jpn": "を要求する；を必要とする"
+    },
+    {
+      "number": 14,
+      "eng": "share",
+      "jpn": "を共有する；を分担する"
+    },
+    {
+      "number": 15,
+      "eng": "store",
+      "jpn": "を保存する；を蓄える"
+    },
+    {
+      "number": 16,
+      "eng": "tend",
+      "jpn": "傾向がある；を世話する"
+    },
+    {
+      "number": 17,
+      "eng": "concern",
+      "jpn": "〔受身形で〕心配している；〔受身形で〕（～に）関係する（with）；に関連する"
+    },
+    {
+      "number": 18,
+      "eng": "describe",
+      "jpn": "について述べる，を説明する"
+    },
+    {
+      "number": 19,
+      "eng": "involve",
+      "jpn": "を関与させる；を伴う"
+    },
+    {
+      "number": 20,
+      "eng": "reduce",
+      "jpn": "を減らす；を（～に）変える（to）"
+    },
+    {
+      "number": 21,
+      "eng": "design",
+      "jpn": "を設計する；を計画する"
+    },
+    {
+      "number": 22,
+      "eng": "force",
+      "jpn": "に強いる；を強要する"
+    },
+    {
+      "number": 23,
+      "eng": "limit",
+      "jpn": "を制限［規制］する"
+    },
+    {
+      "number": 24,
+      "eng": "bear",
+      "jpn": "に耐える（≒ endure ⇒ 824）；を負う；を産む；を（心に）抱く"
+    },
+    {
+      "number": 25,
+      "eng": "affect",
+      "jpn": "に影響を及ぼす（≒ influence ⇒ 49）；を感動させる"
+    },
+    {
+      "number": 26,
+      "eng": "deal",
+      "jpn": "〔deal withで〕を処理する；〔deal inで〕を商う；を分配する"
+    },
+    {
+      "number": 27,
+      "eng": "avoid",
+      "jpn": "を避ける"
+    },
+    {
+      "number": 28,
+      "eng": "relate",
+      "jpn": "を関連づける；（～に）関連する（to）"
+    },
+    {
+      "number": 29,
+      "eng": "realize",
+      "jpn": "に気づく；を実現する"
+    },
+    {
+      "number": 30,
+      "eng": "encourage",
+      "jpn": "を奨励する；を励ます（⇔ discourage ⇒ 706）"
+    },
+    {
+      "number": 31,
+      "eng": "compare",
+      "jpn": "を比較する；を（～に）たとえる（to）"
+    },
+    {
+      "number": 32,
+      "eng": "measure",
+      "jpn": "を測る；を（比較して）評価する"
+    },
+    {
+      "number": 33,
+      "eng": "exist",
+      "jpn": "存在する；生存する"
+    },
+    {
+      "number": 34,
+      "eng": "mark",
+      "jpn": "に印をつける；を（記号で）示す；に汚れをつける"
+    },
+    {
+      "number": 35,
+      "eng": "challenge",
+      "jpn": "に異議を唱える；（人）に挑む"
+    },
+    {
+      "number": 36,
+      "eng": "depend",
+      "jpn": "頼る；～次第である"
+    },
+    {
+      "number": 37,
+      "eng": "object",
+      "jpn": "反対する；（...）と言って反対する（that節）"
+    },
+    {
+      "number": 38,
+      "eng": "demand",
+      "jpn": "を要求する"
+    },
+    {
+      "number": 39,
+      "eng": "found",
+      "jpn": "を設立する；（理論など）を（～に基づいて）築く（on）"
+    },
+    {
+      "number": 40,
+      "eng": "complete",
+      "jpn": "を完成させる，仕上げる"
+    },
+    {
+      "number": 41,
+      "eng": "idea",
+      "jpn": "考え，思いつき；理解；見解；概念"
+    },
+    {
+      "number": 42,
+      "eng": "accord",
+      "jpn": "一致；合意，協定"
+    },
+    {
+      "number": 43,
+      "eng": "company",
+      "jpn": "会社；〔集合的に〕仲間；（仲間と）一緒にいること；一座"
+    },
+    {
+      "number": 44,
+      "eng": "interest",
+      "jpn": "興味；利子；利害"
+    },
+    {
+      "number": 45,
+      "eng": "research",
+      "jpn": "（～についての）研究，調査（into / on / in）"
+    },
+    {
+      "number": 46,
+      "eng": "cause",
+      "jpn": "原因（⇔ effect ⇒ 48）；理由；大義"
+    },
+    {
+      "number": 47,
+      "eng": "reason",
+      "jpn": "理由；（...する）根拠（to do）；理性；分別"
+    },
+    {
+      "number": 48,
+      "eng": "effect",
+      "jpn": "影響，効果；結果"
+    },
+    {
+      "number": 49,
+      "eng": "influence",
+      "jpn": "影響（力）"
+    },
+    {
+      "number": 50,
+      "eng": "situation",
+      "jpn": "状況；（人の置かれた）立場"
+    },
+    {
+      "number": 51,
+      "eng": "environment",
+      "jpn": "環境（≒ surroundings）"
+    },
+    {
+      "number": 52,
+      "eng": "skill",
+      "jpn": "技能；熟練"
+    },
+    {
+      "number": 53,
+      "eng": "matter",
+      "jpn": "事柄；問題；〔～s〕事態；〔the ～〕困難；物質"
+    },
+    {
+      "number": 54,
+      "eng": "view",
+      "jpn": "（～についての）見解（on / about）；（～に対する）（特定の）見方（of）；眺め"
+    },
+    {
+      "number": 55,
+      "eng": "value",
+      "jpn": "価値；価格；評価；〔～s〕価値観"
+    },
+    {
+      "number": 56,
+      "eng": "species",
+      "jpn": "（生物の）種；種類"
+    },
+    {
+      "number": 57,
+      "eng": "thought",
+      "jpn": "考え；思考"
+    },
+    {
+      "number": 58,
+      "eng": "knowledge",
+      "jpn": "知識；知っていること；認識"
+    },
+    {
+      "number": 59,
+      "eng": "memory",
+      "jpn": "記憶（力）；（～の）思い出（of）"
+    },
+    {
+      "number": 60,
+      "eng": "practice",
+      "jpn": "実践，実行；（社会の）慣習；練習"
+    },
+    {
+      "number": 61,
+      "eng": "benefit",
+      "jpn": "利益，恩恵；給付金"
+    },
+    {
+      "number": 62,
+      "eng": "theory",
+      "jpn": "学説；理論；原理；推測"
+    },
+    {
+      "number": 63,
+      "eng": "issue",
+      "jpn": "問題（点）；発行（物）；発表"
+    },
+    {
+      "number": 64,
+      "eng": "experiment",
+      "jpn": "（～を対象とする）実験（on）"
+    },
+    {
+      "number": 65,
+      "eng": "article",
+      "jpn": "記事；条項；品物"
+    },
+    {
+      "number": 66,
+      "eng": "focus",
+      "jpn": "焦点；関心の的"
+    },
+    {
+      "number": 67,
+      "eng": "subject",
+      "jpn": "話題；科目；主題；被験者"
+    },
+    {
+      "number": 68,
+      "eng": "project",
+      "jpn": "計画；事業；研究計画"
+    },
+    {
+      "number": 69,
+      "eng": "quality",
+      "jpn": "質（⇔ quantity ⇒ 471）；特質"
+    },
+    {
+      "number": 70,
+      "eng": "role",
+      "jpn": "役割；（俳優などの）役"
+    },
+    {
+      "number": 71,
+      "eng": "term",
+      "jpn": "（専門）用語；〔～s〕条件；〔～s〕間柄；学期"
+    },
+    {
+      "number": 72,
+      "eng": "statement",
+      "jpn": "声明；主張；明細書"
+    },
+    {
+      "number": 73,
+      "eng": "material",
+      "jpn": "材料，素材；資料；生地"
+    },
+    {
+      "number": 74,
+      "eng": "evidence",
+      "jpn": "証拠"
+    },
+    {
+      "number": 75,
+      "eng": "source",
+      "jpn": "（～の）源，根源（of）；出所，情報源"
+    },
+    {
+      "number": 76,
+      "eng": "community",
+      "jpn": "（共同）社会，～界；地域社会；地域住民"
+    },
+    {
+      "number": 77,
+      "eng": "technology",
+      "jpn": "科学技術；応用技術"
+    },
+    {
+      "number": 78,
+      "eng": "culture",
+      "jpn": "文化；教養；耕作；養殖；培養"
+    },
+    {
+      "number": 79,
+      "eng": "appropriate",
+      "jpn": "（～に）適切な（for / to）"
+    },
+    {
+      "number": 80,
+      "eng": "likely",
+      "jpn": "ありそうな（⇔ unlikely ありそうもない）"
+    },
+    {
+      "number": 81,
+      "eng": "possible",
+      "jpn": "可能な；可能性のある"
+    },
+    {
+      "number": 82,
+      "eng": "individual",
+      "jpn": "個々の；個人の"
+    },
+    {
+      "number": 83,
+      "eng": "public",
+      "jpn": "公の（⇔ private 私的な）；公衆の；公開の"
+    },
+    {
+      "number": 84,
+      "eng": "common",
+      "jpn": "共通の；普通の；一般の"
+    },
+    {
+      "number": 85,
+      "eng": "certain",
+      "jpn": "確信して；確かな；ある；一定の"
+    },
+    {
+      "number": 86,
+      "eng": "similar",
+      "jpn": "似ている，類似した；同様の"
+    },
+    {
+      "number": 87,
+      "eng": "recent",
+      "jpn": "最近の"
+    },
+    {
+      "number": 88,
+      "eng": "major",
+      "jpn": "主要な；大きい（ほうの）；長調の"
+    },
+    {
+      "number": 89,
+      "eng": "patient",
+      "jpn": "忍耐強い；勤勉な"
+    },
+    {
+      "number": 90,
+      "eng": "particular",
+      "jpn": "特定の；特別の；（～について）やかましい（about）"
+    },
+    {
+      "number": 91,
+      "eng": "physical",
+      "jpn": "身体の（⇔ mental ⇒ 183）；物質的な；物理学の"
+    },
+    {
+      "number": 92,
+      "eng": "various",
+      "jpn": "さまざまな；いくつかの"
+    },
+    {
+      "number": 93,
+      "eng": "available",
+      "jpn": "手に入る；利用できる；手が空いている"
+    },
+    {
+      "number": 94,
+      "eng": "native",
+      "jpn": "出生地の；原産の；生得の"
+    },
+    {
+      "number": 95,
+      "eng": "political",
+      "jpn": "政治（上）の"
+    },
+    {
+      "number": 96,
+      "eng": "due",
+      "jpn": "予定された；（支払）期日で；しかるべき"
+    },
+    {
+      "number": 97,
+      "eng": "blank",
+      "jpn": "空白の；無表情な；がらんとした"
+    },
+    {
+      "number": 98,
+      "eng": "ancient",
+      "jpn": "古代の；昔からの"
+    },
+    {
+      "number": 99,
+      "eng": "correct",
+      "jpn": "正しい；適切な"
+    },
+    {
+      "number": 100,
+      "eng": "despite",
+      "jpn": "～にもかかわらず（≒ in spite of）"
+    },
+    {
+      "number": 101,
+      "eng": "notice",
+      "jpn": "に気づく"
+    },
+    {
+      "number": 102,
+      "eng": "refer",
+      "jpn": "言及する，関連する；参照する"
+    },
+    {
+      "number": 103,
+      "eng": "approach",
+      "jpn": "に近づく；に取り組む"
+    },
+    {
+      "number": 104,
+      "eng": "wonder",
+      "jpn": "かなと思う；（に）驚く（at）"
+    },
+    {
+      "number": 105,
+      "eng": "imagine",
+      "jpn": "（を）想像する；（を）推測する"
+    },
+    {
+      "number": 106,
+      "eng": "recognize",
+      "jpn": "を識別できる；を認める"
+    },
+    {
+      "number": 107,
+      "eng": "solve",
+      "jpn": "を解く，解明する；（困難など）を解決する"
+    },
+    {
+      "number": 108,
+      "eng": "occur",
+      "jpn": "起こる；心に浮かぶ；現れる"
+    },
+    {
+      "number": 109,
+      "eng": "argue",
+      "jpn": "と主張する（≒ claim ⇒ 110, maintain ⇒ 206）；議論する"
+    },
+    {
+      "number": 110,
+      "eng": "claim",
+      "jpn": "と主張する；を（自分のものとして）要求する"
+    },
+    {
+      "number": 111,
+      "eng": "express",
+      "jpn": "を表す，述べる"
+    },
+    {
+      "number": 112,
+      "eng": "draw",
+      "jpn": "を引き出す；を引く；を描く；近づく"
+    },
+    {
+      "number": 113,
+      "eng": "waste",
+      "jpn": "を浪費する，無駄にする"
+    },
+    {
+      "number": 114,
+      "eng": "advance",
+      "jpn": "を進歩させる；を進める；進歩する；進む"
+    },
+    {
+      "number": 115,
+      "eng": "spread",
+      "jpn": "を広める；広がる"
+    },
+    {
+      "number": 116,
+      "eng": "prepare",
+      "jpn": "を準備する；を調理する；（～のために）準備をする（for）"
+    },
+    {
+      "number": 117,
+      "eng": "gain",
+      "jpn": "を獲得する；（を）増す"
+    },
+    {
+      "number": 118,
+      "eng": "achieve",
+      "jpn": "を達成する；を成し遂げる"
+    },
+    {
+      "number": 119,
+      "eng": "establish",
+      "jpn": "を確立する；を設立する"
+    },
+    {
+      "number": 120,
+      "eng": "supply",
+      "jpn": "を供給する"
+    },
+    {
+      "number": 121,
+      "eng": "suppose",
+      "jpn": "と思う；と仮定する"
+    },
+    {
+      "number": 122,
+      "eng": "perform",
+      "jpn": "（を）行う；（を）演じる，（を）演奏する"
+    },
+    {
+      "number": 123,
+      "eng": "prefer",
+      "jpn": "のほうを好む"
+    },
+    {
+      "number": 124,
+      "eng": "determine",
+      "jpn": "を決定する；を正確に知る"
+    },
+    {
+      "number": 125,
+      "eng": "treat",
+      "jpn": "を扱う；を治療する"
+    },
+    {
+      "number": 126,
+      "eng": "prove",
+      "jpn": "を証明する；判明する，わかる"
+    },
+    {
+      "number": 127,
+      "eng": "apply",
+      "jpn": "を適用［応用］する；申し込む；（～に）適用される（to / in）"
+    },
+    {
+      "number": 128,
+      "eng": "mention",
+      "jpn": "に言及する；と言う"
+    },
+    {
+      "number": 129,
+      "eng": "communicate",
+      "jpn": "（～と）情報交換をする（with）；を伝達する"
+    },
+    {
+      "number": 130,
+      "eng": "contain",
+      "jpn": "を含む；を収容する；（感情など）を抑える"
+    },
+    {
+      "number": 131,
+      "eng": "contact",
+      "jpn": "と連絡を取る；接触する"
+    },
+    {
+      "number": 132,
+      "eng": "regard",
+      "jpn": "を見なす；を見る；を評価する"
+    },
+    {
+      "number": 133,
+      "eng": "respect",
+      "jpn": "を尊敬する；を尊重する"
+    },
+    {
+      "number": 134,
+      "eng": "search",
+      "jpn": "捜す；を捜索する；を詳しく調べる"
+    },
+    {
+      "number": 135,
+      "eng": "connect",
+      "jpn": "をつなぐ；を関連づける"
+    },
+    {
+      "number": 136,
+      "eng": "decline",
+      "jpn": "減少する；衰退する；を断る"
+    },
+    {
+      "number": 137,
+      "eng": "prevent",
+      "jpn": "を妨げる；を防ぐ"
+    },
+    {
+      "number": 138,
+      "eng": "suffer",
+      "jpn": "苦しむ；患う；（苦痛など）を経験する"
+    },
+    {
+      "number": 139,
+      "eng": "survive",
+      "jpn": "を切り抜けて生き残る；より長生きする；生き延びる"
+    },
+    {
+      "number": 140,
+      "eng": "publish",
+      "jpn": "を出版する；を公表する"
+    },
+    {
+      "number": 141,
+      "eng": "opportunity",
+      "jpn": "機会（≒ chance）"
+    },
+    {
+      "number": 142,
+      "eng": "task",
+      "jpn": "（課せられた）仕事，作業；課題；タスク"
+    },
+    {
+      "number": 143,
+      "eng": "industry",
+      "jpn": "産業；勤勉（≒ diligence）"
+    },
+    {
+      "number": 144,
+      "eng": "medium",
+      "jpn": "（情報伝達の）媒体；手段"
+    },
+    {
+      "number": 145,
+      "eng": "economy",
+      "jpn": "経済（状態）；経済圏；節約"
+    },
+    {
+      "number": 146,
+      "eng": "policy",
+      "jpn": "政策，方針；（個人の）主義"
+    },
+    {
+      "number": 147,
+      "eng": "account",
+      "jpn": "説明；勘定；口座"
+    },
+    {
+      "number": 148,
+      "eng": "trade",
+      "jpn": "貿易；商売，取引"
+    },
+    {
+      "number": 149,
+      "eng": "model",
+      "jpn": "模範；モデル；模型；型"
+    },
+    {
+      "number": 150,
+      "eng": "figure",
+      "jpn": "数字；姿；人物；図表"
+    },
+    {
+      "number": 151,
+      "eng": "cell",
+      "jpn": "細胞；独房；電池"
+    },
+    {
+      "number": 152,
+      "eng": "image",
+      "jpn": "印象，イメージ；画像；像"
+    },
+    {
+      "number": 153,
+      "eng": "emotion",
+      "jpn": "感情，情動；感動"
+    },
+    {
+      "number": 154,
+      "eng": "stress",
+      "jpn": "ストレス；圧力；強調"
+    },
+    {
+      "number": 155,
+      "eng": "decade",
+      "jpn": "10年間"
+    },
+    {
+      "number": 156,
+      "eng": "range",
+      "jpn": "範囲；射程距離；（同類の）組"
+    },
+    {
+      "number": 157,
+      "eng": "character",
+      "jpn": "性格，個性；特徴；登場人物；文字"
+    },
+    {
+      "number": 158,
+      "eng": "advantage",
+      "jpn": "利点；優勢；有利"
+    },
+    {
+      "number": 159,
+      "eng": "phrase",
+      "jpn": "句；成句；言葉遣い"
+    },
+    {
+      "number": 160,
+      "eng": "damage",
+      "jpn": "損害，損傷；〔～s〕損害賠償金"
+    },
+    {
+      "number": 161,
+      "eng": "impact",
+      "jpn": "影響；（激しい）衝突；衝撃（力）"
+    },
+    {
+      "number": 162,
+      "eng": "method",
+      "jpn": "方法；体系；秩序"
+    },
+    {
+      "number": 163,
+      "eng": "resource",
+      "jpn": "〔通例～s〕資源；〔通例～s〕資金；才覚"
+    },
+    {
+      "number": 164,
+      "eng": "region",
+      "jpn": "地域；領域；部位"
+    },
+    {
+      "number": 165,
+      "eng": "medicine",
+      "jpn": "薬；医学"
+    },
+    {
+      "number": 166,
+      "eng": "detail",
+      "jpn": "〔～s〕詳細（な情報），細部"
+    },
+    {
+      "number": 167,
+      "eng": "feature",
+      "jpn": "特徴；〔通例～s〕顔つき；特集記事［番組］"
+    },
+    {
+      "number": 168,
+      "eng": "function",
+      "jpn": "機能；関数"
+    },
+    {
+      "number": 169,
+      "eng": "access",
+      "jpn": "利用，入手；接近（の機会・方法・権利）"
+    },
+    {
+      "number": 170,
+      "eng": "item",
+      "jpn": "品目，項目；（同種の中の）～個；（短い）記事"
+    },
+    {
+      "number": 171,
+      "eng": "income",
+      "jpn": "収入；所得"
+    },
+    {
+      "number": 172,
+      "eng": "attitude",
+      "jpn": "態度；考え方，心構え"
+    },
+    {
+      "number": 173,
+      "eng": "site",
+      "jpn": "用地，場所；跡地；（ウェブ）サイト"
+    },
+    {
+      "number": 174,
+      "eng": "aspect",
+      "jpn": "（物事の）側面；観点；様相"
+    },
+    {
+      "number": 175,
+      "eng": "structure",
+      "jpn": "構造；体系；構造物"
+    },
+    {
+      "number": 176,
+      "eng": "habit",
+      "jpn": "習慣，癖"
+    },
+    {
+      "number": 177,
+      "eng": "link",
+      "jpn": "関連，つながり；（2地点を結ぶ）交通手段；リンク"
+    },
+    {
+      "number": 178,
+      "eng": "instance",
+      "jpn": "（具体的な）例，実例；（特定の）場合"
+    },
+    {
+      "number": 179,
+      "eng": "positive",
+      "jpn": "肯定的な；積極的な；確信して；（検査結果が）陽性の"
+    },
+    {
+      "number": 180,
+      "eng": "negative",
+      "jpn": "否定的な；消極的な；（検査結果が）陰性の"
+    },
+    {
+      "number": 181,
+      "eng": "complex",
+      "jpn": "複雑な；複合（体）の"
+    },
+    {
+      "number": 182,
+      "eng": "current",
+      "jpn": "現在の；現代の；通用している"
+    },
+    {
+      "number": 183,
+      "eng": "mental",
+      "jpn": "精神の；知能の；頭の中で行う"
+    },
+    {
+      "number": 184,
+      "eng": "specific",
+      "jpn": "特定の；明確な，具体的な；（～に）特有の（to）"
+    },
+    {
+      "number": 185,
+      "eng": "significant",
+      "jpn": "重要な，重大な；意義深い"
+    },
+    {
+      "number": 186,
+      "eng": "essential",
+      "jpn": "（～に）必要不可欠な（to / for）；本質的な"
+    },
+    {
+      "number": 187,
+      "eng": "official",
+      "jpn": "公用の；公式の；役所の"
+    },
+    {
+      "number": 188,
+      "eng": "financial",
+      "jpn": "財政（上）の；財界の"
+    },
+    {
+      "number": 189,
+      "eng": "academic",
+      "jpn": "学問の；大学の"
+    },
+    {
+      "number": 190,
+      "eng": "aware",
+      "jpn": "気づいて，知って"
+    },
+    {
+      "number": 191,
+      "eng": "worth",
+      "jpn": "（...する）に値する（doing）；の価値がある"
+    },
+    {
+      "number": 192,
+      "eng": "potential",
+      "jpn": "潜在的な；可能性を秘めた"
+    },
+    {
+      "number": 193,
+      "eng": "active",
+      "jpn": "積極的な；活動的な；効力のある"
+    },
+    {
+      "number": 194,
+      "eng": "digital",
+      "jpn": "デジタル方式の；デジタル［数字］表示の"
+    },
+    {
+      "number": 195,
+      "eng": "mobile",
+      "jpn": "可動［移動］式の；流動性のある"
+    },
+    {
+      "number": 196,
+      "eng": "novel",
+      "jpn": "斬新な，目新しい"
+    },
+    {
+      "number": 197,
+      "eng": "plastic",
+      "jpn": "柔軟な；プラスチックの，ビニールの"
+    },
+    {
+      "number": 198,
+      "eng": "chemical",
+      "jpn": "化学の，化学的な"
+    },
+    {
+      "number": 199,
+      "eng": "necessary",
+      "jpn": "必要な（≒ essential ⇒ 186）"
+    },
+    {
+      "number": 200,
+      "eng": "eventually",
+      "jpn": "結局（は）"
+    },
+    {
+      "number": 201,
+      "eng": "identify",
+      "jpn": "を特定する；を（～と）同一視する（with）"
+    },
+    {
+      "number": 202,
+      "eng": "represent",
+      "jpn": "を表す；を代表する；に相当する"
+    },
+    {
+      "number": 203,
+      "eng": "indicate",
+      "jpn": "を指し示す；を述べる"
+    },
+    {
+      "number": 204,
+      "eng": "manage",
+      "jpn": "をなんとか成し遂げる；を管理する"
+    },
+    {
+      "number": 205,
+      "eng": "attend",
+      "jpn": "に出席する；（を）世話する；（～に）対処［対応］する（to）"
+    },
+    {
+      "number": 206,
+      "eng": "maintain",
+      "jpn": "を維持する；と主張する；を養う"
+    },
+    {
+      "number": 207,
+      "eng": "survey",
+      "jpn": "を調査する；をじろじろ見る；を概観する"
+    },
+    {
+      "number": 208,
+      "eng": "replace",
+      "jpn": "に取って代わる；を取り替える"
+    },
+    {
+      "number": 209,
+      "eng": "sort",
+      "jpn": "を（～に）分類する（into）；を（～から）えり分ける（from）"
+    },
+    {
+      "number": 210,
+      "eng": "conduct",
+      "jpn": "（調査・実験など）を実施する；を導く"
+    },
+    {
+      "number": 211,
+      "eng": "associate",
+      "jpn": "を結び付けて考える；（～と）交際する（with）"
+    },
+    {
+      "number": 212,
+      "eng": "attempt",
+      "jpn": "を試みる，企てる"
+    },
+    {
+      "number": 213,
+      "eng": "promote",
+      "jpn": "を促進する；〔通例受身形で〕昇進する"
+    },
+    {
+      "number": 214,
+      "eng": "earn",
+      "jpn": "を稼ぐ；を得る；をもたらす"
+    },
+    {
+      "number": 215,
+      "eng": "unite",
+      "jpn": "を団結させる；（を）結合する；団結する"
+    },
+    {
+      "number": 216,
+      "eng": "feed",
+      "jpn": "に食べ物［乳］を与える；に（～を）供給［補給］する（with）；餌を食べる"
+    },
+    {
+      "number": 217,
+      "eng": "seek",
+      "jpn": "を追い求める；（助けなど）を要請する"
+    },
+    {
+      "number": 218,
+      "eng": "observe",
+      "jpn": "に気づく；を観察する；を遵守する"
+    },
+    {
+      "number": 219,
+      "eng": "reveal",
+      "jpn": "を明らかにする；を見せる"
+    },
+    {
+      "number": 220,
+      "eng": "estimate",
+      "jpn": "と推定する；を見積もる；を評価する"
+    },
+    {
+      "number": 221,
+      "eng": "reflect",
+      "jpn": "を反映する；（を）反射する；（を）熟考する"
+    },
+    {
+      "number": 222,
+      "eng": "attract",
+      "jpn": "を引きつける"
+    },
+    {
+      "number": 223,
+      "eng": "decrease",
+      "jpn": "減少する（⇔ increase ⇒ 2）；を減らす"
+    },
+    {
+      "number": 224,
+      "eng": "ignore",
+      "jpn": "を無視する"
+    },
+    {
+      "number": 225,
+      "eng": "match",
+      "jpn": "（と）合う；に匹敵する；一致する"
+    },
+    {
+      "number": 226,
+      "eng": "define",
+      "jpn": "を定義する；を明確にする"
+    },
+    {
+      "number": 227,
+      "eng": "adapt",
+      "jpn": "適応する；を（～に）適合させる（to）"
+    },
+    {
+      "number": 228,
+      "eng": "contribute",
+      "jpn": "貢献する，一因となる；（を）寄付する；（を）寄稿する"
+    },
+    {
+      "number": 229,
+      "eng": "exchange",
+      "jpn": "（を）交換する；両替する"
+    },
+    {
+      "number": 230,
+      "eng": "display",
+      "jpn": "を示す；を発揮する；を展示［陳列］する"
+    },
+    {
+      "number": 231,
+      "eng": "respond",
+      "jpn": "反応する；答える"
+    },
+    {
+      "number": 232,
+      "eng": "hide",
+      "jpn": "を隠す（≒ conceal ⇒ 1116）；隠れる"
+    },
+    {
+      "number": 233,
+      "eng": "doubt",
+      "jpn": "ではないと思う；を疑う"
+    },
+    {
+      "number": 234,
+      "eng": "remove",
+      "jpn": "を取り除く；を解雇する"
+    },
+    {
+      "number": 235,
+      "eng": "wind",
+      "jpn": "（ねじなど）を巻く；（道などが）曲がりくねる；巻きつく"
+    },
+    {
+      "number": 236,
+      "eng": "assume",
+      "jpn": "を当然のことと思う，と仮定する；（権力など）を手に入れる；（責任など）を引き受ける"
+    },
+    {
+      "number": 237,
+      "eng": "relax",
+      "jpn": "くつろぐ；緩む；をくつろがせる；を緩める"
+    },
+    {
+      "number": 238,
+      "eng": "satisfy",
+      "jpn": "を満足させる；（条件など）を満たす"
+    },
+    {
+      "number": 239,
+      "eng": "desire",
+      "jpn": "を強く望む"
+    },
+    {
+      "number": 240,
+      "eng": "succeed",
+      "jpn": "（～に）成功する（in）；（～を）継承する（to）"
+    },
+    {
+      "number": 241,
+      "eng": "concept",
+      "jpn": "概念；考え；（商品・販売の）コンセプト"
+    },
+    {
+      "number": 242,
+      "eng": "fashion",
+      "jpn": "流行，ファッション；方法，流儀"
+    },
+    {
+      "number": 243,
+      "eng": "device",
+      "jpn": "装置，機器；方策；デバイス"
+    },
+    {
+      "number": 244,
+      "eng": "charge",
+      "jpn": "料金；世話；管理；告発"
+    },
+    {
+      "number": 245,
+      "eng": "contrast",
+      "jpn": "（～との）対照（with / to）"
+    },
+    {
+      "number": 246,
+      "eng": "colleague",
+      "jpn": "（職場の）同僚"
+    },
+    {
+      "number": 247,
+      "eng": "pain",
+      "jpn": "苦痛，痛み；苦悩；〔～s〕骨折り"
+    },
+    {
+      "number": 248,
+      "eng": "bill",
+      "jpn": "請求書；【英】勘定書（≒ 【米】check）；法案"
+    },
+    {
+      "number": 249,
+      "eng": "content",
+      "jpn": "内容，中身；コンテンツ"
+    },
+    {
+      "number": 250,
+      "eng": "section",
+      "jpn": "部門；部分；地区；欄"
+    },
+    {
+      "number": 251,
+      "eng": "audience",
+      "jpn": "〔集合的に〕聴衆，観客；視聴者"
+    },
+    {
+      "number": 252,
+      "eng": "surface",
+      "jpn": "表面；〔the ～〕外見"
+    },
+    {
+      "number": 253,
+      "eng": "crop",
+      "jpn": "〔しばしば～s〕作物；収穫高"
+    },
+    {
+      "number": 254,
+      "eng": "topic",
+      "jpn": "話題，トピック；主題"
+    },
+    {
+      "number": 255,
+      "eng": "technique",
+      "jpn": "技術；技巧；手法"
+    },
+    {
+      "number": 256,
+      "eng": "status",
+      "jpn": "地位；状態"
+    },
+    {
+      "number": 257,
+      "eng": "option",
+      "jpn": "選択（の自由）；選択肢"
+    },
+    {
+      "number": 258,
+      "eng": "reward",
+      "jpn": "報酬；報い"
+    },
+    {
+      "number": 259,
+      "eng": "race",
+      "jpn": "人種；民族；競争"
+    },
+    {
+      "number": 260,
+      "eng": "crime",
+      "jpn": "罪，犯罪；違法行為"
+    },
+    {
+      "number": 261,
+      "eng": "conflict",
+      "jpn": "争い；論争；不一致"
+    },
+    {
+      "number": 262,
+      "eng": "struggle",
+      "jpn": "闘い；懸命の努力"
+    },
+    {
+      "number": 263,
+      "eng": "context",
+      "jpn": "状況，背景；文脈"
+    },
+    {
+      "number": 264,
+      "eng": "debate",
+      "jpn": "討論，論争；討論会"
+    },
+    {
+      "number": 265,
+      "eng": "fuel",
+      "jpn": "燃料；勢いを増加させるもの"
+    },
+    {
+      "number": 266,
+      "eng": "pollution",
+      "jpn": "汚染，公害"
+    },
+    {
+      "number": 267,
+      "eng": "trend",
+      "jpn": "（～への）傾向（toward）；流行"
+    },
+    {
+      "number": 268,
+      "eng": "balance",
+      "jpn": "均衡，バランス；（体の）平衡；残高"
+    },
+    {
+      "number": 269,
+      "eng": "traffic",
+      "jpn": "交通；通行；交通［輸送］量；（不正）取引"
+    },
+    {
+      "number": 270,
+      "eng": "strategy",
+      "jpn": "戦略"
+    },
+    {
+      "number": 271,
+      "eng": "basis",
+      "jpn": "基礎；根拠；基準"
+    },
+    {
+      "number": 272,
+      "eng": "consequence",
+      "jpn": "〔通例～s〕結果；重大性"
+    },
+    {
+      "number": 273,
+      "eng": "aim",
+      "jpn": "目的，目標；狙い"
+    },
+    {
+      "number": 274,
+      "eng": "ancestor",
+      "jpn": "祖先（⇔ descendant 子孫）；原型"
+    },
+    {
+      "number": 275,
+      "eng": "gene",
+      "jpn": "遺伝子"
+    },
+    {
+      "number": 276,
+      "eng": "track",
+      "jpn": "跡；軌道；【米】（鉄道の）番線；走路"
+    },
+    {
+      "number": 277,
+      "eng": "revolution",
+      "jpn": "革命；回転；（天体の）公転（⇔ rotation 自転）"
+    },
+    {
+      "number": 278,
+      "eng": "progress",
+      "jpn": "進歩；前進"
+    },
+    {
+      "number": 279,
+      "eng": "cognitive",
+      "jpn": "認知の"
+    },
+    {
+      "number": 280,
+      "eng": "ideal",
+      "jpn": "理想的な；観念的な"
+    },
+    {
+      "number": 281,
+      "eng": "efficient",
+      "jpn": "効率的な；有能な"
+    },
+    {
+      "number": 282,
+      "eng": "universal",
+      "jpn": "普遍的な；宇宙の；万能の"
+    },
+    {
+      "number": 283,
+      "eng": "vast",
+      "jpn": "莫大な；広大な"
+    },
+    {
+      "number": 284,
+      "eng": "extra",
+      "jpn": "追加の，余分の；別勘定の"
+    },
+    {
+      "number": 285,
+      "eng": "entire",
+      "jpn": "全体の，全部の（≒ whole）；完全な"
+    },
+    {
+      "number": 286,
+      "eng": "familiar",
+      "jpn": "精通している；よく知られている"
+    },
+    {
+      "number": 287,
+      "eng": "obvious",
+      "jpn": "明らかな（≒ clear）"
+    },
+    {
+      "number": 288,
+      "eng": "moral",
+      "jpn": "道徳（上）の，倫理的な；道徳的な"
+    },
+    {
+      "number": 289,
+      "eng": "ordinary",
+      "jpn": "一般の，普通の；並の"
+    },
+    {
+      "number": 290,
+      "eng": "equal",
+      "jpn": "（～に）等しい（to）；匹敵する；平等な"
+    },
+    {
+      "number": 291,
+      "eng": "previous",
+      "jpn": "以前の，前の"
+    },
+    {
+      "number": 292,
+      "eng": "FALSE",
+      "jpn": "間違った；虚偽の；偽の"
+    },
+    {
+      "number": 293,
+      "eng": "rare",
+      "jpn": "まれな，珍しい；希少な"
+    },
+    {
+      "number": 294,
+      "eng": "legal",
+      "jpn": "法律の；合法の（⇔ illegal 違法の）"
+    },
+    {
+      "number": 295,
+      "eng": "independent",
+      "jpn": "（～から）独立した（of / from）"
+    },
+    {
+      "number": 296,
+      "eng": "extreme",
+      "jpn": "極端な；極度の，過激な"
+    },
+    {
+      "number": 297,
+      "eng": "actual",
+      "jpn": "実際の，現実の"
+    },
+    {
+      "number": 298,
+      "eng": "willing",
+      "jpn": "いとわない，かまわないと思う"
+    },
+    {
+      "number": 299,
+      "eng": "urban",
+      "jpn": "都市の；都会的な（⇔ rural ⇒ 387）"
+    },
+    {
+      "number": 300,
+      "eng": "whereas",
+      "jpn": "～するのに（対し），～する一方"
+    },
+    {
+      "number": 301,
+      "eng": "predict",
+      "jpn": "を予言［予測］する"
+    },
+    {
+      "number": 302,
+      "eng": "examine",
+      "jpn": "を調べる；を診察する；を尋問する"
+    },
+    {
+      "number": 303,
+      "eng": "trust",
+      "jpn": "を信頼する；を（信頼して）託す"
+    },
+    {
+      "number": 304,
+      "eng": "stick",
+      "jpn": "を動けなくする；を突き刺す；（～に）くっつく（to / on）"
+    },
+    {
+      "number": 305,
+      "eng": "emerge",
+      "jpn": "現れる；明らかになる；台頭する"
+    },
+    {
+      "number": 306,
+      "eng": "vary",
+      "jpn": "さまざまである；変わる；を変える"
+    },
+    {
+      "number": 307,
+      "eng": "release",
+      "jpn": "を放出する；を解放する；を発表する"
+    },
+    {
+      "number": 308,
+      "eng": "divide",
+      "jpn": "を分ける；分かれる"
+    },
+    {
+      "number": 309,
+      "eng": "enable",
+      "jpn": "（人）が...できるようにする；を可能にする"
+    },
+    {
+      "number": 310,
+      "eng": "judge",
+      "jpn": "（を）判断する；に判決を下す"
+    },
+    {
+      "number": 311,
+      "eng": "rely",
+      "jpn": "頼る（≒ depend ⇒ 36）"
+    },
+    {
+      "number": 312,
+      "eng": "engage",
+      "jpn": "を従事させる；を（～として）雇う（as）；（～に）従事する（in / with）"
+    },
+    {
+      "number": 313,
+      "eng": "shift",
+      "jpn": "を変える，移す；変わる；移動する"
+    },
+    {
+      "number": 314,
+      "eng": "adopt",
+      "jpn": "を採用する；（態度など）をとる；を養子にする"
+    },
+    {
+      "number": 315,
+      "eng": "acquire",
+      "jpn": "を得る；を習得する"
+    },
+    {
+      "number": 316,
+      "eng": "expand",
+      "jpn": "（を）拡大する；（を）詳説する"
+    },
+    {
+      "number": 317,
+      "eng": "refuse",
+      "jpn": "を拒む；を断る；拒絶する"
+    },
+    {
+      "number": 318,
+      "eng": "strike",
+      "jpn": "の心を打つ；を襲う；を打つ；（に）ぶつかる"
+    },
+    {
+      "number": 319,
+      "eng": "repeat",
+      "jpn": "（を）繰り返す；を復唱する"
+    },
+    {
+      "number": 320,
+      "eng": "consume",
+      "jpn": "を消費する；を食べる，飲む"
+    },
+    {
+      "number": 321,
+      "eng": "confuse",
+      "jpn": "を混同する；を当惑させる"
+    },
+    {
+      "number": 322,
+      "eng": "select",
+      "jpn": "を選ぶ，えり抜く"
+    },
+    {
+      "number": 323,
+      "eng": "evolve",
+      "jpn": "（徐々に）発展する；進化する"
+    },
+    {
+      "number": 324,
+      "eng": "convince",
+      "jpn": "を納得［確信］させる"
+    },
+    {
+      "number": 325,
+      "eng": "recall",
+      "jpn": "を思い出す；を呼び戻す"
+    },
+    {
+      "number": 326,
+      "eng": "destroy",
+      "jpn": "を破壊する；（人）を破滅させる"
+    },
+    {
+      "number": 327,
+      "eng": "preserve",
+      "jpn": "を保存する；を保持する；を保護する"
+    },
+    {
+      "number": 328,
+      "eng": "organize",
+      "jpn": "を準備する；を組織する"
+    },
+    {
+      "number": 329,
+      "eng": "warn",
+      "jpn": "（人）に（～を）警告［注意］する（of / against）"
+    },
+    {
+      "number": 330,
+      "eng": "address",
+      "jpn": "（問題など）に対処する；に演説する；（手紙など）を（～宛てに）出す（to）"
+    },
+    {
+      "number": 331,
+      "eng": "operate",
+      "jpn": "を操作する；機能する；手術する"
+    },
+    {
+      "number": 332,
+      "eng": "participate",
+      "jpn": "参加する"
+    },
+    {
+      "number": 333,
+      "eng": "surround",
+      "jpn": "を取り巻く；にまつわる"
+    },
+    {
+      "number": 334,
+      "eng": "flow",
+      "jpn": "流れる；（～から）生じる（from）"
+    },
+    {
+      "number": 335,
+      "eng": "bore",
+      "jpn": "（人）を退屈させる，うんざりさせる"
+    },
+    {
+      "number": 336,
+      "eng": "complain",
+      "jpn": "（と）不平［苦情］を言う；訴える"
+    },
+    {
+      "number": 337,
+      "eng": "host",
+      "jpn": "を主催する；のホスト役を務める"
+    },
+    {
+      "number": 338,
+      "eng": "combine",
+      "jpn": "を（～と）結び付ける（with）；（～と）結び付く（with）"
+    },
+    {
+      "number": 339,
+      "eng": "extend",
+      "jpn": "を伸［延］ばす；伸びる；及ぶ"
+    },
+    {
+      "number": 340,
+      "eng": "appreciate",
+      "jpn": "を正当に評価する；を鑑賞する；を感謝する"
+    },
+    {
+      "number": 341,
+      "eng": "target",
+      "jpn": "（到達・攻撃）目標；的"
+    },
+    {
+      "number": 342,
+      "eng": "element",
+      "jpn": "要素，成分；元素；〔an / ofで〕少しの"
+    },
+    {
+      "number": 343,
+      "eng": "principle",
+      "jpn": "原則，原理；主義，信条"
+    },
+    {
+      "number": 344,
+      "eng": "phenomenon",
+      "jpn": "現象"
+    },
+    {
+      "number": 345,
+      "eng": "atmosphere",
+      "jpn": "〔the ～〕大気；雰囲気"
+    },
+    {
+      "number": 346,
+      "eng": "origin",
+      "jpn": "起源；源"
+    },
+    {
+      "number": 347,
+      "eng": "personality",
+      "jpn": "個性，性格"
+    },
+    {
+      "number": 348,
+      "eng": "capacity",
+      "jpn": "（最大）容量，収容能力；（潜在）能力"
+    },
+    {
+      "number": 349,
+      "eng": "profit",
+      "jpn": "利益；収益（率）；得"
+    },
+    {
+      "number": 350,
+      "eng": "circumstance",
+      "jpn": "〔通例～s〕状況，事情；境遇"
+    },
+    {
+      "number": 351,
+      "eng": "manner",
+      "jpn": "〔～s〕作法；方法；物腰"
+    },
+    {
+      "number": 352,
+      "eng": "threat",
+      "jpn": "脅威；（悪い）兆し；脅迫"
+    },
+    {
+      "number": 353,
+      "eng": "resident",
+      "jpn": "居住者；滞在者"
+    },
+    {
+      "number": 354,
+      "eng": "wealth",
+      "jpn": "富；資源；富裕"
+    },
+    {
+      "number": 355,
+      "eng": "institution",
+      "jpn": "機関；協会；施設；制度"
+    },
+    {
+      "number": 356,
+      "eng": "authority",
+      "jpn": "〔通例 the ～ties〕（関係）当局；権威；権限"
+    },
+    {
+      "number": 357,
+      "eng": "vote",
+      "jpn": "投票；投票結果；〔the ～〕選挙権"
+    },
+    {
+      "number": 358,
+      "eng": "sight",
+      "jpn": "光景；〔the ～s〕名所；見（え）ること；視野；視力"
+    },
+    {
+      "number": 359,
+      "eng": "campaign",
+      "jpn": "運動；軍事行動"
+    },
+    {
+      "number": 360,
+      "eng": "fund",
+      "jpn": "〔しばしば～s〕基金，資金"
+    },
+    {
+      "number": 361,
+      "eng": "web",
+      "jpn": "〔the W-〕ウェブ；（クモの）巣"
+    },
+    {
+      "number": 362,
+      "eng": "symbol",
+      "jpn": "象徴，シンボル；記号；標章"
+    },
+    {
+      "number": 363,
+      "eng": "analysis",
+      "jpn": "分析（結果）（⇔ synthesis ⇒ 1868）"
+    },
+    {
+      "number": 364,
+      "eng": "version",
+      "jpn": "（本・製品などの）版；解釈"
+    },
+    {
+      "number": 365,
+      "eng": "perspective",
+      "jpn": "観点，見方；大局観；遠近法"
+    },
+    {
+      "number": 366,
+      "eng": "crisis",
+      "jpn": "危機"
+    },
+    {
+      "number": 367,
+      "eng": "disaster",
+      "jpn": "災害；惨事"
+    },
+    {
+      "number": 368,
+      "eng": "lecture",
+      "jpn": "講義，講演；説教"
+    },
+    {
+      "number": 369,
+      "eng": "psychology",
+      "jpn": "心理学；心理（状態）"
+    },
+    {
+      "number": 370,
+      "eng": "gender",
+      "jpn": "（社会的・文化的）性，性別"
+    },
+    {
+      "number": 371,
+      "eng": "custom",
+      "jpn": "（社会的な）慣習；〔～s〕税関；〔～s〕関税"
+    },
+    {
+      "number": 372,
+      "eng": "court",
+      "jpn": "裁判所，法廷；裁判；宮廷；中庭"
+    },
+    {
+      "number": 373,
+      "eng": "desert",
+      "jpn": "砂漠；不毛の地"
+    },
+    {
+      "number": 374,
+      "eng": "soil",
+      "jpn": "土地，土壌；（悪事などの）温床"
+    },
+    {
+      "number": 375,
+      "eng": "agriculture",
+      "jpn": "農業；農学，畜産"
+    },
+    {
+      "number": 376,
+      "eng": "fossil",
+      "jpn": "化石；時代遅れの人［物］"
+    },
+    {
+      "number": 377,
+      "eng": "document",
+      "jpn": "（公）文書，書類；記録，資料"
+    },
+    {
+      "number": 378,
+      "eng": "vocabulary",
+      "jpn": "語彙"
+    },
+    {
+      "number": 379,
+      "eng": "intelligent",
+      "jpn": "聡明な；知能を有する"
+    },
+    {
+      "number": 380,
+      "eng": "conscious",
+      "jpn": "意識して，気づいて（≒ aware）"
+    },
+    {
+      "number": 381,
+      "eng": "capable",
+      "jpn": "能力がある；有能な"
+    },
+    {
+      "number": 382,
+      "eng": "accurate",
+      "jpn": "正確な；精密な"
+    },
+    {
+      "number": 383,
+      "eng": "fundamental",
+      "jpn": "基本的な；必須の"
+    },
+    {
+      "number": 384,
+      "eng": "artificial",
+      "jpn": "人工の（⇔ natural 自然の）；不自然な"
+    },
+    {
+      "number": 385,
+      "eng": "firm",
+      "jpn": "確固たる；堅固な；安定した"
+    },
+    {
+      "number": 386,
+      "eng": "overall",
+      "jpn": "総合的な；全体的な"
+    },
+    {
+      "number": 387,
+      "eng": "rural",
+      "jpn": "田舎の（⇔ urban ⇒ 299），田園の"
+    },
+    {
+      "number": 388,
+      "eng": "military",
+      "jpn": "軍の，軍事（用）の"
+    },
+    {
+      "number": 389,
+      "eng": "nuclear",
+      "jpn": "核の，原子力の"
+    },
+    {
+      "number": 390,
+      "eng": "biological",
+      "jpn": "生物学（上）の"
+    },
+    {
+      "number": 391,
+      "eng": "constant",
+      "jpn": "絶え間ない；一定の"
+    },
+    {
+      "number": 392,
+      "eng": "severe",
+      "jpn": "（人・規律・事態・天気などが）厳しい；猛烈な"
+    },
+    {
+      "number": 393,
+      "eng": "visual",
+      "jpn": "視覚の；目に見える"
+    },
+    {
+      "number": 394,
+      "eng": "enormous",
+      "jpn": "莫大な，巨大な"
+    },
+    {
+      "number": 395,
+      "eng": "convenient",
+      "jpn": "便利な，都合のいい"
+    },
+    {
+      "number": 396,
+      "eng": "domestic",
+      "jpn": "家庭の；国内の；（動物が）飼いならされた"
+    },
+    {
+      "number": 397,
+      "eng": "mass",
+      "jpn": "大規模な，大量の；大衆（向け）の"
+    },
+    {
+      "number": 398,
+      "eng": "typical",
+      "jpn": "典型的な；（～に）特有の（of）"
+    },
+    {
+      "number": 399,
+      "eng": "overseas",
+      "jpn": "海外へ［に，で］（≒ abroad）"
+    },
+    {
+      "number": 400,
+      "eng": "nevertheless",
+      "jpn": "それにもかかわらず（≒ nonetheless ⇒ 1000）"
+    },
+    {
+      "number": 401,
+      "eng": "demonstrate",
+      "jpn": "を論証［証明］する；デモをする"
+    },
+    {
+      "number": 402,
+      "eng": "behave",
+      "jpn": "振る舞う；作動する"
+    },
+    {
+      "number": 403,
+      "eng": "educate",
+      "jpn": "を教育する；に教える；（能力など）を養う"
+    },
+    {
+      "number": 404,
+      "eng": "purchase",
+      "jpn": "を購入する"
+    },
+    {
+      "number": 405,
+      "eng": "recommend",
+      "jpn": "を勧める"
+    },
+    {
+      "number": 406,
+      "eng": "admit",
+      "jpn": "（を）（しぶしぶ）認める；に（～への）入場［入学など］を認める（to / into）"
+    },
+    {
+      "number": 407,
+      "eng": "generate",
+      "jpn": "を生み出す；（電気など）を発生させる"
+    },
+    {
+      "number": 408,
+      "eng": "explore",
+      "jpn": "（を）調査［探究］する；（を）探検［探査］する"
+    },
+    {
+      "number": 409,
+      "eng": "amaze",
+      "jpn": "をびっくりさせる"
+    },
+    {
+      "number": 410,
+      "eng": "tear",
+      "jpn": "を引き裂く；裂ける"
+    },
+    {
+      "number": 411,
+      "eng": "settle",
+      "jpn": "を解決する；（に）移り住む；を落ち着かせる"
+    },
+    {
+      "number": 412,
+      "eng": "afford",
+      "jpn": "を持つ［する］余裕がある；を与える"
+    },
+    {
+      "number": 413,
+      "eng": "conclude",
+      "jpn": "と結論づける；を締めくくる；を締結する"
+    },
+    {
+      "number": 414,
+      "eng": "advertise",
+      "jpn": "を宣伝する；（～を求める）広告を出す（for）"
+    },
+    {
+      "number": 415,
+      "eng": "encounter",
+      "jpn": "に遭遇する；に（思いがけず）出会う"
+    },
+    {
+      "number": 416,
+      "eng": "remind",
+      "jpn": "に思い出させる"
+    },
+    {
+      "number": 417,
+      "eng": "locate",
+      "jpn": "〔受身形で〕位置する；の位置を探し当てる"
+    },
+    {
+      "number": 418,
+      "eng": "aid",
+      "jpn": "を援助する，助ける（≒ help）"
+    },
+    {
+      "number": 419,
+      "eng": "bite",
+      "jpn": "（を）かむ，（に）かみつく；（を）刺す"
+    },
+    {
+      "number": 420,
+      "eng": "deliver",
+      "jpn": "を配達する；（演説・講義）をする；子を産む"
+    },
+    {
+      "number": 421,
+      "eng": "perceive",
+      "jpn": "に気づく；を知覚する；を理解する"
+    },
+    {
+      "number": 422,
+      "eng": "distinguish",
+      "jpn": "を区別する"
+    },
+    {
+      "number": 423,
+      "eng": "imply",
+      "jpn": "を暗に意味する；を必然的に伴う"
+    },
+    {
+      "number": 424,
+      "eng": "handle",
+      "jpn": "を処理する，扱う；を論じる；を商う"
+    },
+    {
+      "number": 425,
+      "eng": "praise",
+      "jpn": "を（～のことで）賞賛する（for）；賛美する"
+    },
+    {
+      "number": 426,
+      "eng": "appeal",
+      "jpn": "訴える；抗議する；（上級審に）上訴する"
+    },
+    {
+      "number": 427,
+      "eng": "insist",
+      "jpn": "（を）強く主張する；要求する"
+    },
+    {
+      "number": 428,
+      "eng": "compete",
+      "jpn": "競う；〔通例否定文で〕（～に）匹敵する（with）"
+    },
+    {
+      "number": 429,
+      "eng": "rank",
+      "jpn": "を位置づける，評価する；（ある地位に）位置する"
+    },
+    {
+      "number": 430,
+      "eng": "deny",
+      "jpn": "を否定する；を拒む"
+    },
+    {
+      "number": 431,
+      "eng": "reject",
+      "jpn": "を拒否する"
+    },
+    {
+      "number": 432,
+      "eng": "intend",
+      "jpn": "を意図する"
+    },
+    {
+      "number": 433,
+      "eng": "expose",
+      "jpn": "をさらす；を暴露する；を露出する"
+    },
+    {
+      "number": 434,
+      "eng": "favor",
+      "jpn": "に賛成する；を好む；をひいきする"
+    },
+    {
+      "number": 435,
+      "eng": "inspire",
+      "jpn": "（人）を奮起させる；を喚起する"
+    },
+    {
+      "number": 436,
+      "eng": "propose",
+      "jpn": "を提案する；をもくろむ；結婚を申し込む"
+    },
+    {
+      "number": 437,
+      "eng": "spell",
+      "jpn": "（語）をつづる；という語になる"
+    },
+    {
+      "number": 438,
+      "eng": "breathe",
+      "jpn": "呼吸する；を吸う"
+    },
+    {
+      "number": 439,
+      "eng": "repair",
+      "jpn": "を修理する（≒ fix）；を修復する"
+    },
+    {
+      "number": 440,
+      "eng": "consist",
+      "jpn": "（～から）成る（of）；（～に）ある（in）"
+    },
+    {
+      "number": 441,
+      "eng": "comment",
+      "jpn": "意見，コメント；批判"
+    },
+    {
+      "number": 442,
+      "eng": "instruction",
+      "jpn": "〔通例～s〕指示；〔～s〕（製品の）使用書"
+    },
+    {
+      "number": 443,
+      "eng": "religion",
+      "jpn": "宗教；信条；信仰（心）"
+    },
+    {
+      "number": 444,
+      "eng": "neighborhood",
+      "jpn": "地域；近所"
+    },
+    {
+      "number": 445,
+      "eng": "laboratory",
+      "jpn": "実験室，研究室"
+    },
+    {
+      "number": 446,
+      "eng": "presence",
+      "jpn": "存在；出席；面前"
+    },
+    {
+      "number": 447,
+      "eng": "confidence",
+      "jpn": "自信；信頼；秘密"
+    },
+    {
+      "number": 448,
+      "eng": "harm",
+      "jpn": "害，損害"
+    },
+    {
+      "number": 449,
+      "eng": "instrument",
+      "jpn": "器具；楽器（≒ musical instrument）"
+    },
+    {
+      "number": 450,
+      "eng": "category",
+      "jpn": "部類，区分；範疇"
+    },
+    {
+      "number": 451,
+      "eng": "capital",
+      "jpn": "資本；首都；大文字（≒ capital letter）"
+    },
+    {
+      "number": 452,
+      "eng": "outcome",
+      "jpn": "結果（≒ result）；成果"
+    },
+    {
+      "number": 453,
+      "eng": "notion",
+      "jpn": "概念，観念；見解；意向"
+    },
+    {
+      "number": 454,
+      "eng": "review",
+      "jpn": "（書物などの）論評；再調査；【米】復習"
+    },
+    {
+      "number": 455,
+      "eng": "trait",
+      "jpn": "特性（≒ feature）"
+    },
+    {
+      "number": 456,
+      "eng": "diversity",
+      "jpn": "多様性；相違点"
+    },
+    {
+      "number": 457,
+      "eng": "victim",
+      "jpn": "犠牲（者），被害者"
+    },
+    {
+      "number": 458,
+      "eng": "occasion",
+      "jpn": "場合，時；行事；機会"
+    },
+    {
+      "number": 459,
+      "eng": "facility",
+      "jpn": "施設，設備；機能；才能"
+    },
+    {
+      "number": 460,
+      "eng": "stock",
+      "jpn": "在庫品；蓄え；株"
+    },
+    {
+      "number": 461,
+      "eng": "conference",
+      "jpn": "会議；協議"
+    },
+    {
+      "number": 462,
+      "eng": "humanity",
+      "jpn": "人類；人間性；人情；〔（the） ～ties〕人文科学"
+    },
+    {
+      "number": 463,
+      "eng": "dialect",
+      "jpn": "方言"
+    },
+    {
+      "number": 464,
+      "eng": "proportion",
+      "jpn": "割合；部分；釣り合い"
+    },
+    {
+      "number": 465,
+      "eng": "tip",
+      "jpn": "助言，秘訣；チップ；先端"
+    },
+    {
+      "number": 466,
+      "eng": "lawyer",
+      "jpn": "弁護士"
+    },
+    {
+      "number": 467,
+      "eng": "stuff",
+      "jpn": "（漠然と）物；素材；素質"
+    },
+    {
+      "number": 468,
+      "eng": "comfort",
+      "jpn": "快適さ；慰め"
+    },
+    {
+      "number": 469,
+      "eng": "philosophy",
+      "jpn": "哲学；原理；人生観"
+    },
+    {
+      "number": 470,
+      "eng": "mammal",
+      "jpn": "哺乳動物"
+    },
+    {
+      "number": 471,
+      "eng": "quantity",
+      "jpn": "量（⇔ quality ⇒ 69）；分量"
+    },
+    {
+      "number": 472,
+      "eng": "landscape",
+      "jpn": "風景；領域；状況"
+    },
+    {
+      "number": 473,
+      "eng": "tribe",
+      "jpn": "部族；仲間"
+    },
+    {
+      "number": 474,
+      "eng": "organ",
+      "jpn": "器官，臓器；組織；（パイプ）オルガン"
+    },
+    {
+      "number": 475,
+      "eng": "trial",
+      "jpn": "試み，（品質・性能などの）試験；裁判；試用期間"
+    },
+    {
+      "number": 476,
+      "eng": "norm",
+      "jpn": "規範；標準"
+    },
+    {
+      "number": 477,
+      "eng": "code",
+      "jpn": "規範；暗号；法典"
+    },
+    {
+      "number": 478,
+      "eng": "substance",
+      "jpn": "物質；実体；趣旨"
+    },
+    {
+      "number": 479,
+      "eng": "multiple",
+      "jpn": "多様な；種々雑多な"
+    },
+    {
+      "number": 480,
+      "eng": "numerous",
+      "jpn": "非常に数の多い"
+    },
+    {
+      "number": 481,
+      "eng": "narrow",
+      "jpn": "狭い；細い；限られた"
+    },
+    {
+      "number": 482,
+      "eng": "widespread",
+      "jpn": "広範囲にわたる；広く普及した"
+    },
+    {
+      "number": 483,
+      "eng": "sufficient",
+      "jpn": "（～に；...するのに）十分な（for；to do）"
+    },
+    {
+      "number": 484,
+      "eng": "proper",
+      "jpn": "適切な；正式の；〔名詞の後ろで〕主要な；（～に）固有の（to）"
+    },
+    {
+      "number": 485,
+      "eng": "linguistic",
+      "jpn": "言語の，言語学の"
+    },
+    {
+      "number": 486,
+      "eng": "annual",
+      "jpn": "年1回の，例年の；1年間の"
+    },
+    {
+      "number": 487,
+      "eng": "contemporary",
+      "jpn": "現代の；同時代の；同年輩の"
+    },
+    {
+      "number": 488,
+      "eng": "contrary",
+      "jpn": "（～と）反対の（to）"
+    },
+    {
+      "number": 489,
+      "eng": "strict",
+      "jpn": "（規則などが）厳しい；厳格な"
+    },
+    {
+      "number": 490,
+      "eng": "civil",
+      "jpn": "市民の；民間の；民事の（⇔ criminal 刑事の）"
+    },
+    {
+      "number": 491,
+      "eng": "odd",
+      "jpn": "奇妙な（≒ strange）；奇数の"
+    },
+    {
+      "number": 492,
+      "eng": "unknown",
+      "jpn": "不明の；（～に）知られていない（to），無名の"
+    },
+    {
+      "number": 493,
+      "eng": "superior",
+      "jpn": "よりすぐれた（⇔ inferior ⇒ 1092）"
+    },
+    {
+      "number": 494,
+      "eng": "sensitive",
+      "jpn": "敏感な；神経質な；微妙な"
+    },
+    {
+      "number": 495,
+      "eng": "violent",
+      "jpn": "（人・気質などが）激しい；暴力的な"
+    },
+    {
+      "number": 496,
+      "eng": "virtual",
+      "jpn": "仮想の；事実上の"
+    },
+    {
+      "number": 497,
+      "eng": "regardless",
+      "jpn": "（～に）かまわない，無頓着な（of）"
+    },
+    {
+      "number": 498,
+      "eng": "immediate",
+      "jpn": "即座の；当面の；すぐそばの；直接の"
+    },
+    {
+      "number": 499,
+      "eng": "crucial",
+      "jpn": "重要な"
+    },
+    {
+      "number": 500,
+      "eng": "somewhat",
+      "jpn": "いくぶん，多少"
+    },
+    {
+      "number": 501,
+      "eng": "interpret",
+      "jpn": "を解釈する；（を）通訳する"
+    },
+    {
+      "number": 502,
+      "eng": "translate",
+      "jpn": "を翻訳する；を（～に）変える（into）"
+    },
+    {
+      "number": 503,
+      "eng": "concentrate",
+      "jpn": "（を）集中する"
+    },
+    {
+      "number": 504,
+      "eng": "request",
+      "jpn": "に（...するように）頼む（to do）；を要請する"
+    },
+    {
+      "number": 505,
+      "eng": "criticize",
+      "jpn": "を批判する；を批評する"
+    },
+    {
+      "number": 506,
+      "eng": "overcome",
+      "jpn": "を克服する"
+    },
+    {
+      "number": 507,
+      "eng": "obtain",
+      "jpn": "を得る"
+    },
+    {
+      "number": 508,
+      "eng": "inform",
+      "jpn": "に知らせる；情報を提供する"
+    },
+    {
+      "number": 509,
+      "eng": "ensure",
+      "jpn": "を確実にする（≒ make sure）；を守る"
+    },
+    {
+      "number": 510,
+      "eng": "announce",
+      "jpn": "を発表［公表］する，知らせる；（物事が）を告げる"
+    },
+    {
+      "number": 511,
+      "eng": "grant",
+      "jpn": "（人）に（許可・権利など）を与える；を認める"
+    },
+    {
+      "number": 512,
+      "eng": "freeze",
+      "jpn": "凍る；を凍らせる；（計画・資金など）を凍結する"
+    },
+    {
+      "number": 513,
+      "eng": "oppose",
+      "jpn": "に反対する；を対抗［対比］させる"
+    },
+    {
+      "number": 514,
+      "eng": "differ",
+      "jpn": "異なる"
+    },
+    {
+      "number": 515,
+      "eng": "hate",
+      "jpn": "をひどく嫌う；を残念に思う"
+    },
+    {
+      "number": 516,
+      "eng": "emphasize",
+      "jpn": "を強調する；を重視する"
+    },
+    {
+      "number": 517,
+      "eng": "employ",
+      "jpn": "を雇う（≒ give ～ a job）；を使う（≒ use）"
+    },
+    {
+      "number": 518,
+      "eng": "credit",
+      "jpn": "（功績など）を（～に）帰する（to）；を信じる"
+    },
+    {
+      "number": 519,
+      "eng": "transform",
+      "jpn": "を変える；変わる"
+    },
+    {
+      "number": 520,
+      "eng": "construct",
+      "jpn": "を建設する（＝ build）；を構成する"
+    },
+    {
+      "number": 521,
+      "eng": "arise",
+      "jpn": "生じる"
+    },
+    {
+      "number": 522,
+      "eng": "beat",
+      "jpn": "を打ち負かす；（を）打つ，たたく"
+    },
+    {
+      "number": 523,
+      "eng": "regret",
+      "jpn": "を後悔する"
+    },
+    {
+      "number": 524,
+      "eng": "alter",
+      "jpn": "を変える；変わる（≒ change）"
+    },
+    {
+      "number": 525,
+      "eng": "absorb",
+      "jpn": "を吸収する；を併合する；を夢中にさせる"
+    },
+    {
+      "number": 526,
+      "eng": "disappoint",
+      "jpn": "を失望させる；（希望など）をくじく"
+    },
+    {
+      "number": 527,
+      "eng": "cure",
+      "jpn": "を治す；を取り除く；（病気が）治る"
+    },
+    {
+      "number": 528,
+      "eng": "transport",
+      "jpn": "を輸送する；を運ぶ"
+    },
+    {
+      "number": 529,
+      "eng": "rush",
+      "jpn": "急いで行く；性急に行動する；をせき立てる"
+    },
+    {
+      "number": 530,
+      "eng": "hang",
+      "jpn": "を掛ける；を絞首刑にする；垂れ（下が）る"
+    },
+    {
+      "number": 531,
+      "eng": "blame",
+      "jpn": "を責める；の責任を負わせる"
+    },
+    {
+      "number": 532,
+      "eng": "ban",
+      "jpn": "を（法的に）禁止する；を締め出す"
+    },
+    {
+      "number": 533,
+      "eng": "fascinate",
+      "jpn": "を魅了する"
+    },
+    {
+      "number": 534,
+      "eng": "recover",
+      "jpn": "回復する；を取り戻す"
+    },
+    {
+      "number": 535,
+      "eng": "celebrate",
+      "jpn": "を祝う；を挙行する"
+    },
+    {
+      "number": 536,
+      "eng": "manufacture",
+      "jpn": "を製造する；をでっち上げる"
+    },
+    {
+      "number": 537,
+      "eng": "interact",
+      "jpn": "影響し合う；相互に作用する"
+    },
+    {
+      "number": 538,
+      "eng": "arrange",
+      "jpn": "の段取りをつける；を手配する；を配置する"
+    },
+    {
+      "number": 539,
+      "eng": "adjust",
+      "jpn": "を調整する；を適合させる；順応する"
+    },
+    {
+      "number": 540,
+      "eng": "confirm",
+      "jpn": "を確認する；を裏づける"
+    },
+    {
+      "number": 541,
+      "eng": "insight",
+      "jpn": "見識，理解（力）；洞察力"
+    },
+    {
+      "number": 542,
+      "eng": "innovation",
+      "jpn": "革新；新機軸"
+    },
+    {
+      "number": 543,
+      "eng": "budget",
+      "jpn": "予算；経費"
+    },
+    {
+      "number": 544,
+      "eng": "fee",
+      "jpn": "料金；謝礼"
+    },
+    {
+      "number": 545,
+      "eng": "expense",
+      "jpn": "〔～s〕経費；費用；犠牲"
+    },
+    {
+      "number": 546,
+      "eng": "debt",
+      "jpn": "借金，負債；恩義"
+    },
+    {
+      "number": 547,
+      "eng": "loan",
+      "jpn": "貸付金，融資；貸すこと"
+    },
+    {
+      "number": 548,
+      "eng": "duty",
+      "jpn": "義務；〔しばしば～ties〕職務；関税"
+    },
+    {
+      "number": 549,
+      "eng": "alarm",
+      "jpn": "不安，恐れ；警報装置"
+    },
+    {
+      "number": 550,
+      "eng": "emergency",
+      "jpn": "緊急（事態）"
+    },
+    {
+      "number": 551,
+      "eng": "democracy",
+      "jpn": "民主主義，民主政治；民主国家"
+    },
+    {
+      "number": 552,
+      "eng": "minister",
+      "jpn": "大臣；（プロテスタント系の）聖職者"
+    },
+    {
+      "number": 553,
+      "eng": "fellow",
+      "jpn": "仲間，同僚；同級生；男"
+    },
+    {
+      "number": 554,
+      "eng": "candidate",
+      "jpn": "（～の）候補（者）（for）；志願者"
+    },
+    {
+      "number": 555,
+      "eng": "corporation",
+      "jpn": "（大）企業；法人"
+    },
+    {
+      "number": 556,
+      "eng": "stereotype",
+      "jpn": "固定観念；決まり文句"
+    },
+    {
+      "number": 557,
+      "eng": "route",
+      "jpn": "道（筋）；路線，ルート；（～の）手段（to）"
+    },
+    {
+      "number": 558,
+      "eng": "disorder",
+      "jpn": "障害，（心身の）不調；混乱"
+    },
+    {
+      "number": 559,
+      "eng": "depression",
+      "jpn": "憂うつ；うつ病；不況；低気圧"
+    },
+    {
+      "number": 560,
+      "eng": "weapon",
+      "jpn": "兵器，武器（≒ arms）"
+    },
+    {
+      "number": 561,
+      "eng": "immigration",
+      "jpn": "（他国からの）移民，移住；入国管理"
+    },
+    {
+      "number": 562,
+      "eng": "barrier",
+      "jpn": "（～に対する）障壁（against / to）；防壁"
+    },
+    {
+      "number": 563,
+      "eng": "disadvantage",
+      "jpn": "不利（な点）；障害；（信用などの）損失"
+    },
+    {
+      "number": 564,
+      "eng": "mood",
+      "jpn": "気分；機嫌；雰囲気"
+    },
+    {
+      "number": 565,
+      "eng": "motion",
+      "jpn": "動き，動作；運動；動議"
+    },
+    {
+      "number": 566,
+      "eng": "routine",
+      "jpn": "決まり切った仕事；いつもの手順"
+    },
+    {
+      "number": 567,
+      "eng": "discipline",
+      "jpn": "規律，しつけ；訓練；懲戒；学問分野"
+    },
+    {
+      "number": 568,
+      "eng": "myth",
+      "jpn": "作り話；神話"
+    },
+    {
+      "number": 569,
+      "eng": "hypothesis",
+      "jpn": "仮説；憶測"
+    },
+    {
+      "number": 570,
+      "eng": "physician",
+      "jpn": "【主に米】 医師（≒ doctor）；内科医"
+    },
+    {
+      "number": 571,
+      "eng": "client",
+      "jpn": "顧客（≒ customer）；（弁護士などの）依頼人"
+    },
+    {
+      "number": 572,
+      "eng": "colony",
+      "jpn": "植民地；集団居住地；（動植物の）コロニー"
+    },
+    {
+      "number": 573,
+      "eng": "statistics",
+      "jpn": "統計；統計学"
+    },
+    {
+      "number": 574,
+      "eng": "grain",
+      "jpn": "穀物；粒；きめ"
+    },
+    {
+      "number": 575,
+      "eng": "ingredient",
+      "jpn": "材料，成分；（成功の）要因"
+    },
+    {
+      "number": 576,
+      "eng": "treasure",
+      "jpn": "宝物，財宝；財産"
+    },
+    {
+      "number": 577,
+      "eng": "contract",
+      "jpn": "契約（書）；協定"
+    },
+    {
+      "number": 578,
+      "eng": "welfare",
+      "jpn": "福祉，幸福"
+    },
+    {
+      "number": 579,
+      "eng": "prime",
+      "jpn": "主要な，最も重要な；最適な；極上の"
+    },
+    {
+      "number": 580,
+      "eng": "curious",
+      "jpn": "好奇心の強い；奇妙な"
+    },
+    {
+      "number": 581,
+      "eng": "dramatic",
+      "jpn": "劇的な；演劇の"
+    },
+    {
+      "number": 582,
+      "eng": "distinct",
+      "jpn": "明らかに異なる；明瞭な"
+    },
+    {
+      "number": 583,
+      "eng": "anxious",
+      "jpn": "心配して；切望して"
+    },
+    {
+      "number": 584,
+      "eng": "vital",
+      "jpn": "必要不可欠な；活気のある；生命にかかわる"
+    },
+    {
+      "number": 585,
+      "eng": "conventional",
+      "jpn": "従来の；月並みな"
+    },
+    {
+      "number": 586,
+      "eng": "abstract",
+      "jpn": "抽象的な（⇔ concrete ⇒ 783）"
+    },
+    {
+      "number": 587,
+      "eng": "minor",
+      "jpn": "重要でない；小さい（⇔ major ⇒ 88）"
+    },
+    {
+      "number": 588,
+      "eng": "extraordinary",
+      "jpn": "並はずれた；異常な，驚くべき"
+    },
+    {
+      "number": 589,
+      "eng": "stable",
+      "jpn": "安定した（⇔ unstable 不安定な）；動じない"
+    },
+    {
+      "number": 590,
+      "eng": "flexible",
+      "jpn": "融通の利く，柔軟な"
+    },
+    {
+      "number": 591,
+      "eng": "brief",
+      "jpn": "簡潔な；短い"
+    },
+    {
+      "number": 592,
+      "eng": "aggressive",
+      "jpn": "攻撃的な；意欲的な"
+    },
+    {
+      "number": 593,
+      "eng": "visible",
+      "jpn": "（目に）見える（⇔ invisible 見えない）；明白な"
+    },
+    {
+      "number": 594,
+      "eng": "unexpected",
+      "jpn": "思いがけない，不意の"
+    },
+    {
+      "number": 595,
+      "eng": "ethnic",
+      "jpn": "民族の，人種の；民族特有の"
+    },
+    {
+      "number": 596,
+      "eng": "alien",
+      "jpn": "（～にとって）異質の（to）；外国の；宇宙人の"
+    },
+    {
+      "number": 597,
+      "eng": "initial",
+      "jpn": "初めの"
+    },
+    {
+      "number": 598,
+      "eng": "exact",
+      "jpn": "正確な；まさにその"
+    },
+    {
+      "number": 599,
+      "eng": "precise",
+      "jpn": "正確な（≒ exact）；精密な；まさにその"
+    },
+    {
+      "number": 600,
+      "eng": "latter",
+      "jpn": "後者の（⇔ former 前者の），後半の"
+    },
+    {
+      "number": 601,
+      "eng": "commit",
+      "jpn": "〔commit oneselfまたは受身形で〕献身する；（罪など）を犯す；を投入する"
+    },
+    {
+      "number": 602,
+      "eng": "stimulate",
+      "jpn": "を刺激する"
+    },
+    {
+      "number": 603,
+      "eng": "enhance",
+      "jpn": "（価値など）を高める，増す"
+    },
+    {
+      "number": 604,
+      "eng": "pursue",
+      "jpn": "を追求する；に従事する"
+    },
+    {
+      "number": 605,
+      "eng": "react",
+      "jpn": "反応する；化学反応を起こす"
+    },
+    {
+      "number": 606,
+      "eng": "disagree",
+      "jpn": "不賛成である；意見が食い違う"
+    },
+    {
+      "number": 607,
+      "eng": "stare",
+      "jpn": "じっと見る；を見つめる"
+    },
+    {
+      "number": 608,
+      "eng": "abandon",
+      "jpn": "を捨てる；を放棄する，断念する"
+    },
+    {
+      "number": 609,
+      "eng": "quit",
+      "jpn": "をやめる；（場所）を去る"
+    },
+    {
+      "number": 610,
+      "eng": "capture",
+      "jpn": "をとらえる；をとりこにする"
+    },
+    {
+      "number": 611,
+      "eng": "transfer",
+      "jpn": "を移す；を伝える；移る；乗り換える"
+    },
+    {
+      "number": 612,
+      "eng": "bother",
+      "jpn": "を悩ます；（～を）気にかける（about / with）"
+    },
+    {
+      "number": 613,
+      "eng": "persuade",
+      "jpn": "を説得する；に確信させる"
+    },
+    {
+      "number": 614,
+      "eng": "rent",
+      "jpn": "を賃借りする；を賃貸しする"
+    },
+    {
+      "number": 615,
+      "eng": "breed",
+      "jpn": "を繁殖させる，育てる；繁殖する"
+    },
+    {
+      "number": 616,
+      "eng": "invest",
+      "jpn": "（を）投資する；に（～を）与える（with）"
+    },
+    {
+      "number": 617,
+      "eng": "reserve",
+      "jpn": "を予約する；を取っておく；（判断など）を保留する"
+    },
+    {
+      "number": 618,
+      "eng": "trace",
+      "jpn": "（足跡・起源など）をたどる；を捜し出す"
+    },
+    {
+      "number": 619,
+      "eng": "illustrate",
+      "jpn": "を説明する；に挿絵を入れる"
+    },
+    {
+      "number": 620,
+      "eng": "advise",
+      "jpn": "に忠告［助言］する；（を）助言する"
+    },
+    {
+      "number": 621,
+      "eng": "convey",
+      "jpn": "を伝える；を運ぶ，運搬する"
+    },
+    {
+      "number": 622,
+      "eng": "attach",
+      "jpn": "を（取り）付ける；を付与する"
+    },
+    {
+      "number": 623,
+      "eng": "stretch",
+      "jpn": "を伸ばす；を広げる；伸びる；及ぶ"
+    },
+    {
+      "number": 624,
+      "eng": "puzzle",
+      "jpn": "を当惑させる"
+    },
+    {
+      "number": 625,
+      "eng": "disturb",
+      "jpn": "をかき乱す；を妨害する；を動揺させる"
+    },
+    {
+      "number": 626,
+      "eng": "crash",
+      "jpn": "衝突する，墜落する；をぶつけて壊す"
+    },
+    {
+      "number": 627,
+      "eng": "cope",
+      "jpn": "うまく処理する"
+    },
+    {
+      "number": 628,
+      "eng": "permit",
+      "jpn": "を許可する（≒ allow）（⇔ forbid ⇒ 1013）"
+    },
+    {
+      "number": 629,
+      "eng": "impress",
+      "jpn": "を感動させる；に印象を与える"
+    },
+    {
+      "number": 630,
+      "eng": "suspect",
+      "jpn": "ではないかと思う；（人）を疑う"
+    },
+    {
+      "number": 631,
+      "eng": "upset",
+      "jpn": "を動揺させる；をだめにする"
+    },
+    {
+      "number": 632,
+      "eng": "frighten",
+      "jpn": "（人）を怖がらせる"
+    },
+    {
+      "number": 633,
+      "eng": "import",
+      "jpn": "を輸入する（⇔ export （を）輸出する）；を取り込む"
+    },
+    {
+      "number": 634,
+      "eng": "export",
+      "jpn": "（を）輸出する（⇔ import を輸入する）"
+    },
+    {
+      "number": 635,
+      "eng": "investigate",
+      "jpn": "を調査する；を究明する；（～を）調査する（into）"
+    },
+    {
+      "number": 636,
+      "eng": "monitor",
+      "jpn": "を監視する；を傍受する"
+    },
+    {
+      "number": 637,
+      "eng": "calculate",
+      "jpn": "を計算する；を予測する"
+    },
+    {
+      "number": 638,
+      "eng": "eliminate",
+      "jpn": "を取り除く"
+    },
+    {
+      "number": 639,
+      "eng": "ease",
+      "jpn": "を軽減する；和らぐ；緩む"
+    },
+    {
+      "number": 640,
+      "eng": "launch",
+      "jpn": "を開始する；を売り出す；を発射する"
+    },
+    {
+      "number": 641,
+      "eng": "sequence",
+      "jpn": "連続；一連（のもの）"
+    },
+    {
+      "number": 642,
+      "eng": "therapy",
+      "jpn": "療法；心理療法"
+    },
+    {
+      "number": 643,
+      "eng": "symptom",
+      "jpn": "症状；兆候（≒ sign）"
+    },
+    {
+      "number": 644,
+      "eng": "incident",
+      "jpn": "出来事，事件；紛争"
+    },
+    {
+      "number": 645,
+      "eng": "witness",
+      "jpn": "目撃者（≒ eyewitness）；証人；証拠，証言"
+    },
+    {
+      "number": 646,
+      "eng": "sum",
+      "jpn": "（金）額；合計；要点"
+    },
+    {
+      "number": 647,
+      "eng": "burden",
+      "jpn": "負担；（重い）義務；積み荷"
+    },
+    {
+      "number": 648,
+      "eng": "tone",
+      "jpn": "口調；音色；雰囲気；色調"
+    },
+    {
+      "number": 649,
+      "eng": "honor",
+      "jpn": "光栄；名誉（⇔ dishonor 不名誉）；敬意"
+    },
+    {
+      "number": 650,
+      "eng": "award",
+      "jpn": "（～の）賞（for）；（証書などの）授与"
+    },
+    {
+      "number": 651,
+      "eng": "priority",
+      "jpn": "優先（事項）"
+    },
+    {
+      "number": 652,
+      "eng": "logic",
+      "jpn": "論理；道理；論理学"
+    },
+    {
+      "number": 653,
+      "eng": "minimum",
+      "jpn": "最小限度（⇔ maximum ⇒ 965）"
+    },
+    {
+      "number": 654,
+      "eng": "exception",
+      "jpn": "（～の）例外（to）"
+    },
+    {
+      "number": 655,
+      "eng": "clue",
+      "jpn": "（～の）手がかり（to / about）；（パズルの）ヒント"
+    },
+    {
+      "number": 656,
+      "eng": "bond",
+      "jpn": "絆；債券；束縛；接着剤"
+    },
+    {
+      "number": 657,
+      "eng": "virus",
+      "jpn": "ウイルス；（感染症の）病原体"
+    },
+    {
+      "number": 658,
+      "eng": "surgery",
+      "jpn": "（外科）手術；外科，外科医学"
+    },
+    {
+      "number": 659,
+      "eng": "insurance",
+      "jpn": "保険；保険料；保険金"
+    },
+    {
+      "number": 660,
+      "eng": "frame",
+      "jpn": "枠，（額）縁；骨組み；体格"
+    },
+    {
+      "number": 661,
+      "eng": "shelter",
+      "jpn": "避難（所），保護"
+    },
+    {
+      "number": 662,
+      "eng": "territory",
+      "jpn": "領土；（活動の）領域；（動物の）テリトリー"
+    },
+    {
+      "number": 663,
+      "eng": "boundary",
+      "jpn": "境界（線）；〔通例～ries〕限界"
+    },
+    {
+      "number": 664,
+      "eng": "habitat",
+      "jpn": "生息地；（人の）居住地"
+    },
+    {
+      "number": 665,
+      "eng": "district",
+      "jpn": "地区；行政区"
+    },
+    {
+      "number": 666,
+      "eng": "conservation",
+      "jpn": "（動植物などの）保護；保存"
+    },
+    {
+      "number": 667,
+      "eng": "harvest",
+      "jpn": "収穫（物）；収穫期；漁獲高"
+    },
+    {
+      "number": 668,
+      "eng": "predator",
+      "jpn": "捕食動物；略奪者"
+    },
+    {
+      "number": 669,
+      "eng": "trap",
+      "jpn": "わな；苦境"
+    },
+    {
+      "number": 670,
+      "eng": "trick",
+      "jpn": "こつ；策略；いたずら；芸当"
+    },
+    {
+      "number": 671,
+      "eng": "fault",
+      "jpn": "〔通例one's ～〕責任；欠点；誤り"
+    },
+    {
+      "number": 672,
+      "eng": "discount",
+      "jpn": "割引"
+    },
+    {
+      "number": 673,
+      "eng": "bias",
+      "jpn": "偏見；傾向"
+    },
+    {
+      "number": 674,
+      "eng": "cooperation",
+      "jpn": "協力，共同"
+    },
+    {
+      "number": 675,
+      "eng": "patent",
+      "jpn": "特許（権）；特許品"
+    },
+    {
+      "number": 676,
+      "eng": "dialogue",
+      "jpn": "対話，会話；意見の交換"
+    },
+    {
+      "number": 677,
+      "eng": "component",
+      "jpn": "構成要素；部品"
+    },
+    {
+      "number": 678,
+      "eng": "reputation",
+      "jpn": "評判；名声"
+    },
+    {
+      "number": 679,
+      "eng": "verbal",
+      "jpn": "言葉の；口頭での；動詞の"
+    },
+    {
+      "number": 680,
+      "eng": "internal",
+      "jpn": "内部の（⇔ external ⇒ 989）；国内の；内面的な"
+    },
+    {
+      "number": 681,
+      "eng": "solid",
+      "jpn": "しっかりした；硬い；固体の"
+    },
+    {
+      "number": 682,
+      "eng": "remote",
+      "jpn": "（～から）遠く離れた（from）；かけ離れた"
+    },
+    {
+      "number": 683,
+      "eng": "principal",
+      "jpn": "主要な；資本金の"
+    },
+    {
+      "number": 684,
+      "eng": "sophisticated",
+      "jpn": "高性能の，精巧な；洗練された"
+    },
+    {
+      "number": 685,
+      "eng": "equivalent",
+      "jpn": "等しい，相当する"
+    },
+    {
+      "number": 686,
+      "eng": "rational",
+      "jpn": "理性的な；合理的な"
+    },
+    {
+      "number": 687,
+      "eng": "relevant",
+      "jpn": "関係がある；適切な"
+    },
+    {
+      "number": 688,
+      "eng": "absolute",
+      "jpn": "絶対的な（⇔ relative 相対的な）"
+    },
+    {
+      "number": 689,
+      "eng": "frequent",
+      "jpn": "頻繁な"
+    },
+    {
+      "number": 690,
+      "eng": "permanent",
+      "jpn": "永続的な（⇔ temporary ⇒ 793）"
+    },
+    {
+      "number": 691,
+      "eng": "intense",
+      "jpn": "強烈な；熱烈な"
+    },
+    {
+      "number": 692,
+      "eng": "meaningful",
+      "jpn": "意味のある"
+    },
+    {
+      "number": 693,
+      "eng": "evil",
+      "jpn": "邪悪な；有害な"
+    },
+    {
+      "number": 694,
+      "eng": "extinct",
+      "jpn": "絶滅した；廃止された"
+    },
+    {
+      "number": 695,
+      "eng": "random",
+      "jpn": "無作為の；手当たり次第の"
+    },
+    {
+      "number": 696,
+      "eng": "raw",
+      "jpn": "生の；未加工の"
+    },
+    {
+      "number": 697,
+      "eng": "rude",
+      "jpn": "無礼な（⇔ polite 礼儀正しい）；粗野な"
+    },
+    {
+      "number": 698,
+      "eng": "mere",
+      "jpn": "単なる，ほんの"
+    },
+    {
+      "number": 699,
+      "eng": "tropical",
+      "jpn": "熱帯の"
+    },
+    {
+      "number": 700,
+      "eng": "forth",
+      "jpn": "前へ，先へ；それ以降"
+    },
+    {
+      "number": 701,
+      "eng": "possess",
+      "jpn": "を所有している；の心をとらえる"
+    },
+    {
+      "number": 702,
+      "eng": "dominate",
+      "jpn": "を支配する；（～より）優勢である（over）"
+    },
+    {
+      "number": 703,
+      "eng": "guarantee",
+      "jpn": "を保証する"
+    },
+    {
+      "number": 704,
+      "eng": "melt",
+      "jpn": "溶ける；なごむ；を溶かす"
+    },
+    {
+      "number": 705,
+      "eng": "embarrass",
+      "jpn": "に恥ずかしい思いをさせる"
+    },
+    {
+      "number": 706,
+      "eng": "discourage",
+      "jpn": "（人）にやる気をなくさせる；を落胆させる（⇔ encourage ⇒ 30）"
+    },
+    {
+      "number": 707,
+      "eng": "detect",
+      "jpn": "を感知する；を見つけ出す；に気づく"
+    },
+    {
+      "number": 708,
+      "eng": "devote",
+      "jpn": "をささげる"
+    },
+    {
+      "number": 709,
+      "eng": "urge",
+      "jpn": "に（強く）促す；を強く主張する；を駆り立てる"
+    },
+    {
+      "number": 710,
+      "eng": "lend",
+      "jpn": "を貸す（⇔ borrow を借りる）；（人）に（助言・援助など）を与える"
+    },
+    {
+      "number": 711,
+      "eng": "restrict",
+      "jpn": "を制限する"
+    },
+    {
+      "number": 712,
+      "eng": "isolate",
+      "jpn": "を孤立させる"
+    },
+    {
+      "number": 713,
+      "eng": "accompany",
+      "jpn": "に同行する；に付随する"
+    },
+    {
+      "number": 714,
+      "eng": "exhaust",
+      "jpn": "を疲れ果てさせる；を使い尽くす；排気する"
+    },
+    {
+      "number": 715,
+      "eng": "annoy",
+      "jpn": "を悩ます；〔受身形で〕腹が立つ"
+    },
+    {
+      "number": 716,
+      "eng": "endanger",
+      "jpn": "を危険にさらす"
+    },
+    {
+      "number": 717,
+      "eng": "acknowledge",
+      "jpn": "（事実など）を認める（≒ admit ⇒ 406）；に謝意を表す"
+    },
+    {
+      "number": 718,
+      "eng": "admire",
+      "jpn": "に（～のことで）敬服［感心］する（for）"
+    },
+    {
+      "number": 719,
+      "eng": "evaluate",
+      "jpn": "を評価する；を査定する"
+    },
+    {
+      "number": 720,
+      "eng": "declare",
+      "jpn": "を宣言する；を申告する"
+    },
+    {
+      "number": 721,
+      "eng": "secure",
+      "jpn": "を確保する；を守る"
+    },
+    {
+      "number": 722,
+      "eng": "specialize",
+      "jpn": "専門とする；【英】（～を）専攻する（in）（≒ 【米】major）"
+    },
+    {
+      "number": 723,
+      "eng": "attribute",
+      "jpn": "（結果など）を（～に）帰する（to）"
+    },
+    {
+      "number": 724,
+      "eng": "pretend",
+      "jpn": "（の）ふりをする"
+    },
+    {
+      "number": 725,
+      "eng": "bury",
+      "jpn": "を埋める；を埋葬する；を隠す"
+    },
+    {
+      "number": 726,
+      "eng": "reverse",
+      "jpn": "を逆転させる；を反対にする"
+    },
+    {
+      "number": 727,
+      "eng": "resist",
+      "jpn": "に抵抗する；〔通例否定文で〕を我慢する"
+    },
+    {
+      "number": 728,
+      "eng": "scare",
+      "jpn": "をおびえさせる；を脅す"
+    },
+    {
+      "number": 729,
+      "eng": "imitate",
+      "jpn": "をまねる；を模造する"
+    },
+    {
+      "number": 730,
+      "eng": "assist",
+      "jpn": "（を）援助する；を手伝う"
+    },
+    {
+      "number": 731,
+      "eng": "resemble",
+      "jpn": "に似ている"
+    },
+    {
+      "number": 732,
+      "eng": "retire",
+      "jpn": "（～から）引退する，退職する（from）；退く"
+    },
+    {
+      "number": 733,
+      "eng": "neglect",
+      "jpn": "をおろそかにする，怠る；を無視する"
+    },
+    {
+      "number": 734,
+      "eng": "collapse",
+      "jpn": "崩壊する；（人が）倒れる；を折り畳む"
+    },
+    {
+      "number": 735,
+      "eng": "reform",
+      "jpn": "を改革する；を改心させる"
+    },
+    {
+      "number": 736,
+      "eng": "protest",
+      "jpn": "（に）抗議する；を主張する"
+    },
+    {
+      "number": 737,
+      "eng": "owe",
+      "jpn": "に借りがある；のおかげである"
+    },
+    {
+      "number": 738,
+      "eng": "sustain",
+      "jpn": "を持続させる；を支える"
+    },
+    {
+      "number": 739,
+      "eng": "assign",
+      "jpn": "を割り当てる；を（～に）配属する（to）"
+    },
+    {
+      "number": 740,
+      "eng": "accomplish",
+      "jpn": "を成し遂げる"
+    },
+    {
+      "number": 741,
+      "eng": "wisdom",
+      "jpn": "知恵；賢明さ；学識"
+    },
+    {
+      "number": 742,
+      "eng": "literacy",
+      "jpn": "読み書きの能力；（特定分野の）知識"
+    },
+    {
+      "number": 743,
+      "eng": "heritage",
+      "jpn": "遺産"
+    },
+    {
+      "number": 744,
+      "eng": "mission",
+      "jpn": "使命；（外交）使節団；布教"
+    },
+    {
+      "number": 745,
+      "eng": "license",
+      "jpn": "免許（証）；許可"
+    },
+    {
+      "number": 746,
+      "eng": "elite",
+      "jpn": "〔通例the ～〕〔集合的に〕エリート"
+    },
+    {
+      "number": 747,
+      "eng": "layer",
+      "jpn": "層"
+    },
+    {
+      "number": 748,
+      "eng": "motor",
+      "jpn": "モーター；原動力"
+    },
+    {
+      "number": 749,
+      "eng": "protein",
+      "jpn": "たんぱく質"
+    },
+    {
+      "number": 750,
+      "eng": "profession",
+      "jpn": "職業；専門職；同業者仲間"
+    },
+    {
+      "number": 751,
+      "eng": "editor",
+      "jpn": "編集者；編集長"
+    },
+    {
+      "number": 752,
+      "eng": "agent",
+      "jpn": "仲介者，代理人；薬剤"
+    },
+    {
+      "number": 753,
+      "eng": "globe",
+      "jpn": "地球（≒ earth）；世界；球"
+    },
+    {
+      "number": 754,
+      "eng": "haven",
+      "jpn": "避難所，保護区；港"
+    },
+    {
+      "number": 755,
+      "eng": "row",
+      "jpn": "列；（建物が並ぶ）通り"
+    },
+    {
+      "number": 756,
+      "eng": "sacrifice",
+      "jpn": "犠牲；いけにえ"
+    },
+    {
+      "number": 757,
+      "eng": "means",
+      "jpn": "〔単数・複数扱い〕手段；〔複数扱い〕資力，収入"
+    },
+    {
+      "number": 758,
+      "eng": "session",
+      "jpn": "集まり；（議会の）会期；（開会中の）議会"
+    },
+    {
+      "number": 759,
+      "eng": "league",
+      "jpn": "（競技）連盟；同盟"
+    },
+    {
+      "number": 760,
+      "eng": "contest",
+      "jpn": "コンテスト，競技（会）；争い"
+    },
+    {
+      "number": 761,
+      "eng": "guard",
+      "jpn": "警備員；警備隊；監視，警戒"
+    },
+    {
+      "number": 762,
+      "eng": "opponent",
+      "jpn": "（試合・論争などの）相手；反対者"
+    },
+    {
+      "number": 763,
+      "eng": "glance",
+      "jpn": "（～を）ちらっと見ること（at）"
+    },
+    {
+      "number": 764,
+      "eng": "divorce",
+      "jpn": "離婚；分離"
+    },
+    {
+      "number": 765,
+      "eng": "tissue",
+      "jpn": "（生物の）組織；ティッシュペーパー"
+    },
+    {
+      "number": 766,
+      "eng": "liquid",
+      "jpn": "液体"
+    },
+    {
+      "number": 767,
+      "eng": "inequality",
+      "jpn": "不平等；不公平な事柄"
+    },
+    {
+      "number": 768,
+      "eng": "prejudice",
+      "jpn": "（～に対する）偏見（against）（≒ bias）"
+    },
+    {
+      "number": 769,
+      "eng": "justice",
+      "jpn": "公正，正義；司法"
+    },
+    {
+      "number": 770,
+      "eng": "guideline",
+      "jpn": "指針，ガイドライン；指導基準"
+    },
+    {
+      "number": 771,
+      "eng": "platform",
+      "jpn": "プラットフォーム；演壇；舞台"
+    },
+    {
+      "number": 772,
+      "eng": "sector",
+      "jpn": "（社会・経済などの）部門，セクター；（都市内の）地域"
+    },
+    {
+      "number": 773,
+      "eng": "channel",
+      "jpn": "チャンネル；伝達経路；海峡"
+    },
+    {
+      "number": 774,
+      "eng": "glacier",
+      "jpn": "氷河"
+    },
+    {
+      "number": 775,
+      "eng": "primate",
+      "jpn": "霊長目の動物"
+    },
+    {
+      "number": 776,
+      "eng": "usage",
+      "jpn": "（使）用法；語法；習慣"
+    },
+    {
+      "number": 777,
+      "eng": "fortune",
+      "jpn": "財産；幸運（≒ luck）；運命"
+    },
+    {
+      "number": 778,
+      "eng": "correlation",
+      "jpn": "相互関係，相関（関係）"
+    },
+    {
+      "number": 779,
+      "eng": "artistic",
+      "jpn": "芸術的な"
+    },
+    {
+      "number": 780,
+      "eng": "literary",
+      "jpn": "文学の；文語の（⇔ colloquial 口語体の）"
+    },
+    {
+      "number": 781,
+      "eng": "classic",
+      "jpn": "第一級の；典型的な；定番の"
+    },
+    {
+      "number": 782,
+      "eng": "liberal",
+      "jpn": "自由主義の；寛大な；一般教養の"
+    },
+    {
+      "number": 783,
+      "eng": "concrete",
+      "jpn": "具体的な（⇔ abstract ⇒ 586）；有形の"
+    },
+    {
+      "number": 784,
+      "eng": "slight",
+      "jpn": "わずかな；取るに足らない"
+    },
+    {
+      "number": 785,
+      "eng": "federal",
+      "jpn": "連邦（政府）の"
+    },
+    {
+      "number": 786,
+      "eng": "primitive",
+      "jpn": "原始的な；未開の"
+    },
+    {
+      "number": 787,
+      "eng": "unfamiliar",
+      "jpn": "（～に）不慣れな（with）；（～に）（よく）知られていない（to）"
+    },
+    {
+      "number": 788,
+      "eng": "subtle",
+      "jpn": "微妙な；（気体などが）希薄な"
+    },
+    {
+      "number": 789,
+      "eng": "plain",
+      "jpn": "明らかな；平易な；飾りのない；率直な"
+    },
+    {
+      "number": 790,
+      "eng": "marine",
+      "jpn": "海の；船舶の"
+    },
+    {
+      "number": 791,
+      "eng": "apparent",
+      "jpn": "明白な；一見～らしい"
+    },
+    {
+      "number": 792,
+      "eng": "reluctant",
+      "jpn": "気が進まない，嫌がる（⇔ willing ⇒ 298）"
+    },
+    {
+      "number": 793,
+      "eng": "temporary",
+      "jpn": "一時的な（⇔ permanent ⇒ 690）"
+    },
+    {
+      "number": 794,
+      "eng": "guilty",
+      "jpn": "罪悪感のある；（～について）有罪の（of）"
+    },
+    {
+      "number": 795,
+      "eng": "royal",
+      "jpn": "王の"
+    },
+    {
+      "number": 796,
+      "eng": "pure",
+      "jpn": "純粋な；潔白な；まったくの"
+    },
+    {
+      "number": 797,
+      "eng": "incredible",
+      "jpn": "信じられない；すばらしい"
+    },
+    {
+      "number": 798,
+      "eng": "eager",
+      "jpn": "（～を）熱望して（for）；熱心な"
+    },
+    {
+      "number": 799,
+      "eng": "adequate",
+      "jpn": "十分な；適切な（⇔ inadequate 不適切な）"
+    },
+    {
+      "number": 800,
+      "eng": "via",
+      "jpn": "～経由で；～の媒介で"
+    },
+    {
+      "number": 801,
+      "eng": "assess",
+      "jpn": "を評価する；を査定する"
+    },
+    {
+      "number": 802,
+      "eng": "approve",
+      "jpn": "賛成する；を承認する"
+    },
+    {
+      "number": 803,
+      "eng": "remark",
+      "jpn": "と述べる；（～について）意見を述べる（on / upon）"
+    },
+    {
+      "number": 804,
+      "eng": "pose",
+      "jpn": "（危険）を引き起こす；（問題など）を提起する；ポーズをとる；（～を）装う（as）"
+    },
+    {
+      "number": 805,
+      "eng": "yield",
+      "jpn": "をもたらす；を（～に）譲る（to）；（～に）屈する（to）"
+    },
+    {
+      "number": 806,
+      "eng": "exhibit",
+      "jpn": "を示す，見せる；を展示する"
+    },
+    {
+      "number": 807,
+      "eng": "distribute",
+      "jpn": "を（～に）分配する（to）；〔受身形で〕分布する"
+    },
+    {
+      "number": 808,
+      "eng": "command",
+      "jpn": "を命じる；を指揮する；（景色）を見渡せる"
+    },
+    {
+      "number": 809,
+      "eng": "occupy",
+      "jpn": "（空間・時間）を占める；を占領する"
+    },
+    {
+      "number": 810,
+      "eng": "pop",
+      "jpn": "ひょいと動く；不意に現れる；ポンとはじける"
+    },
+    {
+      "number": 811,
+      "eng": "pile",
+      "jpn": "を積み重ねる；積み重なる"
+    },
+    {
+      "number": 812,
+      "eng": "greet",
+      "jpn": "に挨拶する；を迎える"
+    },
+    {
+      "number": 813,
+      "eng": "apologize",
+      "jpn": "（～に；～のことで）謝る（to；for）；弁明する"
+    },
+    {
+      "number": 814,
+      "eng": "frustrate",
+      "jpn": "をいら立たせる；（計画・希望など）を挫折させる"
+    },
+    {
+      "number": 815,
+      "eng": "relieve",
+      "jpn": "を和らげる；〔受身形で〕（...して）安心する（to do）；を解放する"
+    },
+    {
+      "number": 816,
+      "eng": "derive",
+      "jpn": "由来する；を引き出す；を推論する"
+    },
+    {
+      "number": 817,
+      "eng": "deserve",
+      "jpn": "に値する"
+    },
+    {
+      "number": 818,
+      "eng": "peer",
+      "jpn": "（～を）じっと見る（at / into）"
+    },
+    {
+      "number": 819,
+      "eng": "defeat",
+      "jpn": "を負かす（≒ beat）；を失敗させる"
+    },
+    {
+      "number": 820,
+      "eng": "convert",
+      "jpn": "を変える；を改宗［転向］させる；を交換する"
+    },
+    {
+      "number": 821,
+      "eng": "wed",
+      "jpn": "と結婚する；を（～と）結婚させる（to）"
+    },
+    {
+      "number": 822,
+      "eng": "delight",
+      "jpn": "を喜ばせる；（～を）大いに喜ぶ（in）"
+    },
+    {
+      "number": 823,
+      "eng": "boost",
+      "jpn": "を押し上げる；を増加させる"
+    },
+    {
+      "number": 824,
+      "eng": "endure",
+      "jpn": "に耐える（≒ put up with）；（に）持ちこたえる"
+    },
+    {
+      "number": 825,
+      "eng": "correspond",
+      "jpn": "一致する；（～に）相当する（to）；文通する"
+    },
+    {
+      "number": 826,
+      "eng": "impose",
+      "jpn": "を課す；を押しつける"
+    },
+    {
+      "number": 827,
+      "eng": "rescue",
+      "jpn": "を救う"
+    },
+    {
+      "number": 828,
+      "eng": "resolve",
+      "jpn": "を解決する；を決意する；を議決する"
+    },
+    {
+      "number": 829,
+      "eng": "register",
+      "jpn": "を記録する，登録する；（～に）登録する（for）"
+    },
+    {
+      "number": 830,
+      "eng": "interrupt",
+      "jpn": "を中断させる；（の）邪魔をする"
+    },
+    {
+      "number": 831,
+      "eng": "rid",
+      "jpn": "から（～を）取り除く，除去する（of）"
+    },
+    {
+      "number": 832,
+      "eng": "prohibit",
+      "jpn": "を禁止する"
+    },
+    {
+      "number": 833,
+      "eng": "compose",
+      "jpn": "を構成する；を創作する；を鎮静する"
+    },
+    {
+      "number": 834,
+      "eng": "misunderstand",
+      "jpn": "（を）誤解する"
+    },
+    {
+      "number": 835,
+      "eng": "punish",
+      "jpn": "を罰する；に損傷を与える"
+    },
+    {
+      "number": 836,
+      "eng": "ruin",
+      "jpn": "をだめにする；を破滅させる；破滅する"
+    },
+    {
+      "number": 837,
+      "eng": "defend",
+      "jpn": "を防御する；を弁護する"
+    },
+    {
+      "number": 838,
+      "eng": "embrace",
+      "jpn": "を受け入れる；（を）抱擁する；を包含する"
+    },
+    {
+      "number": 839,
+      "eng": "modify",
+      "jpn": "を修正する；を緩和する"
+    },
+    {
+      "number": 840,
+      "eng": "qualify",
+      "jpn": "（人）に資格を与える；資格がある"
+    },
+    {
+      "number": 841,
+      "eng": "passion",
+      "jpn": "情熱；熱中；激怒"
+    },
+    {
+      "number": 842,
+      "eng": "enthusiasm",
+      "jpn": "（～への）熱情，熱意（for）"
+    },
+    {
+      "number": 843,
+      "eng": "phase",
+      "jpn": "段階，局面；側面"
+    },
+    {
+      "number": 844,
+      "eng": "mode",
+      "jpn": "方式；気分；形態；流行"
+    },
+    {
+      "number": 845,
+      "eng": "span",
+      "jpn": "期間；範囲"
+    },
+    {
+      "number": 846,
+      "eng": "gravity",
+      "jpn": "重力，引力；重量；重大さ"
+    },
+    {
+      "number": 847,
+      "eng": "orbit",
+      "jpn": "軌道；（活動・勢力などの）範囲"
+    },
+    {
+      "number": 848,
+      "eng": "asteroid",
+      "jpn": "小惑星（≒ minor planet）；ヒトデ（＝ starfish）"
+    },
+    {
+      "number": 849,
+      "eng": "core",
+      "jpn": "核心；芯"
+    },
+    {
+      "number": 850,
+      "eng": "soul",
+      "jpn": "精神；魂，霊魂；生気"
+    },
+    {
+      "number": 851,
+      "eng": "nerve",
+      "jpn": "神経；〔～s〕神経過敏；（...する）度胸（to do）"
+    },
+    {
+      "number": 852,
+      "eng": "infection",
+      "jpn": "感染（症）"
+    },
+    {
+      "number": 853,
+      "eng": "mall",
+      "jpn": "【主に米】 モール，ショッピングセンター"
+    },
+    {
+      "number": 854,
+      "eng": "grocery",
+      "jpn": "〔～ies〕食料雑貨；食料雑貨店"
+    },
+    {
+      "number": 855,
+      "eng": "humor",
+      "jpn": "ユーモア；気分，機嫌；気質"
+    },
+    {
+      "number": 856,
+      "eng": "instinct",
+      "jpn": "本能；勘，直感；（自然に起こる）衝動"
+    },
+    {
+      "number": 857,
+      "eng": "faith",
+      "jpn": "（～への）信頼（in）；信仰（心）"
+    },
+    {
+      "number": 858,
+      "eng": "courage",
+      "jpn": "勇気"
+    },
+    {
+      "number": 859,
+      "eng": "incentive",
+      "jpn": "動機（づけ）；報奨金"
+    },
+    {
+      "number": 860,
+      "eng": "prospect",
+      "jpn": "見込み；〔～s〕（未来への）展望；有望な人"
+    },
+    {
+      "number": 861,
+      "eng": "obstacle",
+      "jpn": "（～に対する）障害（物）（to）"
+    },
+    {
+      "number": 862,
+      "eng": "architecture",
+      "jpn": "建築；建築様式；構造"
+    },
+    {
+      "number": 863,
+      "eng": "stem",
+      "jpn": "（草木の）茎，幹"
+    },
+    {
+      "number": 864,
+      "eng": "illusion",
+      "jpn": "錯覚，思い違い；幻想"
+    },
+    {
+      "number": 865,
+      "eng": "discrimination",
+      "jpn": "（～に対する）差別（against）；区別"
+    },
+    {
+      "number": 866,
+      "eng": "shame",
+      "jpn": "恥；残念なこと"
+    },
+    {
+      "number": 867,
+      "eng": "drought",
+      "jpn": "干ばつ；（慢性的な）不足"
+    },
+    {
+      "number": 868,
+      "eng": "flavor",
+      "jpn": "風味；特色"
+    },
+    {
+      "number": 869,
+      "eng": "portion",
+      "jpn": "部分；1人前；割り当て"
+    },
+    {
+      "number": 870,
+      "eng": "recipe",
+      "jpn": "調理法，レシピ；手順；秘訣"
+    },
+    {
+      "number": 871,
+      "eng": "luxury",
+      "jpn": "ぜいたく（品）；〔形容詞的に〕豪華な"
+    },
+    {
+      "number": 872,
+      "eng": "chip",
+      "jpn": "小片，破片；欠けた箇所；集積回路"
+    },
+    {
+      "number": 873,
+      "eng": "ritual",
+      "jpn": "儀式；（日常の）習慣的行為"
+    },
+    {
+      "number": 874,
+      "eng": "sake",
+      "jpn": "〔for the ～ ofで〕のために，の目的で；に免じて"
+    },
+    {
+      "number": 875,
+      "eng": "prefecture",
+      "jpn": "（日本の）県，府；（フランスなどの）県"
+    },
+    {
+      "number": 876,
+      "eng": "council",
+      "jpn": "（地方）議会；評議会；（公の）会議"
+    },
+    {
+      "number": 877,
+      "eng": "administration",
+      "jpn": "管理（部）；行政；政府（機関）"
+    },
+    {
+      "number": 878,
+      "eng": "curriculum",
+      "jpn": "教育課程，カリキュラム"
+    },
+    {
+      "number": 879,
+      "eng": "precious",
+      "jpn": "貴重な；高価な（≒ valuable）"
+    },
+    {
+      "number": 880,
+      "eng": "generous",
+      "jpn": "寛大な；気前のよい（⇔ stingy けちな）；豊富な"
+    },
+    {
+      "number": 881,
+      "eng": "casual",
+      "jpn": "何気ない；形式ばらない"
+    },
+    {
+      "number": 882,
+      "eng": "optimistic",
+      "jpn": "楽観的な（⇔ pessimistic ⇒ 1593）"
+    },
+    {
+      "number": 883,
+      "eng": "rough",
+      "jpn": "粗い；大まかな；乱暴な"
+    },
+    {
+      "number": 884,
+      "eng": "unpleasant",
+      "jpn": "不愉快な；不親切な，無礼な"
+    },
+    {
+      "number": 885,
+      "eng": "Arctic",
+      "jpn": "北極の（⇔ Antarctic 南極の）"
+    },
+    {
+      "number": 886,
+      "eng": "ultimate",
+      "jpn": "究極の"
+    },
+    {
+      "number": 887,
+      "eng": "deaf",
+      "jpn": "耳が聞こえない（≒ hard of hearing）"
+    },
+    {
+      "number": 888,
+      "eng": "genuine",
+      "jpn": "本物の（≒ authentic ⇒ 1580, real）；偽りのない"
+    },
+    {
+      "number": 889,
+      "eng": "manual",
+      "jpn": "体［手］を使う；手の；手動式の"
+    },
+    {
+      "number": 890,
+      "eng": "mechanical",
+      "jpn": "機械の；機械的な"
+    },
+    {
+      "number": 891,
+      "eng": "instant",
+      "jpn": "即時の，すぐの；即席の"
+    },
+    {
+      "number": 892,
+      "eng": "spare",
+      "jpn": "余分の，予備の"
+    },
+    {
+      "number": 893,
+      "eng": "immune",
+      "jpn": "（～に対して）免疫を持つ（to）；（～を）免れた（from）"
+    },
+    {
+      "number": 894,
+      "eng": "harsh",
+      "jpn": "厳しい；（光・色・味などが）不快な"
+    },
+    {
+      "number": 895,
+      "eng": "collective",
+      "jpn": "集団の，共同の"
+    },
+    {
+      "number": 896,
+      "eng": "inevitable",
+      "jpn": "避けられない"
+    },
+    {
+      "number": 897,
+      "eng": "profound",
+      "jpn": "重大な；深い；難解な"
+    },
+    {
+      "number": 898,
+      "eng": "steady",
+      "jpn": "着実な，一定の；安定した"
+    },
+    {
+      "number": 899,
+      "eng": "mature",
+      "jpn": "成熟した（⇔ immature 未熟な）；熟した"
+    },
+    {
+      "number": 900,
+      "eng": "likewise",
+      "jpn": "同様に（≒ in the same way）"
+    },
+    {
+      "number": 901,
+      "eng": "chase",
+      "jpn": "（を）追跡する；（を）追求する"
+    },
+    {
+      "number": 902,
+      "eng": "sue",
+      "jpn": "を告訴する；（～を求めて）訴訟を起こす（for）"
+    },
+    {
+      "number": 903,
+      "eng": "gaze",
+      "jpn": "じっと見る"
+    },
+    {
+      "number": 904,
+      "eng": "slip",
+      "jpn": "滑る；滑り落ちる；そっと動く"
+    },
+    {
+      "number": 905,
+      "eng": "load",
+      "jpn": "に積む；に負わせる"
+    },
+    {
+      "number": 906,
+      "eng": "overwhelm",
+      "jpn": "を圧倒する；を（精神的に）打ちのめす"
+    },
+    {
+      "number": 907,
+      "eng": "wander",
+      "jpn": "歩き回る；それる；はぐれる"
+    },
+    {
+      "number": 908,
+      "eng": "float",
+      "jpn": "漂う，浮かぶ；を浮かべる"
+    },
+    {
+      "number": 909,
+      "eng": "pour",
+      "jpn": "を注ぐ；激しく降る；押し寄せる"
+    },
+    {
+      "number": 910,
+      "eng": "substitute",
+      "jpn": "を代わりに使う；（～の）代理をする（for）"
+    },
+    {
+      "number": 911,
+      "eng": "pronounce",
+      "jpn": "を発音する；を宣言する"
+    },
+    {
+      "number": 912,
+      "eng": "shrink",
+      "jpn": "縮む，縮小する；減少する；ひるむ"
+    },
+    {
+      "number": 913,
+      "eng": "restore",
+      "jpn": "を回復させる；を修復する"
+    },
+    {
+      "number": 914,
+      "eng": "trigger",
+      "jpn": "を引き起こす；のきっかけとなる"
+    },
+    {
+      "number": 915,
+      "eng": "grab",
+      "jpn": "をつかむ；を横取りする；を急いで食べる"
+    },
+    {
+      "number": 916,
+      "eng": "retain",
+      "jpn": "を保持する；を覚えている"
+    },
+    {
+      "number": 917,
+      "eng": "reproduce",
+      "jpn": "を複製する；を繁殖させる；繁殖する"
+    },
+    {
+      "number": 918,
+      "eng": "bob",
+      "jpn": "上下に動く；急に動く；を上下に動かす"
+    },
+    {
+      "number": 919,
+      "eng": "entertain",
+      "jpn": "を楽しませる；をもてなす"
+    },
+    {
+      "number": 920,
+      "eng": "interfere",
+      "jpn": "干渉する，介入する；邪魔する"
+    },
+    {
+      "number": 921,
+      "eng": "cultivate",
+      "jpn": "を養う；を耕す；を栽培する"
+    },
+    {
+      "number": 922,
+      "eng": "underlie",
+      "jpn": "の根底にある"
+    },
+    {
+      "number": 923,
+      "eng": "anticipate",
+      "jpn": "を予期する；楽しみに待つ"
+    },
+    {
+      "number": 924,
+      "eng": "justify",
+      "jpn": "を正当化する"
+    },
+    {
+      "number": 925,
+      "eng": "regulate",
+      "jpn": "を規制する；を調整する"
+    },
+    {
+      "number": 926,
+      "eng": "scan",
+      "jpn": "を走査［スキャン］する；をざっと見る；を注意深く調べる"
+    },
+    {
+      "number": 927,
+      "eng": "classify",
+      "jpn": "を分類する；を機密扱いにする"
+    },
+    {
+      "number": 928,
+      "eng": "submit",
+      "jpn": "を提出する；〔submit oneselfで〕（～に）従う（to）"
+    },
+    {
+      "number": 929,
+      "eng": "pause",
+      "jpn": "（一時的に）中止する；（一瞬）立ち止まる"
+    },
+    {
+      "number": 930,
+      "eng": "lean",
+      "jpn": "傾く；寄りかかる；をもたせかける"
+    },
+    {
+      "number": 931,
+      "eng": "bump",
+      "jpn": "ぶつかる；をぶつける"
+    },
+    {
+      "number": 932,
+      "eng": "fold",
+      "jpn": "を折り畳む；（両腕）を組む；（折り）畳める"
+    },
+    {
+      "number": 933,
+      "eng": "hesitate",
+      "jpn": "躊躇する，ためらう"
+    },
+    {
+      "number": 934,
+      "eng": "pump",
+      "jpn": "（液体・気体）をポンプで送り込む；をくみ出す；を注ぎ込む"
+    },
+    {
+      "number": 935,
+      "eng": "mount",
+      "jpn": "を据えつける；に着手する；（自転車など）に乗る；増える"
+    },
+    {
+      "number": 936,
+      "eng": "exceed",
+      "jpn": "を超える；に勝る"
+    },
+    {
+      "number": 937,
+      "eng": "undergo",
+      "jpn": "を経験する；（手術など）を受ける；に耐える"
+    },
+    {
+      "number": 938,
+      "eng": "confront",
+      "jpn": "に立ち向かう；（困難などが）に立ちはだかる"
+    },
+    {
+      "number": 939,
+      "eng": "consult",
+      "jpn": "（に）相談する；を参照する"
+    },
+    {
+      "number": 940,
+      "eng": "fulfill",
+      "jpn": "を実現させる；を果たす；を満たす"
+    },
+    {
+      "number": 941,
+      "eng": "privilege",
+      "jpn": "特権，特典"
+    },
+    {
+      "number": 942,
+      "eng": "formation",
+      "jpn": "形成；構成（物）；隊列"
+    },
+    {
+      "number": 943,
+      "eng": "dimension",
+      "jpn": "側面，局面；次元；寸法"
+    },
+    {
+      "number": 944,
+      "eng": "neuron",
+      "jpn": "ニューロン，神経単位"
+    },
+    {
+      "number": 945,
+      "eng": "sensation",
+      "jpn": "感覚；大評判"
+    },
+    {
+      "number": 946,
+      "eng": "chart",
+      "jpn": "図，グラフ；海図；ヒットチャート"
+    },
+    {
+      "number": 947,
+      "eng": "geography",
+      "jpn": "〔the ～〕地理；地理学"
+    },
+    {
+      "number": 948,
+      "eng": "panel",
+      "jpn": "（専門家の）一団；討論者一同；羽目板"
+    },
+    {
+      "number": 949,
+      "eng": "semester",
+      "jpn": "【主に米】 （2学期制の）学期"
+    },
+    {
+      "number": 950,
+      "eng": "workforce",
+      "jpn": "労働人口，総労働力；全従業員（数）"
+    },
+    {
+      "number": 951,
+      "eng": "mill",
+      "jpn": "製造工場；製粉所；粉ひき機"
+    },
+    {
+      "number": 952,
+      "eng": "abuse",
+      "jpn": "乱用；虐待"
+    },
+    {
+      "number": 953,
+      "eng": "vice",
+      "jpn": "（道徳上の）悪（⇔ virtue ⇒ 1078）；欠点"
+    },
+    {
+      "number": 954,
+      "eng": "fate",
+      "jpn": "運命；結末；最期"
+    },
+    {
+      "number": 955,
+      "eng": "tragedy",
+      "jpn": "悲劇（的な事態）（⇔ comedy 喜劇）"
+    },
+    {
+      "number": 956,
+      "eng": "scenario",
+      "jpn": "（予想される）筋書き，事態；脚本"
+    },
+    {
+      "number": 957,
+      "eng": "allergy",
+      "jpn": "アレルギー"
+    },
+    {
+      "number": 958,
+      "eng": "wound",
+      "jpn": "（銃弾・刃物などによる）傷；痛手"
+    },
+    {
+      "number": 959,
+      "eng": "antibiotic",
+      "jpn": "〔通例～s〕抗生物質"
+    },
+    {
+      "number": 960,
+      "eng": "vaccine",
+      "jpn": "ワクチン"
+    },
+    {
+      "number": 961,
+      "eng": "metaphor",
+      "jpn": "隠喩；比喩"
+    },
+    {
+      "number": 962,
+      "eng": "folk",
+      "jpn": "人々；〔～s〕皆さん；〔one's ～s〕家族"
+    },
+    {
+      "number": 963,
+      "eng": "fare",
+      "jpn": "（乗り物の）料金"
+    },
+    {
+      "number": 964,
+      "eng": "transition",
+      "jpn": "移り変わり；過渡期"
+    },
+    {
+      "number": 965,
+      "eng": "maximum",
+      "jpn": "最大限（⇔ minimum ⇒ 653）"
+    },
+    {
+      "number": 966,
+      "eng": "galaxy",
+      "jpn": "星雲，銀河；〔the G～〕銀河系"
+    },
+    {
+      "number": 967,
+      "eng": "mineral",
+      "jpn": "鉱物；ミネラル"
+    },
+    {
+      "number": 968,
+      "eng": "skeleton",
+      "jpn": "骨格；骨組み；概略"
+    },
+    {
+      "number": 969,
+      "eng": "counterpart",
+      "jpn": "相当する物［人］"
+    },
+    {
+      "number": 970,
+      "eng": "stroke",
+      "jpn": "脳卒中；（ボールを）打つこと；（雷などの）一撃"
+    },
+    {
+      "number": 971,
+      "eng": "pedestrian",
+      "jpn": "歩行者"
+    },
+    {
+      "number": 972,
+      "eng": "trail",
+      "jpn": "（野山などの）小道；跡；手がかり"
+    },
+    {
+      "number": 973,
+      "eng": "ecology",
+      "jpn": "生態学；生態系；環境保護"
+    },
+    {
+      "number": 974,
+      "eng": "sibling",
+      "jpn": "きょうだい（の1人）"
+    },
+    {
+      "number": 975,
+      "eng": "ratio",
+      "jpn": "比率"
+    },
+    {
+      "number": 976,
+      "eng": "mixture",
+      "jpn": "混合（物）"
+    },
+    {
+      "number": 977,
+      "eng": "charm",
+      "jpn": "魅力；お守り"
+    },
+    {
+      "number": 978,
+      "eng": "ambition",
+      "jpn": "（～に対する）願望，野望（for）；野心"
+    },
+    {
+      "number": 979,
+      "eng": "prominent",
+      "jpn": "卓越した；目立つ"
+    },
+    {
+      "number": 980,
+      "eng": "radical",
+      "jpn": "急進的な；根本的な"
+    },
+    {
+      "number": 981,
+      "eng": "prompt",
+      "jpn": "即座の，迅速な"
+    },
+    {
+      "number": 982,
+      "eng": "informal",
+      "jpn": "形式ばらない，略式の（⇔ formal 正式の）；（言葉が）くだけた"
+    },
+    {
+      "number": 983,
+      "eng": "mutual",
+      "jpn": "相互の；共通の"
+    },
+    {
+      "number": 984,
+      "eng": "neutral",
+      "jpn": "中立の；（特徴・表情などが）はっきりしない"
+    },
+    {
+      "number": 985,
+      "eng": "alert",
+      "jpn": "警戒して；敏速な"
+    },
+    {
+      "number": 986,
+      "eng": "magnetic",
+      "jpn": "磁気の；磁石の；人を引きつける"
+    },
+    {
+      "number": 987,
+      "eng": "polar",
+      "jpn": "極地の；電極の"
+    },
+    {
+      "number": 988,
+      "eng": "fluent",
+      "jpn": "流ちょうな"
+    },
+    {
+      "number": 989,
+      "eng": "external",
+      "jpn": "外部の（⇔ internal ⇒ 680）；対外的な"
+    },
+    {
+      "number": 990,
+      "eng": "passive",
+      "jpn": "受動的な；消極的な"
+    },
+    {
+      "number": 991,
+      "eng": "awful",
+      "jpn": "ひどい；嫌な；ものすごい"
+    },
+    {
+      "number": 992,
+      "eng": "unrelated",
+      "jpn": "無関係の；血縁関係がない"
+    },
+    {
+      "number": 993,
+      "eng": "cruel",
+      "jpn": "残酷な；むごい"
+    },
+    {
+      "number": 994,
+      "eng": "fake",
+      "jpn": "偽の；見せかけだけの"
+    },
+    {
+      "number": 995,
+      "eng": "vulnerable",
+      "jpn": "（攻撃などに）弱い，もろい；傷つきやすい"
+    },
+    {
+      "number": 996,
+      "eng": "urgent",
+      "jpn": "緊急の"
+    },
+    {
+      "number": 997,
+      "eng": "spiritual",
+      "jpn": "精神の（⇔ material ⇒ 73）；霊的な"
+    },
+    {
+      "number": 998,
+      "eng": "modest",
+      "jpn": "謙虚な（≒ humble）；適度な；質素な"
+    },
+    {
+      "number": 999,
+      "eng": "keen",
+      "jpn": "熱心な；鋭敏な；（感情・関心などが）強い"
+    },
+    {
+      "number": 1000,
+      "eng": "nonetheless",
+      "jpn": "それにもかかわらず，それでもなお（≒ nevertheless）"
+    },
+    {
+      "number": 1001,
+      "eng": "negotiate",
+      "jpn": "交渉する；を（交渉して）取り決める"
+    },
+    {
+      "number": 1002,
+      "eng": "grasp",
+      "jpn": "を把握［理解］する；をしっかり握る"
+    },
+    {
+      "number": 1003,
+      "eng": "donate",
+      "jpn": "を寄付する；（臓器・血液）を提供する"
+    },
+    {
+      "number": 1004,
+      "eng": "arrest",
+      "jpn": "を逮捕する；を止める；（注意）を引く"
+    },
+    {
+      "number": 1005,
+      "eng": "crack",
+      "jpn": "ひびが入る；にひびを入れる"
+    },
+    {
+      "number": 1006,
+      "eng": "tap",
+      "jpn": "を軽くたたく；（液体）を出す；を盗聴する"
+    },
+    {
+      "number": 1007,
+      "eng": "split",
+      "jpn": "を分割する；を分担する；分裂する"
+    },
+    {
+      "number": 1008,
+      "eng": "forecast",
+      "jpn": "を予想［予測］する"
+    },
+    {
+      "number": 1009,
+      "eng": "exclude",
+      "jpn": "を除外する（⇔include を含む）"
+    },
+    {
+      "number": 1010,
+      "eng": "overlook",
+      "jpn": "を見落とす；を大目に見る；を見渡す"
+    },
+    {
+      "number": 1011,
+      "eng": "burst",
+      "jpn": "破裂する；（～を）突然始める（into）"
+    },
+    {
+      "number": 1012,
+      "eng": "heal",
+      "jpn": "（人・傷など）を治す；治る"
+    },
+    {
+      "number": 1013,
+      "eng": "forbid",
+      "jpn": "を禁じる（⇔permit 許可する）"
+    },
+    {
+      "number": 1014,
+      "eng": "install",
+      "jpn": "をインストールする；を設置する；を就任させる"
+    },
+    {
+      "number": 1015,
+      "eng": "diminish",
+      "jpn": "を減らす；減少する（≒decrease）"
+    },
+    {
+      "number": 1016,
+      "eng": "cite",
+      "jpn": "を引き合いに出す；を引用する"
+    },
+    {
+      "number": 1017,
+      "eng": "quote",
+      "jpn": "を引用する；を引き合いに出す"
+    },
+    {
+      "number": 1018,
+      "eng": "dispute",
+      "jpn": "に異議を唱える；（を）議論する"
+    },
+    {
+      "number": 1019,
+      "eng": "highlight",
+      "jpn": "を目立たせる、強調する"
+    },
+    {
+      "number": 1020,
+      "eng": "distract",
+      "jpn": "（注意など）をそらす"
+    },
+    {
+      "number": 1021,
+      "eng": "cheat",
+      "jpn": "をだます；不正をする"
+    },
+    {
+      "number": 1022,
+      "eng": "foster",
+      "jpn": "をはぐくむ；を養育する；を心に抱く"
+    },
+    {
+      "number": 1023,
+      "eng": "obey",
+      "jpn": "に従う；に服従する"
+    },
+    {
+      "number": 1024,
+      "eng": "bend",
+      "jpn": "を曲げる；を屈服させる；曲がる"
+    },
+    {
+      "number": 1025,
+      "eng": "deprive",
+      "jpn": "から（権利などを）奪う"
+    },
+    {
+      "number": 1026,
+      "eng": "govern",
+      "jpn": "（を）統治する、支配する"
+    },
+    {
+      "number": 1027,
+      "eng": "log",
+      "jpn": "〔log onで〕ログオンする；を記録する"
+    },
+    {
+      "number": 1028,
+      "eng": "transmit",
+      "jpn": "を伝える；（電波・信号など）を送る"
+    },
+    {
+      "number": 1029,
+      "eng": "bully",
+      "jpn": "をいじめる；を脅す"
+    },
+    {
+      "number": 1030,
+      "eng": "leap",
+      "jpn": "跳ぶ；さっと動く；急上昇する"
+    },
+    {
+      "number": 1031,
+      "eng": "astonish",
+      "jpn": "を驚かす"
+    },
+    {
+      "number": 1032,
+      "eng": "thrill",
+      "jpn": "をぞくぞくさせる；わくわくする"
+    },
+    {
+      "number": 1033,
+      "eng": "nod",
+      "jpn": "うなずく；会釈する；うとうとする"
+    },
+    {
+      "number": 1034,
+      "eng": "bow",
+      "jpn": "おじぎする；屈服する"
+    },
+    {
+      "number": 1035,
+      "eng": "blend",
+      "jpn": "を混ぜる；を調和させる；（～に）溶け込む（into）"
+    },
+    {
+      "number": 1036,
+      "eng": "complicate",
+      "jpn": "を複雑にする"
+    },
+    {
+      "number": 1037,
+      "eng": "pitch",
+      "jpn": "を投げる；倒れる；縦揺れする"
+    },
+    {
+      "number": 1038,
+      "eng": "persist",
+      "jpn": "続く；固執する"
+    },
+    {
+      "number": 1039,
+      "eng": "dedicate",
+      "jpn": "をささげる；を献呈する"
+    },
+    {
+      "number": 1040,
+      "eng": "equip",
+      "jpn": "に備えつける"
+    },
+    {
+      "number": 1041,
+      "eng": "premise",
+      "jpn": "前提；〔～s〕（建物を含めた）構内、敷地"
+    },
+    {
+      "number": 1042,
+      "eng": "input",
+      "jpn": "入力（情報）、投入；（情報・時間などの）提供"
+    },
+    {
+      "number": 1043,
+      "eng": "merit",
+      "jpn": "利点（⇔demerit 欠点）；功績；真価"
+    },
+    {
+      "number": 1044,
+      "eng": "sympathy",
+      "jpn": "同情；（～に対する）共感（with/for）"
+    },
+    {
+      "number": 1045,
+      "eng": "compliment",
+      "jpn": "賛辞；表敬"
+    },
+    {
+      "number": 1046,
+      "eng": "infrastructure",
+      "jpn": "インフラ、基本的施設；（経済）基盤"
+    },
+    {
+      "number": 1047,
+      "eng": "ray",
+      "jpn": "光線；ひらめき、一筋の光明"
+    },
+    {
+      "number": 1048,
+      "eng": "distress",
+      "jpn": "苦悩；苦痛；困窮"
+    },
+    {
+      "number": 1049,
+      "eng": "joint",
+      "jpn": "関節；接合（部）"
+    },
+    {
+      "number": 1050,
+      "eng": "expedition",
+      "jpn": "遠征（隊）、探検（隊）"
+    },
+    {
+      "number": 1051,
+      "eng": "adolescent",
+      "jpn": "青年；青年期の"
+    },
+    {
+      "number": 1052,
+      "eng": "shade",
+      "jpn": "（日）陰；色合い；日よけ；微妙な相違"
+    },
+    {
+      "number": 1053,
+      "eng": "jury",
+      "jpn": "陪審（員団）；審査員団"
+    },
+    {
+      "number": 1054,
+      "eng": "ethic",
+      "jpn": "倫理、道徳；〔～s〕倫理［道徳］規範"
+    },
+    {
+      "number": 1055,
+      "eng": "penalty",
+      "jpn": "（刑）罰；罰金；ペナルティー"
+    },
+    {
+      "number": 1056,
+      "eng": "faculty",
+      "jpn": "能力、機能；学部；教授陣"
+    },
+    {
+      "number": 1057,
+      "eng": "scheme",
+      "jpn": "計画（≒plan）；体系；陰謀"
+    },
+    {
+      "number": 1058,
+      "eng": "nutrition",
+      "jpn": "栄養（の摂取）"
+    },
+    {
+      "number": 1059,
+      "eng": "particle",
+      "jpn": "（微）粒子；ほんのわずか"
+    },
+    {
+      "number": 1060,
+      "eng": "molecule",
+      "jpn": "分子；微粒子"
+    },
+    {
+      "number": 1061,
+      "eng": "nationality",
+      "jpn": "国籍；国民；国民性"
+    },
+    {
+      "number": 1062,
+      "eng": "poll",
+      "jpn": "世論調査；投票（数）"
+    },
+    {
+      "number": 1063,
+      "eng": "clinic",
+      "jpn": "診療所、クリニック；（病院内の）～科"
+    },
+    {
+      "number": 1064,
+      "eng": "dementia",
+      "jpn": "認知症"
+    },
+    {
+      "number": 1065,
+      "eng": "fatigue",
+      "jpn": "疲労（≒exhaustion）"
+    },
+    {
+      "number": 1066,
+      "eng": "dilemma",
+      "jpn": "ジレンマ、板ばさみ"
+    },
+    {
+      "number": 1067,
+      "eng": "queue",
+      "jpn": "【英】（順番を待つ）列"
+    },
+    {
+      "number": 1068,
+      "eng": "curve",
+      "jpn": "（道路などの）カーブ；曲線"
+    },
+    {
+      "number": 1069,
+      "eng": "narrative",
+      "jpn": "物語、話；（小説の）叙述部分、地の文"
+    },
+    {
+      "number": 1070,
+      "eng": "fingerprint",
+      "jpn": "指紋"
+    },
+    {
+      "number": 1071,
+      "eng": "file",
+      "jpn": "ファイル；（書類の）とじ込み"
+    },
+    {
+      "number": 1072,
+      "eng": "wilderness",
+      "jpn": "荒野；（庭・町などの）放置された部分"
+    },
+    {
+      "number": 1073,
+      "eng": "pesticide",
+      "jpn": "殺虫剤；除草剤（≒herbicide）"
+    },
+    {
+      "number": 1074,
+      "eng": "panic",
+      "jpn": "パニック（状態）；狼狽"
+    },
+    {
+      "number": 1075,
+      "eng": "fabric",
+      "jpn": "織物、布（地）；構造"
+    },
+    {
+      "number": 1076,
+      "eng": "fantasy",
+      "jpn": "空想；幻想；幻想的作品"
+    },
+    {
+      "number": 1077,
+      "eng": "fancy",
+      "jpn": "（気まぐれな）好み；空想；思いつき"
+    },
+    {
+      "number": 1078,
+      "eng": "virtue",
+      "jpn": "美徳（⇔vice 悪）；長所；効能"
+    },
+    {
+      "number": 1079,
+      "eng": "grateful",
+      "jpn": "感謝している"
+    },
+    {
+      "number": 1080,
+      "eng": "valid",
+      "jpn": "妥当な；有効な"
+    },
+    {
+      "number": 1081,
+      "eng": "elaborate",
+      "jpn": "入念な；凝った"
+    },
+    {
+      "number": 1082,
+      "eng": "moderate",
+      "jpn": "適度な；穏健な"
+    },
+    {
+      "number": 1083,
+      "eng": "dynamic",
+      "jpn": "活動的な、精力的な；動的な（⇔static 静的な）"
+    },
+    {
+      "number": 1084,
+      "eng": "brave",
+      "jpn": "勇敢な（⇔cowardly 臆病な）；見事な"
+    },
+    {
+      "number": 1085,
+      "eng": "brilliant",
+      "jpn": "すばらしい；才能にあふれた；きらめく"
+    },
+    {
+      "number": 1086,
+      "eng": "tremendous",
+      "jpn": "途方もない、莫大な；すばらしい"
+    },
+    {
+      "number": 1087,
+      "eng": "oral",
+      "jpn": "口頭の"
+    },
+    {
+      "number": 1088,
+      "eng": "innocent",
+      "jpn": "無罪の（⇔guilty 有罪の）；無邪気な；無知の"
+    },
+    {
+      "number": 1089,
+      "eng": "subsequent",
+      "jpn": "その後の"
+    },
+    {
+      "number": 1090,
+      "eng": "shallow",
+      "jpn": "浅い（⇔deep 深い）；浅薄な"
+    },
+    {
+      "number": 1091,
+      "eng": "indifferent",
+      "jpn": "無関心な（≒uninterested）"
+    },
+    {
+      "number": 1092,
+      "eng": "inferior",
+      "jpn": "より劣った（⇔superior よりすぐれた）"
+    },
+    {
+      "number": 1093,
+      "eng": "awkward",
+      "jpn": "気まずい；ぎこちない；厄介な"
+    },
+    {
+      "number": 1094,
+      "eng": "obese",
+      "jpn": "肥満した"
+    },
+    {
+      "number": 1095,
+      "eng": "pregnant",
+      "jpn": "妊娠した；（～で）満ちている（with）"
+    },
+    {
+      "number": 1096,
+      "eng": "intimate",
+      "jpn": "親密な；密接な"
+    },
+    {
+      "number": 1097,
+      "eng": "medieval",
+      "jpn": "中世の；時代遅れの"
+    },
+    {
+      "number": 1098,
+      "eng": "sacred",
+      "jpn": "神聖な（≒holy）；宗教的な；厳粛な"
+    },
+    {
+      "number": 1099,
+      "eng": "simultaneously",
+      "jpn": "（～と）同時に（with）；一斉に"
+    },
+    {
+      "number": 1100,
+      "eng": "versus",
+      "jpn": "〔A ～ Bで〕A対B；AかBか"
+    },
+    {
+      "number": 1101,
+      "eng": "proceed",
+      "jpn": "進む，進行する；（～を）続行する（with）"
+    },
+    {
+      "number": 1102,
+      "eng": "orient",
+      "jpn": "（人）を（環境などに）慣らす（to）；〔受身形で〕（関心などが）（～に）向いている（to / toward）"
+    },
+    {
+      "number": 1103,
+      "eng": "surf",
+      "jpn": "（インターネット上の情報など）を見て回る；サーフィンをする"
+    },
+    {
+      "number": 1104,
+      "eng": "filter",
+      "jpn": "をろ過する；を取り除く"
+    },
+    {
+      "number": 1105,
+      "eng": "bind",
+      "jpn": "を縛る；を束縛する；を結び付ける"
+    },
+    {
+      "number": 1106,
+      "eng": "resort",
+      "jpn": "（好ましくない手段に）訴える，頼る（to）"
+    },
+    {
+      "number": 1107,
+      "eng": "reinforce",
+      "jpn": "を強化する；を補強する"
+    },
+    {
+      "number": 1108,
+      "eng": "accumulate",
+      "jpn": "を蓄積する，集める；積もる"
+    },
+    {
+      "number": 1109,
+      "eng": "bet",
+      "jpn": "と確信する，断言する；（金などを）かける"
+    },
+    {
+      "number": 1110,
+      "eng": "advocate",
+      "jpn": "を主張する；を擁護する"
+    },
+    {
+      "number": 1111,
+      "eng": "constitute",
+      "jpn": "を構成する；になる，に等しい"
+    },
+    {
+      "number": 1112,
+      "eng": "undertake",
+      "jpn": "を引き受ける；を保証する；に着手する"
+    },
+    {
+      "number": 1113,
+      "eng": "grip",
+      "jpn": "を握る；をとらえる"
+    },
+    {
+      "number": 1114,
+      "eng": "dismiss",
+      "jpn": "（意見など）を退ける；を解雇する"
+    },
+    {
+      "number": 1115,
+      "eng": "fade",
+      "jpn": "薄れる；衰える"
+    },
+    {
+      "number": 1116,
+      "eng": "conceal",
+      "jpn": "を隠す（≒ hide）；を秘密にする（⇔uncover ⇒ 1236）"
+    },
+    {
+      "number": 1117,
+      "eng": "chew",
+      "jpn": "（を）かむ；をかみ砕く"
+    },
+    {
+      "number": 1118,
+      "eng": "swallow",
+      "jpn": "（を）飲み込む；をうのみにする；に耐える"
+    },
+    {
+      "number": 1119,
+      "eng": "seal",
+      "jpn": "を密閉する；に封をする"
+    },
+    {
+      "number": 1120,
+      "eng": "migrate",
+      "jpn": "移住する；（鳥などが）渡る"
+    },
+    {
+      "number": 1121,
+      "eng": "exaggerate",
+      "jpn": "（を）誇張する；を強調する"
+    },
+    {
+      "number": 1122,
+      "eng": "accuse",
+      "jpn": "を非難する；を告訴する"
+    },
+    {
+      "number": 1123,
+      "eng": "vanish",
+      "jpn": "消える（≒ disappear）"
+    },
+    {
+      "number": 1124,
+      "eng": "polish",
+      "jpn": "を磨く；を洗練させる"
+    },
+    {
+      "number": 1125,
+      "eng": "wipe",
+      "jpn": "を拭く；を拭き取る；を消し去る"
+    },
+    {
+      "number": 1126,
+      "eng": "sweep",
+      "jpn": "（を）掃く；を一掃する；さっと通過する"
+    },
+    {
+      "number": 1127,
+      "eng": "mislead",
+      "jpn": "を誤解させる，欺く；（人）を間違った方向に導く"
+    },
+    {
+      "number": 1128,
+      "eng": "spoil",
+      "jpn": "を台無しにする；を甘やかす；だめになる"
+    },
+    {
+      "number": 1129,
+      "eng": "compound",
+      "jpn": "を悪化させる；を合成する；を混合する"
+    },
+    {
+      "number": 1130,
+      "eng": "explode",
+      "jpn": "爆発する；急増する；を論破する"
+    },
+    {
+      "number": 1131,
+      "eng": "disgust",
+      "jpn": "をむかつかせる；に愛想を尽かせる"
+    },
+    {
+      "number": 1132,
+      "eng": "commute",
+      "jpn": "通勤［通学］する"
+    },
+    {
+      "number": 1133,
+      "eng": "decorate",
+      "jpn": "を装飾する"
+    },
+    {
+      "number": 1134,
+      "eng": "postpone",
+      "jpn": "を延期する（≒ put off）"
+    },
+    {
+      "number": 1135,
+      "eng": "cease",
+      "jpn": "をやめる；終わる"
+    },
+    {
+      "number": 1136,
+      "eng": "compromise",
+      "jpn": "妥協する；を危うくする"
+    },
+    {
+      "number": 1137,
+      "eng": "elect",
+      "jpn": "を選出する"
+    },
+    {
+      "number": 1138,
+      "eng": "extract",
+      "jpn": "を取り［搾り］出す；を抜粋する"
+    },
+    {
+      "number": 1139,
+      "eng": "inherit",
+      "jpn": "を受け継ぐ；を相続する"
+    },
+    {
+      "number": 1140,
+      "eng": "rear",
+      "jpn": "（人・動物・植物）を育てる（≒ raise）"
+    },
+    {
+      "number": 1141,
+      "eng": "empathy",
+      "jpn": "感情移入，共感"
+    },
+    {
+      "number": 1142,
+      "eng": "cue",
+      "jpn": "合図；手がかり；（次の演技の）キュー"
+    },
+    {
+      "number": 1143,
+      "eng": "enterprise",
+      "jpn": "企業，事業；企画；進取の気性"
+    },
+    {
+      "number": 1144,
+      "eng": "output",
+      "jpn": "生産（高）；出力；排出（量）"
+    },
+    {
+      "number": 1145,
+      "eng": "congress",
+      "jpn": "（米国などの）議会；会議"
+    },
+    {
+      "number": 1146,
+      "eng": "millennium",
+      "jpn": "千年間，千年紀"
+    },
+    {
+      "number": 1147,
+      "eng": "mankind",
+      "jpn": "人類"
+    },
+    {
+      "number": 1148,
+      "eng": "Muslim",
+      "jpn": "イスラム教徒"
+    },
+    {
+      "number": 1149,
+      "eng": "estate",
+      "jpn": "（動産・不動産などの）財産；私有地"
+    },
+    {
+      "number": 1150,
+      "eng": "landmine",
+      "jpn": "地雷"
+    },
+    {
+      "number": 1151,
+      "eng": "caution",
+      "jpn": "用心；警告"
+    },
+    {
+      "number": 1152,
+      "eng": "controversy",
+      "jpn": "論争"
+    },
+    {
+      "number": 1153,
+      "eng": "consensus",
+      "jpn": "総意；（意見の）一致"
+    },
+    {
+      "number": 1154,
+      "eng": "retail",
+      "jpn": "小売り（⇔ wholesale 卸売り）"
+    },
+    {
+      "number": 1155,
+      "eng": "fiber",
+      "jpn": "繊維（質）；本質；精神力"
+    },
+    {
+      "number": 1156,
+      "eng": "scent",
+      "jpn": "（よい）香り；香水"
+    },
+    {
+      "number": 1157,
+      "eng": "beverage",
+      "jpn": "（水以外の）飲み物，飲料"
+    },
+    {
+      "number": 1158,
+      "eng": "supplement",
+      "jpn": "栄養補助剤，サプリメント；補足"
+    },
+    {
+      "number": 1159,
+      "eng": "diabetes",
+      "jpn": "糖尿病"
+    },
+    {
+      "number": 1160,
+      "eng": "province",
+      "jpn": "州，省；〔the ～s〕地方；分野"
+    },
+    {
+      "number": 1161,
+      "eng": "reef",
+      "jpn": "（岩や砂の）礁；暗礁"
+    },
+    {
+      "number": 1162,
+      "eng": "microbe",
+      "jpn": "微生物；細菌"
+    },
+    {
+      "number": 1163,
+      "eng": "excess",
+      "jpn": "過剰，超過"
+    },
+    {
+      "number": 1164,
+      "eng": "gallery",
+      "jpn": "美術館，画廊；観客，ギャラリー；回廊"
+    },
+    {
+      "number": 1165,
+      "eng": "fame",
+      "jpn": "名声"
+    },
+    {
+      "number": 1166,
+      "eng": "deadline",
+      "jpn": "締め切り"
+    },
+    {
+      "number": 1167,
+      "eng": "undergraduate",
+      "jpn": "学部学生"
+    },
+    {
+      "number": 1168,
+      "eng": "slavery",
+      "jpn": "奴隷制度；苦役"
+    },
+    {
+      "number": 1169,
+      "eng": "prey",
+      "jpn": "獲物；犠牲者"
+    },
+    {
+      "number": 1170,
+      "eng": "mess",
+      "jpn": "散らかった状態［物］；混乱状態"
+    },
+    {
+      "number": 1171,
+      "eng": "recession",
+      "jpn": "不況；後退"
+    },
+    {
+      "number": 1172,
+      "eng": "retreat",
+      "jpn": "後退，退却；（計画・決定などの）撤回"
+    },
+    {
+      "number": 1173,
+      "eng": "grave",
+      "jpn": "墓；〔通例the ～〕死"
+    },
+    {
+      "number": 1174,
+      "eng": "column",
+      "jpn": "コラム；（新聞などの）欄；円柱；（縦）列"
+    },
+    {
+      "number": 1175,
+      "eng": "scenery",
+      "jpn": "〔集合的に〕景色；背景"
+    },
+    {
+      "number": 1176,
+      "eng": "plot",
+      "jpn": "（小説などの）筋；陰謀"
+    },
+    {
+      "number": 1177,
+      "eng": "sculpture",
+      "jpn": "彫刻（作品）"
+    },
+    {
+      "number": 1178,
+      "eng": "tablet",
+      "jpn": "タブレット（型情報端末）；錠剤；平板"
+    },
+    {
+      "number": 1179,
+      "eng": "dense",
+      "jpn": "密集した，密度の高い；（霧などが）濃い"
+    },
+    {
+      "number": 1180,
+      "eng": "exotic",
+      "jpn": "外来の；異国風の"
+    },
+    {
+      "number": 1181,
+      "eng": "acid",
+      "jpn": "酸性の；酸っぱい；辛辣な"
+    },
+    {
+      "number": 1182,
+      "eng": "bitter",
+      "jpn": "苦い，つらい；辛辣な；怒りっぽい"
+    },
+    {
+      "number": 1183,
+      "eng": "sensible",
+      "jpn": "賢明な；実用的な；顕著な"
+    },
+    {
+      "number": 1184,
+      "eng": "noble",
+      "jpn": "高貴な；堂々とした；高潔な"
+    },
+    {
+      "number": 1185,
+      "eng": "vague",
+      "jpn": "漠然とした，あいまいな；おぼろげな"
+    },
+    {
+      "number": 1186,
+      "eng": "parallel",
+      "jpn": "（～と）平行［並行］の（to）；類似した"
+    },
+    {
+      "number": 1187,
+      "eng": "tense",
+      "jpn": "張り詰めた，緊張した"
+    },
+    {
+      "number": 1188,
+      "eng": "vertical",
+      "jpn": "垂直の（⇔ horizontal 水平な）；縦方向の"
+    },
+    {
+      "number": 1189,
+      "eng": "indigenous",
+      "jpn": "原産の，先住の；（その土地に）固有の"
+    },
+    {
+      "number": 1190,
+      "eng": "aboriginal",
+      "jpn": "〔通例A～〕アボリジニの；原生の，先住の"
+    },
+    {
+      "number": 1191,
+      "eng": "seasonal",
+      "jpn": "季節の，季節的な"
+    },
+    {
+      "number": 1192,
+      "eng": "abundant",
+      "jpn": "豊富な；（～に）富む（in）"
+    },
+    {
+      "number": 1193,
+      "eng": "hybrid",
+      "jpn": "ハイブリッドの；雑種の；混成の"
+    },
+    {
+      "number": 1194,
+      "eng": "irrelevant",
+      "jpn": "（～にとって）無関係の（to）；見当違いの"
+    },
+    {
+      "number": 1195,
+      "eng": "ridiculous",
+      "jpn": "ばかげた；法外な"
+    },
+    {
+      "number": 1196,
+      "eng": "fairy",
+      "jpn": "妖精の（ような）"
+    },
+    {
+      "number": 1197,
+      "eng": "sensory",
+      "jpn": "感覚の"
+    },
+    {
+      "number": 1198,
+      "eng": "chronic",
+      "jpn": "慢性の（⇔ acute ⇒ 1486）；長引く；常習の"
+    },
+    {
+      "number": 1199,
+      "eng": "voluntary",
+      "jpn": "自発的な（⇔ compulsory ⇒ 1384）；無償の"
+    },
+    {
+      "number": 1200,
+      "eng": "inclined",
+      "jpn": "傾向がある；傾いた"
+    },
+    {
+      "number": 1201,
+      "eng": "infer",
+      "jpn": "を推論する，推測する"
+    },
+    {
+      "number": 1202,
+      "eng": "esteem",
+      "jpn": "を尊敬する；を見なす"
+    },
+    {
+      "number": 1203,
+      "eng": "tackle",
+      "jpn": "に取り組む；と（～のことで）話をつける（about / on）"
+    },
+    {
+      "number": 1204,
+      "eng": "venture",
+      "jpn": "危険を冒して進む；を思い切ってする"
+    },
+    {
+      "number": 1205,
+      "eng": "accelerate",
+      "jpn": "を加速させる，促進する；加速する"
+    },
+    {
+      "number": 1206,
+      "eng": "accustom",
+      "jpn": "（人）を慣れさせる"
+    },
+    {
+      "number": 1207,
+      "eng": "amuse",
+      "jpn": "をおもしろがらせる，楽しませる"
+    },
+    {
+      "number": 1208,
+      "eng": "flourish",
+      "jpn": "繁栄する；繁茂する；を振りかざす"
+    },
+    {
+      "number": 1209,
+      "eng": "thrive",
+      "jpn": "繁栄する，うまくいく；繁茂する"
+    },
+    {
+      "number": 1210,
+      "eng": "nurture",
+      "jpn": "をはぐくむ；を養成する"
+    },
+    {
+      "number": 1211,
+      "eng": "click",
+      "jpn": "（を）クリックする；をカチッと鳴らす；カチッと音がする"
+    },
+    {
+      "number": 1212,
+      "eng": "spin",
+      "jpn": "回転する；を回転させる；（糸）を紡ぐ"
+    },
+    {
+      "number": 1213,
+      "eng": "clip",
+      "jpn": "を切り抜く；を（はさみで）切り取る；をクリップで留める"
+    },
+    {
+      "number": 1214,
+      "eng": "drag",
+      "jpn": "を引きずる；ぐずぐずする"
+    },
+    {
+      "number": 1215,
+      "eng": "cast",
+      "jpn": "を投じる；に役を当てる"
+    },
+    {
+      "number": 1216,
+      "eng": "scatter",
+      "jpn": "をまき散らす；分散する"
+    },
+    {
+      "number": 1217,
+      "eng": "tempt",
+      "jpn": "を（...する）気にさせる（to do）；を引きつける"
+    },
+    {
+      "number": 1218,
+      "eng": "withdraw",
+      "jpn": "を引き出す；を撤回する；撤退する"
+    },
+    {
+      "number": 1219,
+      "eng": "yawn",
+      "jpn": "あくびをする"
+    },
+    {
+      "number": 1220,
+      "eng": "blink",
+      "jpn": "まばたきする；点滅する；（目）をまたたく"
+    },
+    {
+      "number": 1221,
+      "eng": "dye",
+      "jpn": "を染める；染まる"
+    },
+    {
+      "number": 1222,
+      "eng": "spill",
+      "jpn": "をこぼす；こぼれる"
+    },
+    {
+      "number": 1223,
+      "eng": "irritate",
+      "jpn": "をいらいらさせる；をひりひりさせる"
+    },
+    {
+      "number": 1224,
+      "eng": "insult",
+      "jpn": "を侮辱する（≒ affront）"
+    },
+    {
+      "number": 1225,
+      "eng": "enforce",
+      "jpn": "を施行［実施］する；を（～に）強制する（on / upon）"
+    },
+    {
+      "number": 1226,
+      "eng": "rob",
+      "jpn": "から（金品を）奪う"
+    },
+    {
+      "number": 1227,
+      "eng": "drain",
+      "jpn": "（液体）を流出させる；（液体が）流れ出る"
+    },
+    {
+      "number": 1228,
+      "eng": "suspend",
+      "jpn": "を停職［停学，出場停止］にする；を一時的に中断する"
+    },
+    {
+      "number": 1229,
+      "eng": "drift",
+      "jpn": "漂う；さまよう；を押し流す"
+    },
+    {
+      "number": 1230,
+      "eng": "forgive",
+      "jpn": "を許す；を免除する"
+    },
+    {
+      "number": 1231,
+      "eng": "revise",
+      "jpn": "を修正する；を改訂する"
+    },
+    {
+      "number": 1232,
+      "eng": "recruit",
+      "jpn": "を募る；に新人を補充する"
+    },
+    {
+      "number": 1233,
+      "eng": "twist",
+      "jpn": "をねじる，ひねる；を歪曲する"
+    },
+    {
+      "number": 1234,
+      "eng": "crush",
+      "jpn": "を押しつぶす；を弾圧する；を絞り出す"
+    },
+    {
+      "number": 1235,
+      "eng": "pin",
+      "jpn": "をピンで留める；を突き刺す"
+    },
+    {
+      "number": 1236,
+      "eng": "uncover",
+      "jpn": "を暴く（⇔ conceal ⇒ 1116）；を 発掘する"
+    },
+    {
+      "number": 1237,
+      "eng": "exploit",
+      "jpn": "を活用する；を搾取する，につけ込む"
+    },
+    {
+      "number": 1238,
+      "eng": "implement",
+      "jpn": "を実行［実施］する"
+    },
+    {
+      "number": 1239,
+      "eng": "integrate",
+      "jpn": "を統合する；融合する"
+    },
+    {
+      "number": 1240,
+      "eng": "incorporate",
+      "jpn": "を取り入れる；を法人にする；合併する"
+    },
+    {
+      "number": 1241,
+      "eng": "profile",
+      "jpn": "人物の紹介；横顔；輪郭"
+    },
+    {
+      "number": 1242,
+      "eng": "appetite",
+      "jpn": "食欲；欲求"
+    },
+    {
+      "number": 1243,
+      "eng": "impulse",
+      "jpn": "衝動；刺激"
+    },
+    {
+      "number": 1244,
+      "eng": "script",
+      "jpn": "台本；筆跡"
+    },
+    {
+      "number": 1245,
+      "eng": "anniversary",
+      "jpn": "（～周年）記念日"
+    },
+    {
+      "number": 1246,
+      "eng": "pension",
+      "jpn": "年金"
+    },
+    {
+      "number": 1247,
+      "eng": "temper",
+      "jpn": "気質，気性；機嫌；かんしゃく"
+    },
+    {
+      "number": 1248,
+      "eng": "cortex",
+      "jpn": "皮質；樹皮"
+    },
+    {
+      "number": 1249,
+      "eng": "syndrome",
+      "jpn": "症候群；～現象"
+    },
+    {
+      "number": 1250,
+      "eng": "chamber",
+      "jpn": "（特定の目的の）部屋；議場；〔the ～〕議院"
+    },
+    {
+      "number": 1251,
+      "eng": "utility",
+      "jpn": "公共事業；公共料金；実用性"
+    },
+    {
+      "number": 1252,
+      "eng": "cattle",
+      "jpn": "〔集合的に〕牛"
+    },
+    {
+      "number": 1253,
+      "eng": "herd",
+      "jpn": "（牛などの）群れ；群衆"
+    },
+    {
+      "number": 1254,
+      "eng": "fluid",
+      "jpn": "流動体，液体"
+    },
+    {
+      "number": 1255,
+      "eng": "pity",
+      "jpn": "残念なこと；哀れみ"
+    },
+    {
+      "number": 1256,
+      "eng": "priest",
+      "jpn": "聖職者"
+    },
+    {
+      "number": 1257,
+      "eng": "acquaintance",
+      "jpn": "知人；面識；知識"
+    },
+    {
+      "number": 1258,
+      "eng": "offspring",
+      "jpn": "子孫，子；成果"
+    },
+    {
+      "number": 1259,
+      "eng": "famine",
+      "jpn": "飢饉；（食糧・物資の）ひどい不足"
+    },
+    {
+      "number": 1260,
+      "eng": "deforestation",
+      "jpn": "森林伐採"
+    },
+    {
+      "number": 1261,
+      "eng": "jail",
+      "jpn": "刑務所，拘置所（≒ prison）"
+    },
+    {
+      "number": 1262,
+      "eng": "commodity",
+      "jpn": "商品；有用なもの"
+    },
+    {
+      "number": 1263,
+      "eng": "format",
+      "jpn": "書式，形式；（本などの）型"
+    },
+    {
+      "number": 1264,
+      "eng": "recipient",
+      "jpn": "受け取る人；（臓器などの）被提供者"
+    },
+    {
+      "number": 1265,
+      "eng": "drill",
+      "jpn": "訓練；（反復）練習；ドリル，錐"
+    },
+    {
+      "number": 1266,
+      "eng": "inability",
+      "jpn": "無能，無力"
+    },
+    {
+      "number": 1267,
+      "eng": "republic",
+      "jpn": "共和国；共和制"
+    },
+    {
+      "number": 1268,
+      "eng": "combat",
+      "jpn": "戦闘；対立"
+    },
+    {
+      "number": 1269,
+      "eng": "debris",
+      "jpn": "（破壊された後の）残骸，瓦礫；がらくた"
+    },
+    {
+      "number": 1270,
+      "eng": "bug",
+      "jpn": "病原菌（が起こす病気）；虫；盗聴器；（機械・プログラムの）欠陥"
+    },
+    {
+      "number": 1271,
+      "eng": "fraction",
+      "jpn": "わずか（≒ bit），一部；分数"
+    },
+    {
+      "number": 1272,
+      "eng": "index",
+      "jpn": "指標；索引；指数"
+    },
+    {
+      "number": 1273,
+      "eng": "intuition",
+      "jpn": "直観（力），直感"
+    },
+    {
+      "number": 1274,
+      "eng": "motive",
+      "jpn": "動機"
+    },
+    {
+      "number": 1275,
+      "eng": "consent",
+      "jpn": "同意，承諾"
+    },
+    {
+      "number": 1276,
+      "eng": "hierarchy",
+      "jpn": "（社会の）階層制；〔the ～〕支配層"
+    },
+    {
+      "number": 1277,
+      "eng": "monument",
+      "jpn": "記念碑，遺跡；金字塔"
+    },
+    {
+      "number": 1278,
+      "eng": "asset",
+      "jpn": "〔通例～s〕資産；価値のあるもの；利点"
+    },
+    {
+      "number": 1279,
+      "eng": "decent",
+      "jpn": "まずまずの；きちんとした；上品な"
+    },
+    {
+      "number": 1280,
+      "eng": "competent",
+      "jpn": "有能な；適任の；満足できる"
+    },
+    {
+      "number": 1281,
+      "eng": "straightforward",
+      "jpn": "単純な；率直な"
+    },
+    {
+      "number": 1282,
+      "eng": "cosmetic",
+      "jpn": "化粧の，美容の；うわべの"
+    },
+    {
+      "number": 1283,
+      "eng": "delicate",
+      "jpn": "繊細な；扱いにくい；もろい"
+    },
+    {
+      "number": 1284,
+      "eng": "interior",
+      "jpn": "室内の；内部の（⇔ exterior 外部の）"
+    },
+    {
+      "number": 1285,
+      "eng": "transparent",
+      "jpn": "透明な；明快な"
+    },
+    {
+      "number": 1286,
+      "eng": "aesthetic",
+      "jpn": "美的な；美学の"
+    },
+    {
+      "number": 1287,
+      "eng": "deliberate",
+      "jpn": "故意の；慎重な"
+    },
+    {
+      "number": 1288,
+      "eng": "demographic",
+      "jpn": "人口統計学の"
+    },
+    {
+      "number": 1289,
+      "eng": "prehistoric",
+      "jpn": "有史以前の；旧式な"
+    },
+    {
+      "number": 1290,
+      "eng": "innate",
+      "jpn": "生まれながらの；固有の"
+    },
+    {
+      "number": 1291,
+      "eng": "mild",
+      "jpn": "穏やかな；（程度が）軽い"
+    },
+    {
+      "number": 1292,
+      "eng": "toxic",
+      "jpn": "有毒な；中毒性の"
+    },
+    {
+      "number": 1293,
+      "eng": "ashamed",
+      "jpn": "恥じて"
+    },
+    {
+      "number": 1294,
+      "eng": "humble",
+      "jpn": "謙虚な；質素な；身分が低い"
+    },
+    {
+      "number": 1295,
+      "eng": "peculiar",
+      "jpn": "特有の；特異な"
+    },
+    {
+      "number": 1296,
+      "eng": "steep",
+      "jpn": "（傾斜が）急な；急激な；法外な"
+    },
+    {
+      "number": 1297,
+      "eng": "trivial",
+      "jpn": "ささいな，取るに足りない"
+    },
+    {
+      "number": 1298,
+      "eng": "magnificent",
+      "jpn": "壮大な；見事な"
+    },
+    {
+      "number": 1299,
+      "eng": "wireless",
+      "jpn": "無線（電信）の，ラジオの"
+    },
+    {
+      "number": 1300,
+      "eng": "ongoing",
+      "jpn": "継続している，進行中の"
+    },
+    {
+      "number": 1301,
+      "eng": "assure",
+      "jpn": "に自信を持って言う；を保証する"
+    },
+    {
+      "number": 1302,
+      "eng": "precede",
+      "jpn": "に先行する；に優先する"
+    },
+    {
+      "number": 1303,
+      "eng": "revive",
+      "jpn": "を復活させる；復活する"
+    },
+    {
+      "number": 1304,
+      "eng": "compel",
+      "jpn": "に強いる"
+    },
+    {
+      "number": 1305,
+      "eng": "blossom",
+      "jpn": "花が咲く（≒ bloom）；発展する"
+    },
+    {
+      "number": 1306,
+      "eng": "terrify",
+      "jpn": "を怖がらせる；を脅かす"
+    },
+    {
+      "number": 1307,
+      "eng": "violate",
+      "jpn": "（法律・規則など）に違反する；を侵害する"
+    },
+    {
+      "number": 1308,
+      "eng": "suppress",
+      "jpn": "を抑える；を抑圧する"
+    },
+    {
+      "number": 1309,
+      "eng": "deceive",
+      "jpn": "をだます（≒ take in）"
+    },
+    {
+      "number": 1310,
+      "eng": "manipulate",
+      "jpn": "を（巧みに）操る；を改ざんする"
+    },
+    {
+      "number": 1311,
+      "eng": "starve",
+      "jpn": "飢える；（～を）渇望する（for）；を飢えさせる"
+    },
+    {
+      "number": 1312,
+      "eng": "flee",
+      "jpn": "（から）逃げる"
+    },
+    {
+      "number": 1313,
+      "eng": "whisper",
+      "jpn": "（を）ささやく"
+    },
+    {
+      "number": 1314,
+      "eng": "yell",
+      "jpn": "叫ぶ，どなる"
+    },
+    {
+      "number": 1315,
+      "eng": "deposit",
+      "jpn": "を置く；を預ける；を堆積させる"
+    },
+    {
+      "number": 1316,
+      "eng": "confine",
+      "jpn": "を限定する；〔通例受身形で〕閉じ込められる"
+    },
+    {
+      "number": 1317,
+      "eng": "swing",
+      "jpn": "を揺らす，振る；揺れる；（行動に）さっと移る"
+    },
+    {
+      "number": 1318,
+      "eng": "prolong",
+      "jpn": "を長引かせる"
+    },
+    {
+      "number": 1319,
+      "eng": "depict",
+      "jpn": "を描く"
+    },
+    {
+      "number": 1320,
+      "eng": "outline",
+      "jpn": "の要点を述べる；の輪郭を描く"
+    },
+    {
+      "number": 1321,
+      "eng": "shed",
+      "jpn": "を捨て去る；（光など）を放つ；（涙・血）を流す"
+    },
+    {
+      "number": 1322,
+      "eng": "emit",
+      "jpn": "（光・熱など）を出す，排出する；（信号）を送る"
+    },
+    {
+      "number": 1323,
+      "eng": "renew",
+      "jpn": "を更新する；（資源）を再生する"
+    },
+    {
+      "number": 1324,
+      "eng": "utilize",
+      "jpn": "を利用する（≒ make use of）"
+    },
+    {
+      "number": 1325,
+      "eng": "assert",
+      "jpn": "を主張する"
+    },
+    {
+      "number": 1326,
+      "eng": "strain",
+      "jpn": "に負担をかける；を緊張させる；を漉す"
+    },
+    {
+      "number": 1327,
+      "eng": "strive",
+      "jpn": "努力する；争う"
+    },
+    {
+      "number": 1328,
+      "eng": "dare",
+      "jpn": "あえて［思い切って］...する"
+    },
+    {
+      "number": 1329,
+      "eng": "boast",
+      "jpn": "を誇る；（を）自慢する"
+    },
+    {
+      "number": 1330,
+      "eng": "startle",
+      "jpn": "をびっくりさせる（≒ surprise）"
+    },
+    {
+      "number": 1331,
+      "eng": "offend",
+      "jpn": "の気分を害する；（に）違反する"
+    },
+    {
+      "number": 1332,
+      "eng": "compute",
+      "jpn": "（を）計算する；コンピューターを使う"
+    },
+    {
+      "number": 1333,
+      "eng": "assemble",
+      "jpn": "を集める；を組み立てる；集まる"
+    },
+    {
+      "number": 1334,
+      "eng": "worsen",
+      "jpn": "を悪化させる；悪化する（≒ deteriorate）"
+    },
+    {
+      "number": 1335,
+      "eng": "flip",
+      "jpn": "を（ぱっと）裏返す；を軽くはじく"
+    },
+    {
+      "number": 1336,
+      "eng": "rub",
+      "jpn": "（を）こする；（～に）を塗る（on / over）"
+    },
+    {
+      "number": 1337,
+      "eng": "descend",
+      "jpn": "（を）降りる（⇔ ascend ⇒ 1839）；受け継がれる"
+    },
+    {
+      "number": 1338,
+      "eng": "compensate",
+      "jpn": "補償する（≒ make up）；に償う"
+    },
+    {
+      "number": 1339,
+      "eng": "comprise",
+      "jpn": "から成る；を構成する"
+    },
+    {
+      "number": 1340,
+      "eng": "prevail",
+      "jpn": "普及している；支配的である；（～に）打ち勝つ（over）"
+    },
+    {
+      "number": 1341,
+      "eng": "quest",
+      "jpn": "探究"
+    },
+    {
+      "number": 1342,
+      "eng": "dignity",
+      "jpn": "尊厳；威厳"
+    },
+    {
+      "number": 1343,
+      "eng": "criterion",
+      "jpn": "（判断・評価の）基準"
+    },
+    {
+      "number": 1344,
+      "eng": "paradox",
+      "jpn": "逆説；矛盾"
+    },
+    {
+      "number": 1345,
+      "eng": "parliament",
+      "jpn": "（英国などの）議会；国会議員（団）"
+    },
+    {
+      "number": 1346,
+      "eng": "legislation",
+      "jpn": "法律；立法"
+    },
+    {
+      "number": 1347,
+      "eng": "agenda",
+      "jpn": "協議事項（リスト）；議事日程（表）；（政治上の）課題"
+    },
+    {
+      "number": 1348,
+      "eng": "mainstream",
+      "jpn": "（活動・思潮などの）主流；大勢"
+    },
+    {
+      "number": 1349,
+      "eng": "troop",
+      "jpn": "〔～s〕軍隊；集団"
+    },
+    {
+      "number": 1350,
+      "eng": "epidemic",
+      "jpn": "流行（病）；蔓延"
+    },
+    {
+      "number": 1351,
+      "eng": "outbreak",
+      "jpn": "発生，勃発"
+    },
+    {
+      "number": 1352,
+      "eng": "chaos",
+      "jpn": "混沌，大混乱"
+    },
+    {
+      "number": 1353,
+      "eng": "nightmare",
+      "jpn": "悪夢（のような状況）；不安感"
+    },
+    {
+      "number": 1354,
+      "eng": "horror",
+      "jpn": "恐怖；強い嫌悪；嫌な物［人］"
+    },
+    {
+      "number": 1355,
+      "eng": "cluster",
+      "jpn": "集団；（植物の）房，束"
+    },
+    {
+      "number": 1356,
+      "eng": "pollen",
+      "jpn": "花粉"
+    },
+    {
+      "number": 1357,
+      "eng": "hive",
+      "jpn": "ミツバチの巣（箱）；人の集まる所"
+    },
+    {
+      "number": 1358,
+      "eng": "irrigation",
+      "jpn": "灌漑"
+    },
+    {
+      "number": 1359,
+      "eng": "dose",
+      "jpn": "（薬の1回分の）服用量；放射線の1回の照射量"
+    },
+    {
+      "number": 1360,
+      "eng": "suicide",
+      "jpn": "自殺；自殺的行為"
+    },
+    {
+      "number": 1361,
+      "eng": "feast",
+      "jpn": "祝宴；大ごちそう；楽しみ"
+    },
+    {
+      "number": 1362,
+      "eng": "cuisine",
+      "jpn": "（独特の）料理，料理法"
+    },
+    {
+      "number": 1363,
+      "eng": "rumor",
+      "jpn": "うわさ"
+    },
+    {
+      "number": 1364,
+      "eng": "proverb",
+      "jpn": "ことわざ（≒ saying）"
+    },
+    {
+      "number": 1365,
+      "eng": "signature",
+      "jpn": "署名；特徴"
+    },
+    {
+      "number": 1366,
+      "eng": "formula",
+      "jpn": "方法，解決策；公式"
+    },
+    {
+      "number": 1367,
+      "eng": "tuition",
+      "jpn": "【主に米】 授業料（＝ 【英】tuition fees）；（個人）指導"
+    },
+    {
+      "number": 1368,
+      "eng": "intake",
+      "jpn": "摂取量；受け入れ数；取り入れること"
+    },
+    {
+      "number": 1369,
+      "eng": "spectrum",
+      "jpn": "スペクトル；（波動・変動の）範囲"
+    },
+    {
+      "number": 1370,
+      "eng": "kidney",
+      "jpn": "腎臓"
+    },
+    {
+      "number": 1371,
+      "eng": "gear",
+      "jpn": "用具（一式），器具；歯車；ギア"
+    },
+    {
+      "number": 1372,
+      "eng": "aisle",
+      "jpn": "（座席間などの）通路"
+    },
+    {
+      "number": 1373,
+      "eng": "grief",
+      "jpn": "深い悲しみ"
+    },
+    {
+      "number": 1374,
+      "eng": "destiny",
+      "jpn": "運命"
+    },
+    {
+      "number": 1375,
+      "eng": "skull",
+      "jpn": "頭骨，頭蓋骨；頭脳"
+    },
+    {
+      "number": 1376,
+      "eng": "tomb",
+      "jpn": "墓"
+    },
+    {
+      "number": 1377,
+      "eng": "monk",
+      "jpn": "修道士，僧（⇔ nun 修道女，尼）"
+    },
+    {
+      "number": 1378,
+      "eng": "worship",
+      "jpn": "崇拝，礼拝（式）；賛美"
+    },
+    {
+      "number": 1379,
+      "eng": "outstanding",
+      "jpn": "際立った；未払いの；未解決の"
+    },
+    {
+      "number": 1380,
+      "eng": "unprecedented",
+      "jpn": "前例のない；空前の"
+    },
+    {
+      "number": 1381,
+      "eng": "infinite",
+      "jpn": "無限の（⇔ finite 有限の）；無数の"
+    },
+    {
+      "number": 1382,
+      "eng": "worthwhile",
+      "jpn": "価値がある；立派な"
+    },
+    {
+      "number": 1383,
+      "eng": "indispensable",
+      "jpn": "不可欠な（⇔ dispensable なくてもすむ）"
+    },
+    {
+      "number": 1384,
+      "eng": "compulsory",
+      "jpn": "義務的な，強制的な（⇔ voluntary ⇒ 1199）"
+    },
+    {
+      "number": 1385,
+      "eng": "probable",
+      "jpn": "十分にありそうな"
+    },
+    {
+      "number": 1386,
+      "eng": "ambiguous",
+      "jpn": "あいまいな；多義的な"
+    },
+    {
+      "number": 1387,
+      "eng": "obscure",
+      "jpn": "（世に）知られていない；不明瞭な"
+    },
+    {
+      "number": 1388,
+      "eng": "skeptical",
+      "jpn": "（～に）懐疑的な（of ⇒ about）"
+    },
+    {
+      "number": 1389,
+      "eng": "fragile",
+      "jpn": "壊れやすい；虚弱な"
+    },
+    {
+      "number": 1390,
+      "eng": "static",
+      "jpn": "静的な（⇔ dynamic ⇒ 1083）；動きのない"
+    },
+    {
+      "number": 1391,
+      "eng": "gradual",
+      "jpn": "徐々の，緩やかな"
+    },
+    {
+      "number": 1392,
+      "eng": "vocal",
+      "jpn": "声の，発声の；はっきりものを言う"
+    },
+    {
+      "number": 1393,
+      "eng": "vivid",
+      "jpn": "鮮やかな；生き生きとした"
+    },
+    {
+      "number": 1394,
+      "eng": "imperial",
+      "jpn": "帝国の；皇帝の"
+    },
+    {
+      "number": 1395,
+      "eng": "hostile",
+      "jpn": "敵意のある（⇔friendly 友好的な）"
+    },
+    {
+      "number": 1396,
+      "eng": "superficial",
+      "jpn": "表面的な"
+    },
+    {
+      "number": 1397,
+      "eng": "scarce",
+      "jpn": "乏しい；珍しい"
+    },
+    {
+      "number": 1398,
+      "eng": "gross",
+      "jpn": "総計の；甚だしい；粗野な"
+    },
+    {
+      "number": 1399,
+      "eng": "inherent",
+      "jpn": "生来の，本来的に備わっている"
+    },
+    {
+      "number": 1400,
+      "eng": "notable",
+      "jpn": "注目に値する；著名な"
+    },
+    {
+      "number": 1401,
+      "eng": "update",
+      "jpn": "を最新のものにする；をアップデートする"
+    },
+    {
+      "number": 1402,
+      "eng": "refresh",
+      "jpn": "（気分）をさわやかにする；（記憶など）を新たにする；を最新のものにする"
+    },
+    {
+      "number": 1403,
+      "eng": "bloom",
+      "jpn": "花が咲く；栄える"
+    },
+    {
+      "number": 1404,
+      "eng": "conquer",
+      "jpn": "を征服する；を克服する"
+    },
+    {
+      "number": 1405,
+      "eng": "induce",
+      "jpn": "を引き起こす；を説得する"
+    },
+    {
+      "number": 1406,
+      "eng": "attain",
+      "jpn": "を獲得する，達成する；に達する"
+    },
+    {
+      "number": 1407,
+      "eng": "spray",
+      "jpn": "を吹きかける，に吹きつける"
+    },
+    {
+      "number": 1408,
+      "eng": "retrieve",
+      "jpn": "（情報）を検索する；を取り戻す；を回復する"
+    },
+    {
+      "number": 1409,
+      "eng": "portray",
+      "jpn": "を描く；（の役）を演じる"
+    },
+    {
+      "number": 1410,
+      "eng": "scratch",
+      "jpn": "を引っかく；を取り消す，削除する"
+    },
+    {
+      "number": 1411,
+      "eng": "designate",
+      "jpn": "を指定する；を任命する"
+    },
+    {
+      "number": 1412,
+      "eng": "contradict",
+      "jpn": "と矛盾する；に反対意見を言う"
+    },
+    {
+      "number": 1413,
+      "eng": "sigh",
+      "jpn": "ため息をつく"
+    },
+    {
+      "number": 1414,
+      "eng": "disrupt",
+      "jpn": "を混乱させる；を分裂させる"
+    },
+    {
+      "number": 1415,
+      "eng": "depart",
+      "jpn": "出発する；（～から）それる（from）"
+    },
+    {
+      "number": 1416,
+      "eng": "navigate",
+      "jpn": "（を）誘導する；（を）操縦する；（を）航行する"
+    },
+    {
+      "number": 1417,
+      "eng": "beg",
+      "jpn": "に（～を）切に頼む（for）；（を）懇願する"
+    },
+    {
+      "number": 1418,
+      "eng": "inhabit",
+      "jpn": "に住んでいる；に宿る，存する"
+    },
+    {
+      "number": 1419,
+      "eng": "diagnose",
+      "jpn": "（を）診断する"
+    },
+    {
+      "number": 1420,
+      "eng": "comprehend",
+      "jpn": "を理解する"
+    },
+    {
+      "number": 1421,
+      "eng": "oblige",
+      "jpn": "に義務づける；に恩恵を施す"
+    },
+    {
+      "number": 1422,
+      "eng": "cram",
+      "jpn": "に詰め込む；詰め込み勉強をする"
+    },
+    {
+      "number": 1423,
+      "eng": "flock",
+      "jpn": "群がる，集まる"
+    },
+    {
+      "number": 1424,
+      "eng": "underestimate",
+      "jpn": "（を）過小評価する（⇔ overestimate （を）過大評価する）；（を）軽く見る；を少なく見積もる"
+    },
+    {
+      "number": 1425,
+      "eng": "clarify",
+      "jpn": "を明確にする"
+    },
+    {
+      "number": 1426,
+      "eng": "spark",
+      "jpn": "を引き起こす；を刺激する；スパークする"
+    },
+    {
+      "number": 1427,
+      "eng": "seize",
+      "jpn": "をつかむ；を奪い取る；を没収する"
+    },
+    {
+      "number": 1428,
+      "eng": "soar",
+      "jpn": "急上昇する；空高く飛ぶ"
+    },
+    {
+      "number": 1429,
+      "eng": "glow",
+      "jpn": "光り［照り］輝く；赤く燃える；紅潮する"
+    },
+    {
+      "number": 1430,
+      "eng": "disguise",
+      "jpn": "を（～に）変装させる（as）；を偽る"
+    },
+    {
+      "number": 1431,
+      "eng": "distort",
+      "jpn": "を歪める；歪む"
+    },
+    {
+      "number": 1432,
+      "eng": "undermine",
+      "jpn": "を徐々にむしばむ；を侵食する"
+    },
+    {
+      "number": 1433,
+      "eng": "abolish",
+      "jpn": "を廃止する（≒ do away with）"
+    },
+    {
+      "number": 1434,
+      "eng": "strip",
+      "jpn": "を［から］取り去る；を裸にする"
+    },
+    {
+      "number": 1435,
+      "eng": "dispose",
+      "jpn": "〔dispose ofで〕を処分する；を（...する）気にさせる（to do）；を配置する"
+    },
+    {
+      "number": 1436,
+      "eng": "dump",
+      "jpn": "を投棄する；をどさっと落とす"
+    },
+    {
+      "number": 1437,
+      "eng": "weave",
+      "jpn": "を織る；（計画・物語など）を作り上げる"
+    },
+    {
+      "number": 1438,
+      "eng": "refine",
+      "jpn": "を洗練する；を精製する"
+    },
+    {
+      "number": 1439,
+      "eng": "enrich",
+      "jpn": "を豊かにする；（物質）を濃縮化する"
+    },
+    {
+      "number": 1440,
+      "eng": "coordinate",
+      "jpn": "を調整する；を組織する；（服など）をコーディネートする"
+    },
+    {
+      "number": 1441,
+      "eng": "headline",
+      "jpn": "（新聞などの）見出し"
+    },
+    {
+      "number": 1442,
+      "eng": "internship",
+      "jpn": "【米】 実務［医学］研修；研修期間"
+    },
+    {
+      "number": 1443,
+      "eng": "outlet",
+      "jpn": "直売店，特売店；はけ口；【米】（電気の）コンセント（≒ 【英】socket）"
+    },
+    {
+      "number": 1444,
+      "eng": "remedy",
+      "jpn": "治療（法）；治療薬；解決法"
+    },
+    {
+      "number": 1445,
+      "eng": "pill",
+      "jpn": "錠剤，丸薬；〔the ～〕ピル，経口避妊薬"
+    },
+    {
+      "number": 1446,
+      "eng": "reception",
+      "jpn": "反応；宴会；受付；受信（状態）"
+    },
+    {
+      "number": 1447,
+      "eng": "transaction",
+      "jpn": "（商）取引；（人と人との）交流"
+    },
+    {
+      "number": 1448,
+      "eng": "mutation",
+      "jpn": "突然変異（体）；変化"
+    },
+    {
+      "number": 1449,
+      "eng": "dairy",
+      "jpn": "〔集合的に〕乳製品；乳製品加工所［販売者］"
+    },
+    {
+      "number": 1450,
+      "eng": "compassion",
+      "jpn": "同情"
+    },
+    {
+      "number": 1451,
+      "eng": "posture",
+      "jpn": "姿勢；心構え"
+    },
+    {
+      "number": 1452,
+      "eng": "curse",
+      "jpn": "悪態，ののしりの言葉；呪い；〔通例a ～〕災い"
+    },
+    {
+      "number": 1453,
+      "eng": "funeral",
+      "jpn": "葬式"
+    },
+    {
+      "number": 1454,
+      "eng": "census",
+      "jpn": "国勢調査；交通調査"
+    },
+    {
+      "number": 1455,
+      "eng": "encyclopedia",
+      "jpn": "百科事典"
+    },
+    {
+      "number": 1456,
+      "eng": "cereal",
+      "jpn": "〔通例～s〕穀物；シリアル（穀物加工食品）"
+    },
+    {
+      "number": 1457,
+      "eng": "fragment",
+      "jpn": "断片"
+    },
+    {
+      "number": 1458,
+      "eng": "patch",
+      "jpn": "（～の）部分，斑点；継ぎ；貼り薬"
+    },
+    {
+      "number": 1459,
+      "eng": "rubbish",
+      "jpn": "【英】 ごみ（≒ 【米】garbage）；つまらないもの"
+    },
+    {
+      "number": 1460,
+      "eng": "maze",
+      "jpn": "迷路（≒ labyrinth）；複雑に込み入ったもの"
+    },
+    {
+      "number": 1461,
+      "eng": "outlook",
+      "jpn": "見解；見通し；眺め"
+    },
+    {
+      "number": 1462,
+      "eng": "breakthrough",
+      "jpn": "大発見，飛躍的進歩"
+    },
+    {
+      "number": 1463,
+      "eng": "triumph",
+      "jpn": "勝利；勝利の喜び；偉業"
+    },
+    {
+      "number": 1464,
+      "eng": "ally",
+      "jpn": "同盟国；提携者；援助者；盟友"
+    },
+    {
+      "number": 1465,
+      "eng": "spectator",
+      "jpn": "（試合などの）観客"
+    },
+    {
+      "number": 1466,
+      "eng": "sphere",
+      "jpn": "領域；球体；天体"
+    },
+    {
+      "number": 1467,
+      "eng": "county",
+      "jpn": "【米】 郡；【英】州"
+    },
+    {
+      "number": 1468,
+      "eng": "behalf",
+      "jpn": "利益，味方"
+    },
+    {
+      "number": 1469,
+      "eng": "interval",
+      "jpn": "（時間の）間隔；合間；隔たり；小休止"
+    },
+    {
+      "number": 1470,
+      "eng": "circulation",
+      "jpn": "循環；流通；（新聞・雑誌の）発行部数"
+    },
+    {
+      "number": 1471,
+      "eng": "blade",
+      "jpn": "刃；（プロペラなどの）羽根；（草などの）葉"
+    },
+    {
+      "number": 1472,
+      "eng": "theft",
+      "jpn": "窃盗（罪）"
+    },
+    {
+      "number": 1473,
+      "eng": "vacuum",
+      "jpn": "真空；空虚"
+    },
+    {
+      "number": 1474,
+      "eng": "collision",
+      "jpn": "衝突；対立"
+    },
+    {
+      "number": 1475,
+      "eng": "bargain",
+      "jpn": "買い得品；取引；契約"
+    },
+    {
+      "number": 1476,
+      "eng": "landmark",
+      "jpn": "（ある場所の）目印；画期的な出来事"
+    },
+    {
+      "number": 1477,
+      "eng": "revenue",
+      "jpn": "歳入（⇔ expenditure 歳出）；収益"
+    },
+    {
+      "number": 1478,
+      "eng": "treaty",
+      "jpn": "（国家間の）条約；協定"
+    },
+    {
+      "number": 1479,
+      "eng": "supreme",
+      "jpn": "最高の"
+    },
+    {
+      "number": 1480,
+      "eng": "thorough",
+      "jpn": "徹底的な；まったくの"
+    },
+    {
+      "number": 1481,
+      "eng": "naked",
+      "jpn": "裸の"
+    },
+    {
+      "number": 1482,
+      "eng": "sincere",
+      "jpn": "心からの；誠実な"
+    },
+    {
+      "number": 1483,
+      "eng": "tame",
+      "jpn": "飼いならされた，人に慣れた；退屈な"
+    },
+    {
+      "number": 1484,
+      "eng": "insufficient",
+      "jpn": "不十分な；不適当な"
+    },
+    {
+      "number": 1485,
+      "eng": "dim",
+      "jpn": "薄暗い；ぼんやりした"
+    },
+    {
+      "number": 1486,
+      "eng": "acute",
+      "jpn": "（痛み・感情などが）激しい；（知覚などが）鋭い；急性の（⇔ chronic ⇒ 1198）"
+    },
+    {
+      "number": 1487,
+      "eng": "disabled",
+      "jpn": "障害のある；障害者用の"
+    },
+    {
+      "number": 1488,
+      "eng": "metropolitan",
+      "jpn": "大都市の，首都圏の"
+    },
+    {
+      "number": 1489,
+      "eng": "monetary",
+      "jpn": "金銭的な；金融の"
+    },
+    {
+      "number": 1490,
+      "eng": "alternate",
+      "jpn": "代わりの（≒ alternative）；交互の"
+    },
+    {
+      "number": 1491,
+      "eng": "partial",
+      "jpn": "部分的な；不公平な（⇔impartial 公平な）"
+    },
+    {
+      "number": 1492,
+      "eng": "divine",
+      "jpn": "神の；神にささげる"
+    },
+    {
+      "number": 1493,
+      "eng": "drastic",
+      "jpn": "徹底的な，抜本的な；極端な"
+    },
+    {
+      "number": 1494,
+      "eng": "fierce",
+      "jpn": "猛烈な；どう猛な"
+    },
+    {
+      "number": 1495,
+      "eng": "sole",
+      "jpn": "唯一の；単独の；独占的な"
+    },
+    {
+      "number": 1496,
+      "eng": "spontaneous",
+      "jpn": "自然発生的な；自発的な"
+    },
+    {
+      "number": 1497,
+      "eng": "spatial",
+      "jpn": "空間の"
+    },
+    {
+      "number": 1498,
+      "eng": "neat",
+      "jpn": "きちんとした；見事な"
+    },
+    {
+      "number": 1499,
+      "eng": "tidy",
+      "jpn": "きちんとした，整頓された；相当の"
+    },
+    {
+      "number": 1500,
+      "eng": "loyal",
+      "jpn": "（～に）忠実な（to）；誠実な"
+    },
+    {
+      "number": 1501,
+      "eng": "bless",
+      "jpn": "に恩恵を与える；に感謝する"
+    },
+    {
+      "number": 1502,
+      "eng": "regain",
+      "jpn": "を取り戻す"
+    },
+    {
+      "number": 1503,
+      "eng": "conform",
+      "jpn": "順応する；一致する"
+    },
+    {
+      "number": 1504,
+      "eng": "enroll",
+      "jpn": "登録する，入会する；を登録させる"
+    },
+    {
+      "number": 1505,
+      "eng": "entitle",
+      "jpn": "に権利を与える；に題名をつける"
+    },
+    {
+      "number": 1506,
+      "eng": "halt",
+      "jpn": "を止める；止まる"
+    },
+    {
+      "number": 1507,
+      "eng": "provoke",
+      "jpn": "（感情・行動など）を引き起こす；を挑発する"
+    },
+    {
+      "number": 1508,
+      "eng": "invade",
+      "jpn": "を侵略する；を侵害する；（場所）に殺到する"
+    },
+    {
+      "number": 1509,
+      "eng": "squeeze",
+      "jpn": "押し入る；を押し込む；（を）搾る；（を）強く押す"
+    },
+    {
+      "number": 1510,
+      "eng": "crawl",
+      "jpn": "はう；ゆっくり進む"
+    },
+    {
+      "number": 1511,
+      "eng": "digest",
+      "jpn": "を消化する；を理解する；を要約する"
+    },
+    {
+      "number": 1512,
+      "eng": "utter",
+      "jpn": "（声）を発する；（考えなど）を述べる"
+    },
+    {
+      "number": 1513,
+      "eng": "refrain",
+      "jpn": "控える"
+    },
+    {
+      "number": 1514,
+      "eng": "populate",
+      "jpn": "に住む，の住民である；に人を住まわせる"
+    },
+    {
+      "number": 1515,
+      "eng": "accommodate",
+      "jpn": "を収容する；を（～に）適応させる（to）"
+    },
+    {
+      "number": 1516,
+      "eng": "steer",
+      "jpn": "（を）操縦する；を（～へ）向ける（to）"
+    },
+    {
+      "number": 1517,
+      "eng": "drown",
+      "jpn": "溺死する；を水浸しにする"
+    },
+    {
+      "number": 1518,
+      "eng": "dip",
+      "jpn": "を浸す；（手など）を（～に）突っ込む（into / in）；下がる"
+    },
+    {
+      "number": 1519,
+      "eng": "soak",
+      "jpn": "を浸す；をずぶぬれにする；浸る"
+    },
+    {
+      "number": 1520,
+      "eng": "stir",
+      "jpn": "をかき回す；を揺り動かす"
+    },
+    {
+      "number": 1521,
+      "eng": "transplant",
+      "jpn": "を移植する；を移住させる"
+    },
+    {
+      "number": 1522,
+      "eng": "reassure",
+      "jpn": "を安心させる"
+    },
+    {
+      "number": 1523,
+      "eng": "resume",
+      "jpn": "（を）再開する；を取り戻す"
+    },
+    {
+      "number": 1524,
+      "eng": "speculate",
+      "jpn": "（と）推測する；投機する"
+    },
+    {
+      "number": 1525,
+      "eng": "surpass",
+      "jpn": "を上回る"
+    },
+    {
+      "number": 1526,
+      "eng": "appoint",
+      "jpn": "を任命する；（日時・場所など）を指定する"
+    },
+    {
+      "number": 1527,
+      "eng": "intrigue",
+      "jpn": "に興味を持たせる；陰謀を企てる"
+    },
+    {
+      "number": 1528,
+      "eng": "decay",
+      "jpn": "腐敗する（≒ rot）；（徐々に）衰える"
+    },
+    {
+      "number": 1529,
+      "eng": "contaminate",
+      "jpn": "を汚染する；を堕落させる"
+    },
+    {
+      "number": 1530,
+      "eng": "swell",
+      "jpn": "膨張する，腫れる；を膨らませる"
+    },
+    {
+      "number": 1531,
+      "eng": "delete",
+      "jpn": "を削除する，消す"
+    },
+    {
+      "number": 1532,
+      "eng": "tolerate",
+      "jpn": "を許容する，我慢する（≒ put up with）"
+    },
+    {
+      "number": 1533,
+      "eng": "envy",
+      "jpn": "をうらやむ"
+    },
+    {
+      "number": 1534,
+      "eng": "pray",
+      "jpn": "（を）祈る"
+    },
+    {
+      "number": 1535,
+      "eng": "confess",
+      "jpn": "（を）告白する"
+    },
+    {
+      "number": 1536,
+      "eng": "resign",
+      "jpn": "（を）辞任する；を放棄する"
+    },
+    {
+      "number": 1537,
+      "eng": "dissolve",
+      "jpn": "（を）溶かす；（議会など）を解散する；（契約など）を解消する；溶ける"
+    },
+    {
+      "number": 1538,
+      "eng": "unfold",
+      "jpn": "（閉じたもの）を開く；を明らかにする；開く；明らかになる"
+    },
+    {
+      "number": 1539,
+      "eng": "awaken",
+      "jpn": "を目覚めさせる；（～から）覚める（from）"
+    },
+    {
+      "number": 1540,
+      "eng": "conceive",
+      "jpn": "（を）思いつく；と想像する；（を）妊娠する"
+    },
+    {
+      "number": 1541,
+      "eng": "entrepreneur",
+      "jpn": "起業家，事業家"
+    },
+    {
+      "number": 1542,
+      "eng": "stake",
+      "jpn": "利害関係；〔通例～s〕賭け金；杭"
+    },
+    {
+      "number": 1543,
+      "eng": "surplus",
+      "jpn": "余剰（⇔ shortage 不足），過剰；黒字"
+    },
+    {
+      "number": 1544,
+      "eng": "inflation",
+      "jpn": "インフレ（ーション）；（物価の）高騰"
+    },
+    {
+      "number": 1545,
+      "eng": "sweatshop",
+      "jpn": "搾取工場"
+    },
+    {
+      "number": 1546,
+      "eng": "clash",
+      "jpn": "衝突；対立；かち合うこと；ガチャンという音"
+    },
+    {
+      "number": 1547,
+      "eng": "sociology",
+      "jpn": "社会学"
+    },
+    {
+      "number": 1548,
+      "eng": "ideology",
+      "jpn": "イデオロギー，思想傾向"
+    },
+    {
+      "number": 1549,
+      "eng": "margin",
+      "jpn": "余白；差；利ざや"
+    },
+    {
+      "number": 1550,
+      "eng": "realm",
+      "jpn": "領域；領土"
+    },
+    {
+      "number": 1551,
+      "eng": "domain",
+      "jpn": "分野；領域；ドメイン（＝ domain name）"
+    },
+    {
+      "number": 1552,
+      "eng": "algorithm",
+      "jpn": "アルゴリズム；問題解決の手順"
+    },
+    {
+      "number": 1553,
+      "eng": "prairie",
+      "jpn": "大草原"
+    },
+    {
+      "number": 1554,
+      "eng": "frontier",
+      "jpn": "〔通例the ～s〕最先端；〔the ～〕 【米】辺境地；国境"
+    },
+    {
+      "number": 1555,
+      "eng": "bullet",
+      "jpn": "銃弾"
+    },
+    {
+      "number": 1556,
+      "eng": "shield",
+      "jpn": "盾，防御物"
+    },
+    {
+      "number": 1557,
+      "eng": "despair",
+      "jpn": "絶望"
+    },
+    {
+      "number": 1558,
+      "eng": "radiation",
+      "jpn": "放射能，放射線"
+    },
+    {
+      "number": 1559,
+      "eng": "placebo",
+      "jpn": "偽薬，プラシーボ；気休め"
+    },
+    {
+      "number": 1560,
+      "eng": "nursery",
+      "jpn": "託児所；苗床"
+    },
+    {
+      "number": 1561,
+      "eng": "spouse",
+      "jpn": "配偶者"
+    },
+    {
+      "number": 1562,
+      "eng": "makeup",
+      "jpn": "化粧；化粧品；構成；性質"
+    },
+    {
+      "number": 1563,
+      "eng": "mummy",
+      "jpn": "ミイラ；【英】ママ，お母さん（＝ 【米】mommy）"
+    },
+    {
+      "number": 1564,
+      "eng": "flesh",
+      "jpn": "（人・動物の）肉；果肉"
+    },
+    {
+      "number": 1565,
+      "eng": "limb",
+      "jpn": "手足"
+    },
+    {
+      "number": 1566,
+      "eng": "odor",
+      "jpn": "におい；気配"
+    },
+    {
+      "number": 1567,
+      "eng": "laundry",
+      "jpn": "洗濯（物）；クリーニング店"
+    },
+    {
+      "number": 1568,
+      "eng": "tide",
+      "jpn": "潮（の干満）；動向"
+    },
+    {
+      "number": 1569,
+      "eng": "questionnaire",
+      "jpn": "アンケート"
+    },
+    {
+      "number": 1570,
+      "eng": "nonsense",
+      "jpn": "ばかげた物［話，考え］；無意味な言葉"
+    },
+    {
+      "number": 1571,
+      "eng": "revenge",
+      "jpn": "復讐"
+    },
+    {
+      "number": 1572,
+      "eng": "intellect",
+      "jpn": "知性；〔the ～（s）〕知識人"
+    },
+    {
+      "number": 1573,
+      "eng": "hospitality",
+      "jpn": "親切なもてなし，歓待；受容性"
+    },
+    {
+      "number": 1574,
+      "eng": "librarian",
+      "jpn": "司書，図書館員"
+    },
+    {
+      "number": 1575,
+      "eng": "manuscript",
+      "jpn": "（手書きの）原稿；写本"
+    },
+    {
+      "number": 1576,
+      "eng": "obsession",
+      "jpn": "（考えなどに）取りつかれること；妄想；強迫観念"
+    },
+    {
+      "number": 1577,
+      "eng": "hygiene",
+      "jpn": "衛生（状態）；健康法"
+    },
+    {
+      "number": 1578,
+      "eng": "paradigm",
+      "jpn": "理論的枠組み，パラダイム；模範"
+    },
+    {
+      "number": 1579,
+      "eng": "legitimate",
+      "jpn": "合法的な；妥当な"
+    },
+    {
+      "number": 1580,
+      "eng": "authentic",
+      "jpn": "本物の；信頼できる"
+    },
+    {
+      "number": 1581,
+      "eng": "empirical",
+      "jpn": "経験的な；経験主義の"
+    },
+    {
+      "number": 1582,
+      "eng": "immense",
+      "jpn": "膨大な"
+    },
+    {
+      "number": 1583,
+      "eng": "absurd",
+      "jpn": "ばかげた；不合理な"
+    },
+    {
+      "number": 1584,
+      "eng": "weird",
+      "jpn": "異様な（≒ bizarre），奇妙な"
+    },
+    {
+      "number": 1585,
+      "eng": "accidental",
+      "jpn": "偶然の；過失による"
+    },
+    {
+      "number": 1586,
+      "eng": "uneasy",
+      "jpn": "不安な；落ち着かない；ぎこちない"
+    },
+    {
+      "number": 1587,
+      "eng": "jealous",
+      "jpn": "嫉妬深い；用心深い"
+    },
+    {
+      "number": 1588,
+      "eng": "feminine",
+      "jpn": "女らしい（⇔ masculine ⇒ 1681）"
+    },
+    {
+      "number": 1589,
+      "eng": "swift",
+      "jpn": "素早い"
+    },
+    {
+      "number": 1590,
+      "eng": "hollow",
+      "jpn": "空洞の；空虚な；うわべだけの"
+    },
+    {
+      "number": 1591,
+      "eng": "crude",
+      "jpn": "大まかな；粗野な；未精製の"
+    },
+    {
+      "number": 1592,
+      "eng": "sore",
+      "jpn": "痛い；腹が立って"
+    },
+    {
+      "number": 1593,
+      "eng": "pessimistic",
+      "jpn": "悲観的な（⇔ optimistic ⇒ 882）"
+    },
+    {
+      "number": 1594,
+      "eng": "vain",
+      "jpn": "無駄な；うぬぼれた"
+    },
+    {
+      "number": 1595,
+      "eng": "susceptible",
+      "jpn": "（～の）影響を受けやすい（to）；感染しやすい"
+    },
+    {
+      "number": 1596,
+      "eng": "edible",
+      "jpn": "食用の，食べられる"
+    },
+    {
+      "number": 1597,
+      "eng": "sheer",
+      "jpn": "純然たる，真の；すごい；（布が）薄地の"
+    },
+    {
+      "number": 1598,
+      "eng": "explicit",
+      "jpn": "明白な（⇔ implicit ⇒ 1795）；率直な"
+    },
+    {
+      "number": 1599,
+      "eng": "prone",
+      "jpn": "（～に）なりやすい（to）；（...する）傾向がある（to do）"
+    },
+    {
+      "number": 1600,
+      "eng": "affluent",
+      "jpn": "裕福な；豊富な"
+    },
+    {
+      "number": 1601,
+      "eng": "collaborate",
+      "jpn": "共同して働く；（～に）協力する（with）"
+    },
+    {
+      "number": 1602,
+      "eng": "exert",
+      "jpn": "を及ぼす；（力など）を行使する"
+    },
+    {
+      "number": 1603,
+      "eng": "excel",
+      "jpn": "（～で）秀でている（in / at）；に勝る"
+    },
+    {
+      "number": 1604,
+      "eng": "prosper",
+      "jpn": "栄える，成功する；繁殖する"
+    },
+    {
+      "number": 1605,
+      "eng": "surge",
+      "jpn": "殺到する；（感情が）こみ上げる；急騰する"
+    },
+    {
+      "number": 1606,
+      "eng": "intervene",
+      "jpn": "（～に）介入する（in）；介在する"
+    },
+    {
+      "number": 1607,
+      "eng": "insert",
+      "jpn": "を挿入する"
+    },
+    {
+      "number": 1608,
+      "eng": "overtake",
+      "jpn": "を追い抜く；に追いつく（≒ catch up with）；（災難・強い感情などが）を襲う"
+    },
+    {
+      "number": 1609,
+      "eng": "snap",
+      "jpn": "をパチンと鳴らす；をポキッと折る；ポキッと折れる；パチンと音を立てる"
+    },
+    {
+      "number": 1610,
+      "eng": "carve",
+      "jpn": "を彫る；を切り開く；（肉）を切り分ける"
+    },
+    {
+      "number": 1611,
+      "eng": "addict",
+      "jpn": "〔受身形で〕（～の）中毒になる（to）；（～に）凝る"
+    },
+    {
+      "number": 1612,
+      "eng": "condemn",
+      "jpn": "を非難する；〔受身形で〕（～の刑を）宣告される（to）"
+    },
+    {
+      "number": 1613,
+      "eng": "convict",
+      "jpn": "に有罪を宣告する"
+    },
+    {
+      "number": 1614,
+      "eng": "dictate",
+      "jpn": "を指図する；を書き取らせる；を規定する"
+    },
+    {
+      "number": 1615,
+      "eng": "prescribe",
+      "jpn": "（薬など）を処方する；を規定する"
+    },
+    {
+      "number": 1616,
+      "eng": "inhibit",
+      "jpn": "を抑制する；を妨げる"
+    },
+    {
+      "number": 1617,
+      "eng": "stray",
+      "jpn": "はぐれる，（道に）迷う"
+    },
+    {
+      "number": 1618,
+      "eng": "roam",
+      "jpn": "（を）歩き回る；放浪する"
+    },
+    {
+      "number": 1619,
+      "eng": "enclose",
+      "jpn": "を同封する；を取り囲む"
+    },
+    {
+      "number": 1620,
+      "eng": "execute",
+      "jpn": "を実行する；を処刑する"
+    },
+    {
+      "number": 1621,
+      "eng": "coincide",
+      "jpn": "同時に起こる；一致する"
+    },
+    {
+      "number": 1622,
+      "eng": "lag",
+      "jpn": "遅れる；徐々に弱まる"
+    },
+    {
+      "number": 1623,
+      "eng": "cling",
+      "jpn": "しがみつく；くっつく"
+    },
+    {
+      "number": 1624,
+      "eng": "erase",
+      "jpn": "を消す"
+    },
+    {
+      "number": 1625,
+      "eng": "grind",
+      "jpn": "（穀物など）をひく"
+    },
+    {
+      "number": 1626,
+      "eng": "knit",
+      "jpn": "を編む；を結合する；編み物をする"
+    },
+    {
+      "number": 1627,
+      "eng": "inquire",
+      "jpn": "（を）尋ねる"
+    },
+    {
+      "number": 1628,
+      "eng": "betray",
+      "jpn": "をうっかり表す；を裏切る"
+    },
+    {
+      "number": 1629,
+      "eng": "leak",
+      "jpn": "漏れる；を漏らす"
+    },
+    {
+      "number": 1630,
+      "eng": "smash",
+      "jpn": "を粉砕する；を強打する；粉々に壊れる；激突する"
+    },
+    {
+      "number": 1631,
+      "eng": "bounce",
+      "jpn": "跳ねる；反射する；を弾ませる；（Ｅメールが）（宛先不明で）返送される"
+    },
+    {
+      "number": 1632,
+      "eng": "sprawl",
+      "jpn": "（都市などが）不規則に広がる；だらしなく手足を伸ばす"
+    },
+    {
+      "number": 1633,
+      "eng": "converse",
+      "jpn": "（～と）会話をする（with）"
+    },
+    {
+      "number": 1634,
+      "eng": "recite",
+      "jpn": "を暗唱する；を詳述する"
+    },
+    {
+      "number": 1635,
+      "eng": "disregard",
+      "jpn": "を無視する；を軽視する"
+    },
+    {
+      "number": 1636,
+      "eng": "frown",
+      "jpn": "眉をひそめる"
+    },
+    {
+      "number": 1637,
+      "eng": "evoke",
+      "jpn": "を呼び起こす"
+    },
+    {
+      "number": 1638,
+      "eng": "pledge",
+      "jpn": "を誓う，約束する；を与えることを約束する"
+    },
+    {
+      "number": 1639,
+      "eng": "aspire",
+      "jpn": "（～を）熱望する（to）"
+    },
+    {
+      "number": 1640,
+      "eng": "contemplate",
+      "jpn": "（を）熟考する；を予想する"
+    },
+    {
+      "number": 1641,
+      "eng": "grace",
+      "jpn": "優美，優雅；分別；（神の）恩寵"
+    },
+    {
+      "number": 1642,
+      "eng": "enlightenment",
+      "jpn": "啓蒙，啓発"
+    },
+    {
+      "number": 1643,
+      "eng": "commerce",
+      "jpn": "商業；貿易"
+    },
+    {
+      "number": 1644,
+      "eng": "draft",
+      "jpn": "下書き；為替手形；隙間風"
+    },
+    {
+      "number": 1645,
+      "eng": "barrel",
+      "jpn": "バレル（液量の単位）；たる"
+    },
+    {
+      "number": 1646,
+      "eng": "timber",
+      "jpn": "【英】 木材（≒ 【米】lumber）；樹木"
+    },
+    {
+      "number": 1647,
+      "eng": "garment",
+      "jpn": "衣服"
+    },
+    {
+      "number": 1648,
+      "eng": "thread",
+      "jpn": "糸；（議論などの）筋道"
+    },
+    {
+      "number": 1649,
+      "eng": "cabinet",
+      "jpn": "〔しばしばthe C-〕内閣；戸棚"
+    },
+    {
+      "number": 1650,
+      "eng": "bureau",
+      "jpn": "（官庁の）局；事務局；案内所"
+    },
+    {
+      "number": 1651,
+      "eng": "autonomy",
+      "jpn": "（個人の）自律；自治（権）；自治体"
+    },
+    {
+      "number": 1652,
+      "eng": "toll",
+      "jpn": "損害（の程度）；死傷者数；通行料"
+    },
+    {
+      "number": 1653,
+      "eng": "discourse",
+      "jpn": "話し合い，会話；講演；論説"
+    },
+    {
+      "number": 1654,
+      "eng": "superstition",
+      "jpn": "迷信"
+    },
+    {
+      "number": 1655,
+      "eng": "glimpse",
+      "jpn": "ちらりと見えること"
+    },
+    {
+      "number": 1656,
+      "eng": "arithmetic",
+      "jpn": "計算；算数"
+    },
+    {
+      "number": 1657,
+      "eng": "glossary",
+      "jpn": "用語小辞典；用語集"
+    },
+    {
+      "number": 1658,
+      "eng": "archive",
+      "jpn": "〔しばしば～s〕記録文書，公文書；公文書保管所；（コンピューターの）アーカイブ"
+    },
+    {
+      "number": 1659,
+      "eng": "legacy",
+      "jpn": "遺産"
+    },
+    {
+      "number": 1660,
+      "eng": "anthropology",
+      "jpn": "人類学"
+    },
+    {
+      "number": 1661,
+      "eng": "rage",
+      "jpn": "激怒；猛威"
+    },
+    {
+      "number": 1662,
+      "eng": "sorrow",
+      "jpn": "悲しみ"
+    },
+    {
+      "number": 1663,
+      "eng": "psychiatrist",
+      "jpn": "精神科医"
+    },
+    {
+      "number": 1664,
+      "eng": "ward",
+      "jpn": "行政区；病棟"
+    },
+    {
+      "number": 1665,
+      "eng": "stall",
+      "jpn": "露店；エンスト；失速"
+    },
+    {
+      "number": 1666,
+      "eng": "flame",
+      "jpn": "炎；情熱"
+    },
+    {
+      "number": 1667,
+      "eng": "moisture",
+      "jpn": "水分；湿気"
+    },
+    {
+      "number": 1668,
+      "eng": "irony",
+      "jpn": "皮肉"
+    },
+    {
+      "number": 1669,
+      "eng": "warrior",
+      "jpn": "戦士"
+    },
+    {
+      "number": 1670,
+      "eng": "astronomy",
+      "jpn": "天文学"
+    },
+    {
+      "number": 1671,
+      "eng": "probe",
+      "jpn": "（無人）宇宙探査機；（～の）精査（into）；探り針"
+    },
+    {
+      "number": 1672,
+      "eng": "altitude",
+      "jpn": "高度，標高"
+    },
+    {
+      "number": 1673,
+      "eng": "tumor",
+      "jpn": "腫瘍；腫れ物"
+    },
+    {
+      "number": 1674,
+      "eng": "defect",
+      "jpn": "欠陥；不足"
+    },
+    {
+      "number": 1675,
+      "eng": "sanitation",
+      "jpn": "公衆衛生（学）；下水［衛生］設備"
+    },
+    {
+      "number": 1676,
+      "eng": "longevity",
+      "jpn": "長寿；寿命；長年勤続"
+    },
+    {
+      "number": 1677,
+      "eng": "scope",
+      "jpn": "（活動・能力などの）範囲；余地"
+    },
+    {
+      "number": 1678,
+      "eng": "sentiment",
+      "jpn": "感情；感想；感傷"
+    },
+    {
+      "number": 1679,
+      "eng": "plausible",
+      "jpn": "もっともらしい"
+    },
+    {
+      "number": 1680,
+      "eng": "vigorous",
+      "jpn": "精力的な；激しい；活力のある"
+    },
+    {
+      "number": 1681,
+      "eng": "masculine",
+      "jpn": "男らしい（⇔ feminine ⇒ 1588）"
+    },
+    {
+      "number": 1682,
+      "eng": "rigid",
+      "jpn": "厳しい；硬直した"
+    },
+    {
+      "number": 1683,
+      "eng": "adverse",
+      "jpn": "不都合な；逆の"
+    },
+    {
+      "number": 1684,
+      "eng": "coherent",
+      "jpn": "一貫した，筋の通った；結束した"
+    },
+    {
+      "number": 1685,
+      "eng": "literal",
+      "jpn": "文字どおりの；逐語的な；散文的な"
+    },
+    {
+      "number": 1686,
+      "eng": "arbitrary",
+      "jpn": "恣意的な；独断的な"
+    },
+    {
+      "number": 1687,
+      "eng": "anonymous",
+      "jpn": "匿名の"
+    },
+    {
+      "number": 1688,
+      "eng": "antique",
+      "jpn": "骨董の，アンティークの；古風な"
+    },
+    {
+      "number": 1689,
+      "eng": "eternal",
+      "jpn": "永遠の；不変の"
+    },
+    {
+      "number": 1690,
+      "eng": "intermediate",
+      "jpn": "中級の；中間の"
+    },
+    {
+      "number": 1691,
+      "eng": "subordinate",
+      "jpn": "（～より）下位の（to）；副次的な"
+    },
+    {
+      "number": 1692,
+      "eng": "gloomy",
+      "jpn": "陰気な；薄暗い；悲観的な"
+    },
+    {
+      "number": 1693,
+      "eng": "thermal",
+      "jpn": "熱の，熱による；保温用の"
+    },
+    {
+      "number": 1694,
+      "eng": "faint",
+      "jpn": "かすかな；めまいがする；弱々しい"
+    },
+    {
+      "number": 1695,
+      "eng": "naive",
+      "jpn": "お人よしの，愚直な；純朴な"
+    },
+    {
+      "number": 1696,
+      "eng": "apt",
+      "jpn": "（...する）傾向がある（to do）；適切な；利発な"
+    },
+    {
+      "number": 1697,
+      "eng": "arrogant",
+      "jpn": "横柄な，傲慢な"
+    },
+    {
+      "number": 1698,
+      "eng": "extrovert",
+      "jpn": "外向的な；社交的な"
+    },
+    {
+      "number": 1699,
+      "eng": "conspicuous",
+      "jpn": "目立つ"
+    },
+    {
+      "number": 1700,
+      "eng": "intact",
+      "jpn": "損なわれていない，手つかずの"
+    },
+    {
+      "number": 1701,
+      "eng": "embody",
+      "jpn": "を具現する；を包含する"
+    },
+    {
+      "number": 1702,
+      "eng": "illuminate",
+      "jpn": "を照らす；を解明する"
+    },
+    {
+      "number": 1703,
+      "eng": "console",
+      "jpn": "を慰める"
+    },
+    {
+      "number": 1704,
+      "eng": "verify",
+      "jpn": "の正しさを証明［確認］する"
+    },
+    {
+      "number": 1705,
+      "eng": "disclose",
+      "jpn": "を公表する，暴く"
+    },
+    {
+      "number": 1706,
+      "eng": "stack",
+      "jpn": "を積む，積み重ねる；〔～ upで〕（車が）渋滞する"
+    },
+    {
+      "number": 1707,
+      "eng": "rotate",
+      "jpn": "回転する；循環する；を回転させる"
+    },
+    {
+      "number": 1708,
+      "eng": "constrain",
+      "jpn": "に（...することを）強いる（to do）；を抑える"
+    },
+    {
+      "number": 1709,
+      "eng": "hinder",
+      "jpn": "を妨げる"
+    },
+    {
+      "number": 1710,
+      "eng": "withstand",
+      "jpn": "に耐える"
+    },
+    {
+      "number": 1711,
+      "eng": "tweet",
+      "jpn": "（を）ツイートする，つぶやく"
+    },
+    {
+      "number": 1712,
+      "eng": "sneeze",
+      "jpn": "くしゃみをする"
+    },
+    {
+      "number": 1713,
+      "eng": "erupt",
+      "jpn": "（火山が）噴火する；勃発する"
+    },
+    {
+      "number": 1714,
+      "eng": "blur",
+      "jpn": "をぼかす；を曇らせる；をあいまいにする"
+    },
+    {
+      "number": 1715,
+      "eng": "overlap",
+      "jpn": "（一部）重なる；（と）重複［共通］する"
+    },
+    {
+      "number": 1716,
+      "eng": "embed",
+      "jpn": "〔通例受身形で〕埋め込まれる，はめ込まれる"
+    },
+    {
+      "number": 1717,
+      "eng": "displace",
+      "jpn": "に取って代わる（≒ replace）；を移動させる"
+    },
+    {
+      "number": 1718,
+      "eng": "render",
+      "jpn": "を（ある状態に）する；（援助など）を与える"
+    },
+    {
+      "number": 1719,
+      "eng": "plunge",
+      "jpn": "（～に）（を）突っ込む（into）；没頭する；陥る"
+    },
+    {
+      "number": 1720,
+      "eng": "surrender",
+      "jpn": "を放棄する，引き渡す；（～に）屈する（to）"
+    },
+    {
+      "number": 1721,
+      "eng": "plug",
+      "jpn": "〔plug inで〕のプラグを電源に差し込む；を（～で）ふさぐ（with）"
+    },
+    {
+      "number": 1722,
+      "eng": "suck",
+      "jpn": "（を）吸う；（を）しゃぶる"
+    },
+    {
+      "number": 1723,
+      "eng": "mock",
+      "jpn": "をばかにする（≒ make fun of）；のまねをしてからかう"
+    },
+    {
+      "number": 1724,
+      "eng": "tease",
+      "jpn": "（を）からかう；をいじめる"
+    },
+    {
+      "number": 1725,
+      "eng": "soothe",
+      "jpn": "をなだめる；を和らげる"
+    },
+    {
+      "number": 1726,
+      "eng": "stain",
+      "jpn": "を汚す；に着色する"
+    },
+    {
+      "number": 1727,
+      "eng": "shun",
+      "jpn": "を避ける"
+    },
+    {
+      "number": 1728,
+      "eng": "stumble",
+      "jpn": "よろけながら歩く；（～に）つまずく（on / over）"
+    },
+    {
+      "number": 1729,
+      "eng": "flush",
+      "jpn": "を紅潮させる；を水で流す；紅潮する"
+    },
+    {
+      "number": 1730,
+      "eng": "impair",
+      "jpn": "を損なう"
+    },
+    {
+      "number": 1731,
+      "eng": "presume",
+      "jpn": "と思う；と推定する；を前提とする"
+    },
+    {
+      "number": 1732,
+      "eng": "contend",
+      "jpn": "と主張する；競う"
+    },
+    {
+      "number": 1733,
+      "eng": "roar",
+      "jpn": "うなる，ほえる；大笑いする"
+    },
+    {
+      "number": 1734,
+      "eng": "haunt",
+      "jpn": "（記憶・考えなどが）につきまとう；（幽霊などが）に出る；によく行く"
+    },
+    {
+      "number": 1735,
+      "eng": "divert",
+      "jpn": "（注意など）をそらす；を迂回させる；（資金など）を転用する"
+    },
+    {
+      "number": 1736,
+      "eng": "await",
+      "jpn": "を待つ（≒ wait for）"
+    },
+    {
+      "number": 1737,
+      "eng": "fetch",
+      "jpn": "を（行って）持って［連れて］くる"
+    },
+    {
+      "number": 1738,
+      "eng": "unify",
+      "jpn": "を統合［統一］する；統一される"
+    },
+    {
+      "number": 1739,
+      "eng": "inspect",
+      "jpn": "を点検する；を視察する"
+    },
+    {
+      "number": 1740,
+      "eng": "entail",
+      "jpn": "を伴う，引き起こす；（...すること）を含む（doing）"
+    },
+    {
+      "number": 1741,
+      "eng": "tactics",
+      "jpn": "作戦，方策；戦術，戦法"
+    },
+    {
+      "number": 1742,
+      "eng": "feat",
+      "jpn": "偉業，功績；妙技"
+    },
+    {
+      "number": 1743,
+      "eng": "prestige",
+      "jpn": "名声；〔形容詞的に〕名声のある"
+    },
+    {
+      "number": 1744,
+      "eng": "analogy",
+      "jpn": "類推；類似"
+    },
+    {
+      "number": 1745,
+      "eng": "conscience",
+      "jpn": "良心；分別"
+    },
+    {
+      "number": 1746,
+      "eng": "textile",
+      "jpn": "織物；繊維（産業）"
+    },
+    {
+      "number": 1747,
+      "eng": "deficit",
+      "jpn": "赤字，不足；欠陥"
+    },
+    {
+      "number": 1748,
+      "eng": "plague",
+      "jpn": "疫病；（害虫などの）異常発生"
+    },
+    {
+      "number": 1749,
+      "eng": "hazard",
+      "jpn": "危険（要素）；偶然"
+    },
+    {
+      "number": 1750,
+      "eng": "metabolism",
+      "jpn": "（新陳）代謝，代謝作用"
+    },
+    {
+      "number": 1751,
+      "eng": "paralysis",
+      "jpn": "麻痺；〔比喩的に〕麻痺（状態）"
+    },
+    {
+      "number": 1752,
+      "eng": "grid",
+      "jpn": "（電気などの）供給網；格子（模様）；碁盤目"
+    },
+    {
+      "number": 1753,
+      "eng": "carriage",
+      "jpn": "馬車；車両（＝ 【米】car）；立ち居振舞い；【英】輸送"
+    },
+    {
+      "number": 1754,
+      "eng": "friction",
+      "jpn": "不和；摩擦"
+    },
+    {
+      "number": 1755,
+      "eng": "rebel",
+      "jpn": "反逆者"
+    },
+    {
+      "number": 1756,
+      "eng": "regime",
+      "jpn": "政権，政体；体制"
+    },
+    {
+      "number": 1757,
+      "eng": "monopoly",
+      "jpn": "独占（権）"
+    },
+    {
+      "number": 1758,
+      "eng": "staple",
+      "jpn": "必需食品；主要産物"
+    },
+    {
+      "number": 1759,
+      "eng": "merchandise",
+      "jpn": "商品"
+    },
+    {
+      "number": 1760,
+      "eng": "vendor",
+      "jpn": "物売り，行商人；自動販売機"
+    },
+    {
+      "number": 1761,
+      "eng": "supervisor",
+      "jpn": "監督者；指導教員"
+    },
+    {
+      "number": 1762,
+      "eng": "predecessor",
+      "jpn": "前任者（⇔ successor 後継者）；前のもの"
+    },
+    {
+      "number": 1763,
+      "eng": "personnel",
+      "jpn": "〔集合的に〕職員，社員"
+    },
+    {
+      "number": 1764,
+      "eng": "vessel",
+      "jpn": "船舶；容器；（体液が通る）脈管"
+    },
+    {
+      "number": 1765,
+      "eng": "liver",
+      "jpn": "肝臓"
+    },
+    {
+      "number": 1766,
+      "eng": "duration",
+      "jpn": "（時間の）継続，持続（時間）"
+    },
+    {
+      "number": 1767,
+      "eng": "certificate",
+      "jpn": "証明書；免許状"
+    },
+    {
+      "number": 1768,
+      "eng": "geometry",
+      "jpn": "幾何学"
+    },
+    {
+      "number": 1769,
+      "eng": "symmetry",
+      "jpn": "（左右）対称（⇔ asymmetry 非対称）；調和"
+    },
+    {
+      "number": 1770,
+      "eng": "biography",
+      "jpn": "伝記"
+    },
+    {
+      "number": 1771,
+      "eng": "masterpiece",
+      "jpn": "傑作"
+    },
+    {
+      "number": 1772,
+      "eng": "rhyme",
+      "jpn": "押韻詩；韻；〔通例～s〕詩歌"
+    },
+    {
+      "number": 1773,
+      "eng": "premium",
+      "jpn": "保険料；プレミア；景品"
+    },
+    {
+      "number": 1774,
+      "eng": "breakdown",
+      "jpn": "崩壊；（神経）衰弱；故障；内訳"
+    },
+    {
+      "number": 1775,
+      "eng": "courtesy",
+      "jpn": "礼儀正しさ；好意；優遇"
+    },
+    {
+      "number": 1776,
+      "eng": "protocol",
+      "jpn": "（条約）議定書；外交儀礼；プロトコル"
+    },
+    {
+      "number": 1777,
+      "eng": "specimen",
+      "jpn": "標本；実例"
+    },
+    {
+      "number": 1778,
+      "eng": "thesis",
+      "jpn": "論文；命題，テーゼ"
+    },
+    {
+      "number": 1779,
+      "eng": "eligible",
+      "jpn": "適格の，資格のある；（結婚相手として）望ましい"
+    },
+    {
+      "number": 1780,
+      "eng": "intrinsic",
+      "jpn": "固有の，本質的な（⇔ extrinsic 非本質的な）"
+    },
+    {
+      "number": 1781,
+      "eng": "diligent",
+      "jpn": "勤勉な；入念な"
+    },
+    {
+      "number": 1782,
+      "eng": "vocational",
+      "jpn": "職業の，職業訓練の（ための）"
+    },
+    {
+      "number": 1783,
+      "eng": "bankrupt",
+      "jpn": "破産宣告を受けた；破綻している"
+    },
+    {
+      "number": 1784,
+      "eng": "stern",
+      "jpn": "厳しい；いかめしい"
+    },
+    {
+      "number": 1785,
+      "eng": "stubborn",
+      "jpn": "頑固な，強情な（≒ obstinate）；手に負えない"
+    },
+    {
+      "number": 1786,
+      "eng": "maternal",
+      "jpn": "母の，母親らしい（⇔ paternal 父の）；妊婦の"
+    },
+    {
+      "number": 1787,
+      "eng": "fertile",
+      "jpn": "肥沃な（⇔ barren 不毛の）；多産の"
+    },
+    {
+      "number": 1788,
+      "eng": "ripe",
+      "jpn": "熟した；成熟した"
+    },
+    {
+      "number": 1789,
+      "eng": "stiff",
+      "jpn": "硬直した，凝った；堅い"
+    },
+    {
+      "number": 1790,
+      "eng": "obsolete",
+      "jpn": "廃れた，使われなくなった；古くなった"
+    },
+    {
+      "number": 1791,
+      "eng": "vacant",
+      "jpn": "空いている"
+    },
+    {
+      "number": 1792,
+      "eng": "acoustic",
+      "jpn": "音響の；聴覚の；（楽器が）アコースティックの"
+    },
+    {
+      "number": 1793,
+      "eng": "preliminary",
+      "jpn": "予備の，準備の"
+    },
+    {
+      "number": 1794,
+      "eng": "approximate",
+      "jpn": "おおよその"
+    },
+    {
+      "number": 1795,
+      "eng": "implicit",
+      "jpn": "暗黙の（⇔ explicit ⇒ 1598）；内在する"
+    },
+    {
+      "number": 1796,
+      "eng": "punctual",
+      "jpn": "時間を守る"
+    },
+    {
+      "number": 1797,
+      "eng": "compatible",
+      "jpn": "矛盾しない；互換性のある；気が合う"
+    },
+    {
+      "number": 1798,
+      "eng": "ample",
+      "jpn": "十分すぎるほどの；広い"
+    },
+    {
+      "number": 1799,
+      "eng": "pervasive",
+      "jpn": "隅々に広がった；浸透する；充満する"
+    },
+    {
+      "number": 1800,
+      "eng": "ubiquitous",
+      "jpn": "至る所にある"
+    },
+    {
+      "number": 1801,
+      "eng": "deduce",
+      "jpn": "を推測する，演繹する"
+    },
+    {
+      "number": 1802,
+      "eng": "simulate",
+      "jpn": "を模擬実験する；を装う；をまねる"
+    },
+    {
+      "number": 1803,
+      "eng": "merge",
+      "jpn": "（を）合併する；を融合させる；溶け込む"
+    },
+    {
+      "number": 1804,
+      "eng": "penetrate",
+      "jpn": "（に）浸透する；（に）進出する；（を）貫く；（を）見抜く"
+    },
+    {
+      "number": 1805,
+      "eng": "cater",
+      "jpn": "（の）料理をまかなう；（要望などに）応える"
+    },
+    {
+      "number": 1806,
+      "eng": "assault",
+      "jpn": "に暴行する；を攻撃する"
+    },
+    {
+      "number": 1807,
+      "eng": "torture",
+      "jpn": "を拷問にかける；を苦しめる"
+    },
+    {
+      "number": 1808,
+      "eng": "bleed",
+      "jpn": "出血する"
+    },
+    {
+      "number": 1809,
+      "eng": "erect",
+      "jpn": "を建てる；を直立させる"
+    },
+    {
+      "number": 1810,
+      "eng": "cherish",
+      "jpn": "を大切にする；を心に抱く"
+    },
+    {
+      "number": 1811,
+      "eng": "arouse",
+      "jpn": "（感情など）を引き起こす；を目覚めさせる"
+    },
+    {
+      "number": 1812,
+      "eng": "doom",
+      "jpn": "〔通例受身形で〕運命にある"
+    },
+    {
+      "number": 1813,
+      "eng": "mourn",
+      "jpn": "（を）悼む（≒ grieve）；（を）嘆く"
+    },
+    {
+      "number": 1814,
+      "eng": "dread",
+      "jpn": "をひどく恐れる"
+    },
+    {
+      "number": 1815,
+      "eng": "nourish",
+      "jpn": "に栄養を与える；をはぐくむ"
+    },
+    {
+      "number": 1816,
+      "eng": "inject",
+      "jpn": "（人）に注射する，を注入する；を導入する"
+    },
+    {
+      "number": 1817,
+      "eng": "swear",
+      "jpn": "（～を）ののしる（at）；（を）誓う（≒ vow）"
+    },
+    {
+      "number": 1818,
+      "eng": "bid",
+      "jpn": "（～に）の値をつける（for ⇒ on）；（挨拶）を述べる"
+    },
+    {
+      "number": 1819,
+      "eng": "corrupt",
+      "jpn": "を堕落させる；を買収する；堕落する"
+    },
+    {
+      "number": 1820,
+      "eng": "preoccupy",
+      "jpn": "の心を奪う，を夢中にさせる"
+    },
+    {
+      "number": 1821,
+      "eng": "browse",
+      "jpn": "（を）拾い読みする；（を）閲覧する；（商品など）を見て歩く"
+    },
+    {
+      "number": 1822,
+      "eng": "compile",
+      "jpn": "を編集する；（資料など）をまとめる"
+    },
+    {
+      "number": 1823,
+      "eng": "allocate",
+      "jpn": "を割り当てる，分配する"
+    },
+    {
+      "number": 1824,
+      "eng": "offset",
+      "jpn": "を相殺する，埋め合わせる；をオフセット印刷にする"
+    },
+    {
+      "number": 1825,
+      "eng": "restrain",
+      "jpn": "を制止する；を規制する"
+    },
+    {
+      "number": 1826,
+      "eng": "comply",
+      "jpn": "従う，応じる"
+    },
+    {
+      "number": 1827,
+      "eng": "expire",
+      "jpn": "期限が切れる"
+    },
+    {
+      "number": 1828,
+      "eng": "embark",
+      "jpn": "（～に）乗り出す（on）；乗船［搭乗］する"
+    },
+    {
+      "number": 1829,
+      "eng": "flap",
+      "jpn": "パタパタ動く；羽ばたく（≒ flutter）；をパタパタ動かす"
+    },
+    {
+      "number": 1830,
+      "eng": "furnish",
+      "jpn": "に（～を）備えつける（with）"
+    },
+    {
+      "number": 1831,
+      "eng": "forge",
+      "jpn": "を偽造する；（関係など）を築く；を鍛造する"
+    },
+    {
+      "number": 1832,
+      "eng": "thrust",
+      "jpn": "を押しつける；を突き刺す；押し進む"
+    },
+    {
+      "number": 1833,
+      "eng": "dispatch",
+      "jpn": "を派遣する；を発送する；を処理する"
+    },
+    {
+      "number": 1834,
+      "eng": "resent",
+      "jpn": "に憤慨する"
+    },
+    {
+      "number": 1835,
+      "eng": "reconcile",
+      "jpn": "を（～と）一致させる（with）；を和解させる"
+    },
+    {
+      "number": 1836,
+      "eng": "allege",
+      "jpn": "を主張する"
+    },
+    {
+      "number": 1837,
+      "eng": "oppress",
+      "jpn": "を抑圧［迫害］する；を悩ませる"
+    },
+    {
+      "number": 1838,
+      "eng": "expel",
+      "jpn": "を追放する；を吐き出す"
+    },
+    {
+      "number": 1839,
+      "eng": "ascend",
+      "jpn": "（を）上がる（⇔ descend ⇒ 1337）"
+    },
+    {
+      "number": 1840,
+      "eng": "commence",
+      "jpn": "始まる；を開始する；...し始める（to do / doing）⇒ commence work 仕事［作業］を始める"
+    },
+    {
+      "number": 1841,
+      "eng": "advent",
+      "jpn": "〔the ～〕出現，到来"
+    },
+    {
+      "number": 1842,
+      "eng": "reign",
+      "jpn": "治世；統治"
+    },
+    {
+      "number": 1843,
+      "eng": "diplomacy",
+      "jpn": "外交（的手腕）"
+    },
+    {
+      "number": 1844,
+      "eng": "embassy",
+      "jpn": "大使館；大使一行"
+    },
+    {
+      "number": 1845,
+      "eng": "exile",
+      "jpn": "亡命（者）；（国外）追放"
+    },
+    {
+      "number": 1846,
+      "eng": "refuge",
+      "jpn": "避難（所）；保護"
+    },
+    {
+      "number": 1847,
+      "eng": "plight",
+      "jpn": "窮状（＝ predicament）；（悪い）状態"
+    },
+    {
+      "number": 1848,
+      "eng": "solitude",
+      "jpn": "ひとりでいること；孤独"
+    },
+    {
+      "number": 1849,
+      "eng": "fallacy",
+      "jpn": "誤った考え，誤信；錯誤"
+    },
+    {
+      "number": 1850,
+      "eng": "latitude",
+      "jpn": "緯度；（行動・思想などの）許容範囲"
+    },
+    {
+      "number": 1851,
+      "eng": "eclipse",
+      "jpn": "（日食・月食などの）食；（名声などの）失墜"
+    },
+    {
+      "number": 1852,
+      "eng": "basin",
+      "jpn": "流域；盆地，海盆；洗面器［台］"
+    },
+    {
+      "number": 1853,
+      "eng": "erosion",
+      "jpn": "浸食；衰退"
+    },
+    {
+      "number": 1854,
+      "eng": "archaeology",
+      "jpn": "考古学"
+    },
+    {
+      "number": 1855,
+      "eng": "errand",
+      "jpn": "（人の）使い，使い走り；用件"
+    },
+    {
+      "number": 1856,
+      "eng": "mercy",
+      "jpn": "慈悲；〔通例a ～〕幸運"
+    },
+    {
+      "number": 1857,
+      "eng": "rhetoric",
+      "jpn": "修辞（法）；美辞麗句"
+    },
+    {
+      "number": 1858,
+      "eng": "verse",
+      "jpn": "韻文（⇔ prose 散文）；詩"
+    },
+    {
+      "number": 1859,
+      "eng": "congestion",
+      "jpn": "混雑"
+    },
+    {
+      "number": 1860,
+      "eng": "sewage",
+      "jpn": "下水"
+    },
+    {
+      "number": 1861,
+      "eng": "complement",
+      "jpn": "（～の）補完物，補足（to）；（文法の）補語"
+    },
+    {
+      "number": 1862,
+      "eng": "subsidy",
+      "jpn": "補助金；報奨金"
+    },
+    {
+      "number": 1863,
+      "eng": "mortgage",
+      "jpn": "住宅ローン；抵当（権）"
+    },
+    {
+      "number": 1864,
+      "eng": "attorney",
+      "jpn": "【米】 弁護士；代理人"
+    },
+    {
+      "number": 1865,
+      "eng": "outfit",
+      "jpn": "衣装一式；装備［道具］一式；組織"
+    },
+    {
+      "number": 1866,
+      "eng": "bulk",
+      "jpn": "〔the ～〕（～の）大半（of）；大きさ；大量"
+    },
+    {
+      "number": 1867,
+      "eng": "reunion",
+      "jpn": "再会（の集い）；再結合"
+    },
+    {
+      "number": 1868,
+      "eng": "synthesis",
+      "jpn": "合成；総合（⇔ analysis ⇒ 363）"
+    },
+    {
+      "number": 1869,
+      "eng": "mold",
+      "jpn": "鋳型；鋳物；性格；かび"
+    },
+    {
+      "number": 1870,
+      "eng": "thirst",
+      "jpn": "（のどの）渇き；（～に対する）渇望（for）"
+    },
+    {
+      "number": 1871,
+      "eng": "greed",
+      "jpn": "強欲"
+    },
+    {
+      "number": 1872,
+      "eng": "bribe",
+      "jpn": "賄賂"
+    },
+    {
+      "number": 1873,
+      "eng": "contempt",
+      "jpn": "軽蔑；恥辱"
+    },
+    {
+      "number": 1874,
+      "eng": "texture",
+      "jpn": "感触，手触り；本質；質感"
+    },
+    {
+      "number": 1875,
+      "eng": "orphan",
+      "jpn": "孤児"
+    },
+    {
+      "number": 1876,
+      "eng": "harassment",
+      "jpn": "嫌がらせ，ハラスメント"
+    },
+    {
+      "number": 1877,
+      "eng": "hay",
+      "jpn": "干し草"
+    },
+    {
+      "number": 1878,
+      "eng": "doctrine",
+      "jpn": "教義；【米】（政策上の）主義"
+    },
+    {
+      "number": 1879,
+      "eng": "holistic",
+      "jpn": "全体論の；（医療が）ホリスティックの"
+    },
+    {
+      "number": 1880,
+      "eng": "liable",
+      "jpn": "しがちな；（～を）受けやすい（to）；責任がある"
+    },
+    {
+      "number": 1881,
+      "eng": "earnest",
+      "jpn": "まじめな，熱心な"
+    },
+    {
+      "number": 1882,
+      "eng": "intelligible",
+      "jpn": "（簡単に）理解できる"
+    },
+    {
+      "number": 1883,
+      "eng": "abrupt",
+      "jpn": "突然の（≒ sudden）"
+    },
+    {
+      "number": 1884,
+      "eng": "reckless",
+      "jpn": "無謀な；（～を）顧みない（of）"
+    },
+    {
+      "number": 1885,
+      "eng": "furious",
+      "jpn": "激怒した；猛烈な"
+    },
+    {
+      "number": 1886,
+      "eng": "eloquent",
+      "jpn": "雄弁な；説得力のある"
+    },
+    {
+      "number": 1887,
+      "eng": "juvenile",
+      "jpn": "青少年の"
+    },
+    {
+      "number": 1888,
+      "eng": "notorious",
+      "jpn": "悪名高い（≒ infamous）"
+    },
+    {
+      "number": 1889,
+      "eng": "timid",
+      "jpn": "臆病な；内気な"
+    },
+    {
+      "number": 1890,
+      "eng": "humid",
+      "jpn": "湿気のある（≒ muggy 蒸し暑い）"
+    },
+    {
+      "number": 1891,
+      "eng": "contagious",
+      "jpn": "感染（性）の；病気を伝染する"
+    },
+    {
+      "number": 1892,
+      "eng": "cynical",
+      "jpn": "冷笑的な，皮肉な"
+    },
+    {
+      "number": 1893,
+      "eng": "dumb",
+      "jpn": "ばかげた；口のきけない；無言の"
+    },
+    {
+      "number": 1894,
+      "eng": "monotonous",
+      "jpn": "単調な"
+    },
+    {
+      "number": 1895,
+      "eng": "perpetual",
+      "jpn": "永続的な；ひっきりなしの"
+    },
+    {
+      "number": 1896,
+      "eng": "dizzy",
+      "jpn": "目まいがする；当惑した"
+    },
+    {
+      "number": 1897,
+      "eng": "weary",
+      "jpn": "疲れ果てた；（～に）うんざりした（of）"
+    },
+    {
+      "number": 1898,
+      "eng": "numb",
+      "jpn": "麻痺した，無感覚な；ぼう然とした"
+    },
+    {
+      "number": 1899,
+      "eng": "mortal",
+      "jpn": "致命的な（≒ fatal）；死すべき（運命の）（⇔ immortal 不死の）"
+    },
+    {
+      "number": 1900,
+      "eng": "zealous",
+      "jpn": "熱心な；熱狂的な"
+    }
+  ]
+}
