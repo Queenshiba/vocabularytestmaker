@@ -19,35 +19,62 @@ fetch("./target.json")
         let makeATestBtn = document.getElementById('makeATestBtn')
         makeATestBtn.addEventListener("click", () => makeATest())
 
-        function makeATest() {
+        function makeATest(selectedNumsinRange) {
 
-            originaltarget.forEach(index => {
-                let num = index.number
-                let eng = index.eng
-                let jpn = index.jpn;
-                // console.log(index)
+            // minInRange
+            // maxInRange
+            // amountsInRange
 
-                if (num < 5) {
+
+            originaltarget.forEach((item, length) => {
+                let num = item.number
+                let eng = item.eng
+                // let jpn = item.jpn;
+                if (selectedNumsinRange === num) {
+
+                }
+
+
+                if (num < 10) {
                     let createTr = document.createElement('tr')
                     createTr.setAttribute("class", "row")
+
                     let createTdNum = document.createElement('td')
-                    let createTdNumtextnode = document.createTextNode(index.num)
+                    let createTdNumtextnode = document.createTextNode(length + 1)
                     createTdNum.appendChild(createTdNumtextnode)
+
+                    let createTdIndex = document.createElement('td')
+                    let createTdIndextextnode = document.createTextNode(num)
+                    createTdIndex.appendChild(createTdIndextextnode)
+
                     let createTdEng = document.createElement('td')
-                    let createTdEngtextnode = document.createTextNode(index.eng)
+                    let createTdEngtextnode = document.createTextNode(eng)
                     createTdEng.appendChild(createTdEngtextnode)
-                    let createTdJpn = document.createElement('td')
-                    let createTdJpntextnode = document.createTextNode(index.jpn)
-                    createTdJpn.appendChild(createTdJpntextnode)
+
 
                     let table = document.getElementById('table')
                     table.appendChild(createTr)
-                    createTr.appendChild(createTd)
-                    createTd.appendChild(createTdtextnode)
+                    createTr.appendChild(createTdNum)
+                    createTr.appendChild(createTdIndex)
+                    createTr.appendChild(createTdEng)
                 }
-
             });
-
-
         }
     })
+
+let minInRange = 1
+let maxInRange = 40
+let amountsInRange = 15
+
+
+function getRandomNums(min, max, length) {
+    console.log(length)
+    let selectedNumsinRange = []
+    for (let l = 0; l < length; l++) {
+        let randomNums = Math.random() * max - min + min;
+        selectedNumsinRange.push(Math.round(randomNums))
+
+    }
+
+    return makeATest(selectedNumsinRange)
+}
