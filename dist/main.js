@@ -26,6 +26,7 @@ fetch("./target.json")
             // amountsInRange
 
 
+
             originaltarget.forEach((item, length) => {
                 let num = item.number
                 let eng = item.eng
@@ -60,6 +61,8 @@ fetch("./target.json")
                 }
             });
         }
+
+
     })
 
 let minInRange = 1
