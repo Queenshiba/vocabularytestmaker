@@ -1,5 +1,10 @@
 *{
     margin: 0;
     padding: 0;
-    background-color: antiquewhite;
+    /* background-color: antiquewhite; */
+}
+
+#rangeWrap {
+    display: flex;
+    flex-direction: row;
 }
