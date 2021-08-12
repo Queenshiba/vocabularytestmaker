@@ -6,7 +6,7 @@ fetch("./target.json")
     })
     .then(function (data) {
         const originaltarget = data.target1900
-        console.log(data.target1900)
+        // console.log(data.target1900)
 
 
         // originaltarget.forEach(index => {

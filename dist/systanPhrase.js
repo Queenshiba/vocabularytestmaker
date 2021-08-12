@@ -6,5 +6,5 @@ fetch("./systanPhrase.json")
     })
     .then(function (data) {
         const originalsystanPhrase = data.systanPhrase
-        console.log(originalsystanPhrase)
+        // console.log(originalsystanPhrase)
     })
