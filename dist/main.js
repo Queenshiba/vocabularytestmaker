@@ -20,10 +20,9 @@ function setRangeLength() {
     rangeWrap.appendChild(linePtagTextnode)
     rangeWrap.appendChild(maxRangeInput)
 
-    let textbooks = document.getElementById('textbooks').value
-    let lengthInput = document.getElementById('lengthInput').value
-    console.log(lengthInput)
 
+
+    // console.log(lengthInput)
 
 }
 
@@ -33,16 +32,18 @@ let maxInRange = 40
 let amountsInRange = 15
 
 
+
 function getRandomNums(min, max, length) {
-    console.log(length)
+    // console.log(length)
     let selectedNumsinRange = []
     for (let l = 0; l < length; l++) {
-        let randomNums = Math.random() * max - min + min;
+        // let randomNums = Math.random() * max - min + min;
+       let randomNums =  Math.floor(Math.random() * (max - min + 1) + min)
         selectedNumsinRange.push(Math.round(randomNums))
 
     }
-
-    return makeATest(selectedNumsinRange)
+    // console.log(selectedNumsinRange)
+    return selectedNumsinRange
 }
 
 
@@ -56,13 +57,18 @@ let makeATestBtn = document.getElementById('makeATestBtn')
 makeATestBtn.addEventListener("click", () => makeATest())
 
 function makeATest() {
+    let textbooks = document.getElementById('textbooks').value
+    let minRangeInputValue = document.getElementById('minRangeInput').value
+    let maxRangeInputValue = document.getElementById('maxRangeInput').value
+    let lengthInput = document.getElementById('lengthInput').value
+
     if (textbooks === "Target1900") {
         console.log('yes')
-        getRandomNums(min, max, length)
 
-
+        console.log(getRandomNums(minRangeInputValue, maxRangeInputValue, lengthInput))
     } else if (textbooks === "systanPhrase") {
         console.log('no')
-        getRandomNums(min, max, length)
+
+        console.log(getRandomNums(minRangeInputValue, maxRangeInputValue, lengthInput))
     }
 }
