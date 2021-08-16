@@ -16,9 +16,9 @@ fetch("./target.json")
         //     // console.log(index)
         // });
 
+        makeATestBtn.addEventListener("click", () =>  makeATarget1900Test())
 
-
-    //     function makeATest(selectedNumsinRange) {
+        function makeATarget1900Test(selectedNumsinRange) {
 
     //         // minInRange
     //         // maxInRange
@@ -59,7 +59,7 @@ fetch("./target.json")
     //                 createTr.appendChild(createTdEng)
     //             }
     //         });
-    //     }
+        }
 
 
     })
