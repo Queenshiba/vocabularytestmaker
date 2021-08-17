@@ -54,7 +54,7 @@ function getRandomNums(min, max, length) {
 
 // make a test btn
 let makeATestBtn = document.getElementById('makeATestBtn')
-// makeATestBtn.addEventListener("click", () => setRange())
+makeATestBtn.addEventListener("click", () => setRange())
 
 function setRange() {
     let textbooks = document.getElementById('textbooks').value
@@ -67,11 +67,12 @@ function setRange() {
         console.log('yes')
         
         console.log(getRandomNums(minRangeInputValue, maxRangeInputValue, lengthInput))
-        return getRandomNums(minRangeInputValue, maxRangeInputValue, lengthInput)
+        return makeATarget1900Test(getRandomNums(minRangeInputValue, maxRangeInputValue, lengthInput))
     } else if (textbooks === "systanPhrase") {
         console.log('no')
 
         console.log(getRandomNums(minRangeInputValue, maxRangeInputValue, lengthInput))
         return getRandomNums(minRangeInputValue, maxRangeInputValue, lengthInput)
     }
+
 }
