@@ -38,7 +38,7 @@ function getRandomNums(min, max, length) {
     let selectedNumsinRange = []
     for (let l = 0; l < length; l++) {
         // let randomNums = Math.random() * max - min + min;
-       let randomNums =  Math.floor(Math.random() * (max - min + 1) + min)
+        let randomNums = Math.floor(Math.random() * (max - min + 1) + min)
         selectedNumsinRange.push(Math.round(randomNums))
 
     }
@@ -62,7 +62,7 @@ function setRange() {
 
     if (textbooks === "Target1900") {
         console.log('yes')
-        
+
         console.log(getRandomNums(minRangeInputValue, maxRangeInputValue, lengthInput))
         return getRandomNums(minRangeInputValue, maxRangeInputValue, lengthInput)
     } else if (textbooks === "systanPhrase") {
@@ -72,4 +72,39 @@ function setRange() {
         return getRandomNums(minRangeInputValue, maxRangeInputValue, lengthInput)
     }
 
+    // makeATarget1900Test()
+
 }
+
+
+function createTags(arr) {
+
+    let array = [2, 67, 82, 14, 89, 64, 24, 39, 60, 91]
+    array.forEach(num => {
+        let createTr = document.createElement('tr')
+        createTr.setAttribute("class", "row")
+
+        let createTdNum = document.createElement('td')
+        let createTdNumtextnode = document.createTextNode(length + 1)
+        createTdNum.appendChild(createTdNumtextnode)
+
+        let createTdIndex = document.createElement('td')
+        let createTdIndextextnode = document.createTextNode(num)
+        createTdIndex.appendChild(createTdIndextextnode)
+
+        let createTdEng = document.createElement('td')
+        let createTdEngtextnode = document.createTextNode(eng)
+        createTdEng.appendChild(createTdEngtextnode)
+
+
+        let table = document.getElementById('table')
+        table.appendChild(createTr)
+        createTr.appendChild(createTdNum)
+        createTr.appendChild(createTdIndex)
+        createTr.appendChild(createTdEng)
+    })
+
+    };
+// if (num < 10) {
+
+// }
