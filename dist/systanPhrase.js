@@ -8,6 +8,8 @@ fetch("./systanPhrase.json")
         const originalsystanPhrase = data.systanPhrase
         // console.log(originalsystanPhrase)
 
+        function makeASystanPhraseTest(){
 
+        }
         
     })

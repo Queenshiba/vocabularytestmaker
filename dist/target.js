@@ -29,40 +29,40 @@ fetch("./target.json")
 
             //         setRangeLength(selectedNumsinRange)
 
-            originaltarget.forEach((item, length) => {
-                let num = item.number
-                let eng = item.eng
-                let jpn = item.jpn;
+            // originaltarget.forEach((item, length) => {
+            //     let num = item.number
+            //     let eng = item.eng
+            //     let jpn = item.jpn;
             
             //     if (selectedNumsinRange === num) {
 
             //     }
 
 
-            if (num < 10) {
-                let createTr = document.createElement('tr')
-                createTr.setAttribute("class", "row")
+            // if (num < 10) {
+            //     let createTr = document.createElement('tr')
+            //     createTr.setAttribute("class", "row")
 
-                let createTdNum = document.createElement('td')
-                let createTdNumtextnode = document.createTextNode(length + 1)
-                createTdNum.appendChild(createTdNumtextnode)
+            //     let createTdNum = document.createElement('td')
+            //     let createTdNumtextnode = document.createTextNode(length + 1)
+            //     createTdNum.appendChild(createTdNumtextnode)
 
-                let createTdIndex = document.createElement('td')
-                let createTdIndextextnode = document.createTextNode(num)
-                createTdIndex.appendChild(createTdIndextextnode)
+            //     let createTdIndex = document.createElement('td')
+            //     let createTdIndextextnode = document.createTextNode(num)
+            //     createTdIndex.appendChild(createTdIndextextnode)
 
-                let createTdEng = document.createElement('td')
-                let createTdEngtextnode = document.createTextNode(eng)
-                createTdEng.appendChild(createTdEngtextnode)
+            //     let createTdEng = document.createElement('td')
+            //     let createTdEngtextnode = document.createTextNode(eng)
+            //     createTdEng.appendChild(createTdEngtextnode)
 
 
-                let table = document.getElementById('table')
-                table.appendChild(createTr)
-                createTr.appendChild(createTdNum)
-                createTr.appendChild(createTdIndex)
-                createTr.appendChild(createTdEng)
-            }
-            });
+            //     let table = document.getElementById('table')
+            //     table.appendChild(createTr)
+            //     createTr.appendChild(createTdNum)
+            //     createTr.appendChild(createTdIndex)
+            //     createTr.appendChild(createTdEng)
+            // }
+            // });
         }
 
 
