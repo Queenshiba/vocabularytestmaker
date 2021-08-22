@@ -21,7 +21,7 @@ fetch("./target.json")
 
         function makeATarget1900Test(originaltarget) {
 
-
+alert(originaltarget)
 
             //         // minInRange
             //         // maxInRange
@@ -33,7 +33,7 @@ fetch("./target.json")
             //     let num = item.number
             //     let eng = item.eng
             //     let jpn = item.jpn;
-            
+
             //     if (selectedNumsinRange === num) {
 
             //     }
@@ -65,7 +65,7 @@ fetch("./target.json")
             // });
         }
 
-
+exports.makeATarget1900Test = makeATarget1900Test;
     })
 
 

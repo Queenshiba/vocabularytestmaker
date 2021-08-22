@@ -55,8 +55,11 @@ makeATestBtn.addEventListener("click", () => selectTextbook())
 
 
 function selectTextbook() {
+let targetjs = require('./target')
+let test = targetjs.makeATarget1900Test('test')
+
     if (textbooks === "Target1900") {
-        console.log('yes')
+        console.log(test)
 
         // console.log(getRandomNums(minRangeInputValue, maxRangeInputValue, lengthInput))
         return makeATarget1900Test()
