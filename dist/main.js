@@ -1,3 +1,5 @@
+
+
 let setLengthBtn = document.getElementById('setLengthBtn')
 setLengthBtn.addEventListener('click', () => setRangeLength())
 
@@ -49,18 +51,18 @@ function getRandomNums(min, max, length) {
 
 
 
+
 // make a test btn
 let makeATestBtn = document.getElementById('makeATestBtn')
 makeATestBtn.addEventListener("click", () => selectTextbook())
 
 
 function selectTextbook() {
-let targetjs = require('./target')
-let test = targetjs.makeATarget1900Test('test')
+
 
     if (textbooks === "Target1900") {
         console.log(test)
-
+        import { makeATarget1900Test } from 'target.js'
         // console.log(getRandomNums(minRangeInputValue, maxRangeInputValue, lengthInput))
         return makeATarget1900Test()
     } else if (textbooks === "systanPhrase") {
@@ -75,43 +77,11 @@ return makeASystanPhraseTest()
 //     let minRangeInputValue = document.getElementById('minRangeInput').value
 //     let maxRangeInputValue = document.getElementById('maxRangeInput').value
 //     let lengthInput = document.getElementById('lengthInput').value
-
-
 //    
-
 //     // makeATarget1900Test()
-
 // }
 
 
-// function createTags(arr) {
 
-//     let array = [2, 67, 82, 14, 89, 64, 24, 39, 60, 91]
-//     array.forEach(num => {
-//         let createTr = document.createElement('tr')
-//         createTr.setAttribute("class", "row")
-
-//         let createTdNum = document.createElement('td')
-//         let createTdNumtextnode = document.createTextNode(length + 1)
-//         createTdNum.appendChild(createTdNumtextnode)
-
-//         let createTdIndex = document.createElement('td')
-//         let createTdIndextextnode = document.createTextNode(num)
-//         createTdIndex.appendChild(createTdIndextextnode)
-
-//         let createTdEng = document.createElement('td')
-//         let createTdEngtextnode = document.createTextNode(eng)
-//         createTdEng.appendChild(createTdEngtextnode)
-
-
-//         let table = document.getElementById('table')
-//         table.appendChild(createTr)
-//         createTr.appendChild(createTdNum)
-//         createTr.appendChild(createTdIndex)
-//         createTr.appendChild(createTdEng)
-//     })
 
 //     };
-// if (num < 10) {
-
-// }

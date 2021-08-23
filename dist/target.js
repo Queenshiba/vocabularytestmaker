@@ -19,9 +19,9 @@ fetch("./target.json")
         // makeATestBtn.addEventListener("click", () => makeATarget1900Test())
         // console.log(originaltarget)
 
-        function makeATarget1900Test(originaltarget) {
+        export function makeATarget1900Test(originaltarget) {
 
-alert(originaltarget)
+            alert(originaltarget)
 
             //         // minInRange
             //         // maxInRange
@@ -65,7 +65,7 @@ alert(originaltarget)
             // });
         }
 
-exports.makeATarget1900Test = makeATarget1900Test;
+
     })
 
 
