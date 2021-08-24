@@ -19,9 +19,9 @@ fetch("./target.json")
         // makeATestBtn.addEventListener("click", () => makeATarget1900Test())
         // console.log(originaltarget)
 
-        export function makeATarget1900Test(originaltarget) {
+        function makeATarget1900Test(originaltarget) {
 
-            alert(originaltarget)
+            alert("makeATarget1900Test")
 
             //         // minInRange
             //         // maxInRange

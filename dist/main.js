@@ -24,9 +24,9 @@ function setRangeLength() {
 
 
 
-    // console.log(lengthInput)
-
 }
+
+
 
 // make numbers random
 let minInRange = 1
@@ -54,22 +54,21 @@ function getRandomNums(min, max, length) {
 
 // make a test btn
 let makeATestBtn = document.getElementById('makeATestBtn')
-makeATestBtn.addEventListener("click", () => selectTextbook())
+makeATestBtn.addEventListener("click", () => makeATest())
 
 
-function selectTextbook() {
+function makeATest() {
 
 
+    let textbooks = document.getElementById('textbooks').value
     if (textbooks === "Target1900") {
-        console.log(test)
-        import { makeATarget1900Test } from 'target.js'
-        // console.log(getRandomNums(minRangeInputValue, maxRangeInputValue, lengthInput))
+        alert("makeATestBtnTarget1900")
+        console.log("makeATestBtnTarget1900")
         return makeATarget1900Test()
     } else if (textbooks === "systanPhrase") {
+        alert("makeATestBtnsystanPhrase")
         console.log('no')
 
-        // console.log(getRandomNums(minRangeInputValue, maxRangeInputValue, lengthInput))
-return makeASystanPhraseTest()
     }
 }
 // function setRange() {
