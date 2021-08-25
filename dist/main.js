@@ -1,4 +1,4 @@
-
+import { makeATarget1900Test } from './target'
 
 let setLengthBtn = document.getElementById('setLengthBtn')
 setLengthBtn.addEventListener('click', () => setRangeLength())
@@ -62,9 +62,9 @@ function makeATest() {
 
     let textbooks = document.getElementById('textbooks').value
     if (textbooks === "Target1900") {
-        alert("makeATestBtnTarget1900")
+        // alert("makeATestBtnTarget1900")
         console.log("makeATestBtnTarget1900")
-        return makeATarget1900Test()
+        return makeATarget1900Test('passing')
     } else if (textbooks === "systanPhrase") {
         alert("makeATestBtnsystanPhrase")
         console.log('no')

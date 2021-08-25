@@ -19,9 +19,9 @@ fetch("./target.json")
         // makeATestBtn.addEventListener("click", () => makeATarget1900Test())
         // console.log(originaltarget)
 
-        function makeATarget1900Test(originaltarget) {
+        export function makeATarget1900Test(originaltarget) {
 
-            alert("makeATarget1900Test")
+            alert(originaltarget)
 
             //         // minInRange
             //         // maxInRange
@@ -33,10 +33,6 @@ fetch("./target.json")
             //     let num = item.number
             //     let eng = item.eng
             //     let jpn = item.jpn;
-
-            //     if (selectedNumsinRange === num) {
-
-            //     }
 
 
             // if (num < 10) {
