@@ -65,4 +65,6 @@ fetch("./target.json")
     })
 
 
-
+    export function testfunction (){
+        alert('test')
+    }

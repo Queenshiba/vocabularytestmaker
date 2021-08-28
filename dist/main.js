@@ -1,9 +1,10 @@
-import { makeATarget1900Test } from './target'
+
 
 let setLengthBtn = document.getElementById('setLengthBtn')
 setLengthBtn.addEventListener('click', () => setRangeLength())
 
-
+import { testfunction } from './target'
+testfunction()
 
 function setRangeLength() {
     let rangeWrap = document.getElementById('rangeWrap')
