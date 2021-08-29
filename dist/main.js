@@ -3,8 +3,7 @@
 let setLengthBtn = document.getElementById('setLengthBtn')
 setLengthBtn.addEventListener('click', () => setRangeLength())
 
-import { testfunction } from './target'
-testfunction()
+
 
 function setRangeLength() {
     let rangeWrap = document.getElementById('rangeWrap')
@@ -23,11 +22,9 @@ function setRangeLength() {
     rangeWrap.appendChild(linePtagTextnode)
     rangeWrap.appendChild(maxRangeInput)
 
-
-
 }
 
-
+// testfunction()
 
 // make numbers random
 let minInRange = 1
