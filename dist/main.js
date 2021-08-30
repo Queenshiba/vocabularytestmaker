@@ -62,10 +62,10 @@ function makeATest() {
     if (textbooks === "Target1900") {
         // alert("makeATestBtnTarget1900")
         console.log("makeATestBtnTarget1900")
-        return makeATarget1900Test('passing')
+        return makeATarget1900Test()
     } else if (textbooks === "systanPhrase") {
         alert("makeATestBtnsystanPhrase")
-        console.log('no')
+        return makeASystanPhraseTest()
 
     }
 }

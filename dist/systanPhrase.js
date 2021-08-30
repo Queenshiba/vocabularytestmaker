@@ -13,3 +13,7 @@ fetch("./systanPhrase.json")
         }
         
     })
+
+    function makeASystanPhraseTest(){
+alert('makeASystanPhraseTest')
+    }

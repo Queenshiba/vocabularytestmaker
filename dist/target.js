@@ -64,6 +64,6 @@ fetch("./target.json")
 
     })
 
- function testfunction (){
+    function makeATarget1900Test(originaltarget) {
         alert('test')
     }
