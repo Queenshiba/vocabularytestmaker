@@ -10,6 +10,7 @@ function setRangeLength() {
     let minRangeInput = document.createElement('input')
     minRangeInput.setAttribute("type", "number")
     minRangeInput.setAttribute("id", "minRangeInput")
+    minRangeInput.setAttribute("min", "1")
 
     let linePtag = document.createElement('p')
     let linePtagTextnode = document.createTextNode('～')
