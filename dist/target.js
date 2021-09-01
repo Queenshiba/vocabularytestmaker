@@ -1,27 +1,30 @@
 "use strict";
 
-fetch("./target.json")
-    .then(function (resp) {
-        return resp.json();
-    })
-    .then(function (data) {
-        const originaltarget = data.target1900
-        // console.log(data.target1900)
+let originaltarget;
+const getTargetJson = async() => {
+    let originaltarget;
+    await fetch("./target.json")
+        .then(function(resp) {
+            return resp.json();
+        })
+        .then(function(data) {
+            originaltarget = data.target1900
+                // console.log(data.target1900)
 
 
-        // originaltarget.forEach(index => {
-        //     let num = index.number
-        //     let eng = index.eng
-        //     let jpn = index.jpn;
-        //     // console.log(index[0])
-        // });
+            // originaltarget.forEach(index => {
+            //     let num = index.number
+            //     let eng = index.eng
+            //     let jpn = index.jpn;
+            //     // console.log(index[0])
+            // });
 
-        // makeATestBtn.addEventListener("click", () => makeATarget1900Test())
-        // console.log(originaltarget)
+            // makeATestBtn.addEventListener("click", () => makeATarget1900Test())
+            // console.log(originaltarget)
 
-       function makeATarget1900Test(originaltarget) {
+            //   function makeATarget1900Test(originaltarget) {
 
-            alert(originaltarget)
+            //    alert(originaltarget)
 
             //         // minInRange
             //         // maxInRange
@@ -59,11 +62,15 @@ fetch("./target.json")
             //     createTr.appendChild(createTdEng)
             // }
             // });
-        }
+            // }
 
 
-    })
+        })
+    console.log(originaltarget)
 
-    function makeATarget1900Test(originaltarget) {
-        alert('test')
+    function makeATarget1900Test() {
+        alert(originaltarget)
+        console.log(originaltarget)
     }
+
+}
