@@ -27,3 +27,13 @@
     width: 60px;
     height: 30px;
 }
+#makeATestBtn {
+    width: 100px;
+    height: 30px;
+    margin-left: 50%;
+}
+
+
+#table {
+    background-color: aquamarine;
+}
