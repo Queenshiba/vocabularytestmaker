@@ -1,6 +1,6 @@
 "use strict";
 
-// let makeATarget1900Test;
+let makeATarget1900Test;
 const getTargetJson = async () => {
     await
         fetch("./target.json")
@@ -19,8 +19,8 @@ const getTargetJson = async () => {
                 //     let jpn = index.jpn;
                 //     // console.log(index[0])
                 // });
-
-                // makeATestBtn.addEventListener("click", () => makeATarget1900Test())
+                let makeATestBtn = document.getElementById('makeATestBtn')
+                makeATestBtn.addEventListener("click", () => makeATarget1900Test())
                 // console.log(originaltarget)
 
                 //   function makeATarget1900Test(originaltarget) {
@@ -33,52 +33,54 @@ const getTargetJson = async () => {
 
                 //         setRangeLength(selectedNumsinRange)
 
-                // originaltarget.forEach((item, length) => {
-                //     let num = item.number
-                //     let eng = item.eng
-                //     let jpn = item.jpn;
 
-
-                // if (num < 10) {
-                //     let createTr = document.createElement('tr')
-                //     createTr.setAttribute("class", "row")
-
-                //     let createTdNum = document.createElement('td')
-                //     let createTdNumtextnode = document.createTextNode(length + 1)
-                //     createTdNum.appendChild(createTdNumtextnode)
-
-                //     let createTdIndex = document.createElement('td')
-                //     let createTdIndextextnode = document.createTextNode(num)
-                //     createTdIndex.appendChild(createTdIndextextnode)
-
-                //     let createTdEng = document.createElement('td')
-                //     let createTdEngtextnode = document.createTextNode(eng)
-                //     createTdEng.appendChild(createTdEngtextnode)
-
-
-                //     let table = document.getElementById('table')
-                //     table.appendChild(createTr)
-                //     createTr.appendChild(createTdNum)
-                //     createTr.appendChild(createTdIndex)
-                //     createTr.appendChild(createTdEng)
-                // }
-                // });
-                console.log(originaltarget)
+                // console.log(originaltarget)
 
                 function makeATarget1900Test() {
                     // alert(originaltarget)
-                    console.log("oh ya")
+                    console.log(originaltarget)
+                    originaltarget.forEach((item, length) => {
+                        let num = item.number
+                        let eng = item.eng
+                        let jpn = item.jpn;
+
+
+                        if (num < 10) {
+                            let createTr = document.createElement('tr')
+                            createTr.setAttribute("class", "row")
+
+                            let createTdNum = document.createElement('td')
+                            let createTdNumtextnode = document.createTextNode(length + 1)
+                            createTdNum.appendChild(createTdNumtextnode)
+
+                            let createTdIndex = document.createElement('td')
+                            let createTdIndextextnode = document.createTextNode(num)
+                            createTdIndex.appendChild(createTdIndextextnode)
+
+                            let createTdEng = document.createElement('td')
+                            let createTdEngtextnode = document.createTextNode(eng)
+                            createTdEng.appendChild(createTdEngtextnode)
+
+
+                            let table = document.getElementById('table')
+                            table.appendChild(createTr)
+                            createTr.appendChild(createTdNum)
+                            createTr.appendChild(createTdIndex)
+                            createTr.appendChild(createTdEng)
+                        }
+                    });
+
 
                 }
                 return makeATarget1900Test()
-                
+
             })
 
-            // this.makeATarget1900Test = makeATarget1900Test;
+
+    this.makeATarget1900Test = makeATarget1900Test;
 
 
-    }
+}
 
-let aaa = getTargetJson()
-aaa.makeATarget1900Test()
+
     // this.makeATarget1900Test = makeATarget1900Test;

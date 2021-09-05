@@ -52,24 +52,24 @@ function getRandomNums(min, max, length) {
 
 
 // make a test btn
-let makeATestBtn = document.getElementById('makeATestBtn')
-makeATestBtn.addEventListener("click", () => makeATest())
+// let makeATestBtn = document.getElementById('makeATestBtn')
+// makeATestBtn.addEventListener("click", () => makeATest())
 
 
-function makeATest() {
+// function makeATest() {
 
 
-    let textbooks = document.getElementById('textbooks').value
-    if (textbooks === "Target1900") {
-        // alert("makeATestBtnTarget1900")
-        console.log("makeATestBtnTarget1900")
-        return makeATarget1900Test()
-    } else if (textbooks === "systanPhrase") {
-        alert("makeATestBtnsystanPhrase")
-        return makeASystanPhraseTest()
+//     let textbooks = document.getElementById('textbooks').value
+//     if (textbooks === "Target1900") {
+//         // alert("makeATestBtnTarget1900")
+//         console.log("makeATestBtnTarget1900")
+//         return makeATarget1900Test()
+//     } else if (textbooks === "systanPhrase") {
+//         alert("makeATestBtnsystanPhrase")
+//         return makeASystanPhraseTest()
 
-    }
-}
+//     }
+// }
 // function setRange() {
 //     let textbooks = document.getElementById('textbooks').value
 //     let minRangeInputValue = document.getElementById('minRangeInput').value
