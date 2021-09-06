@@ -23,18 +23,6 @@ const getTargetJson = async () => {
                 makeATestBtn.addEventListener("click", () => makeATarget1900Test())
                 // console.log(originaltarget)
 
-                //   function makeATarget1900Test(originaltarget) {
-
-                //    alert(originaltarget)
-
-                //         // minInRange
-                //         // maxInRange
-                //         // amountsInRange
-
-                //         setRangeLength(selectedNumsinRange)
-
-
-                // console.log(originaltarget)
 
                 function makeATarget1900Test() {
                     // alert(originaltarget)
@@ -81,6 +69,6 @@ const getTargetJson = async () => {
 
 
 }
-
+console.log(getTargetJson(data))
 
     // this.makeATarget1900Test = makeATarget1900Test;

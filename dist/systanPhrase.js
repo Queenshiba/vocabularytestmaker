@@ -1,5 +1,6 @@
 "use strict";
-
+const getSystanPhraseJson = async () => {
+    await
 fetch("./systanPhrase.json")
     .then(function (resp) {
         return resp.json();
@@ -13,7 +14,7 @@ fetch("./systanPhrase.json")
         }
         
     })
-
+}
     function makeASystanPhraseTest(){
 alert('makeASystanPhraseTest')
     }
